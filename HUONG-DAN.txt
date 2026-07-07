@@ -1,0 +1,18 @@
+HUONG DAN UP GITHUB PAGES VA CAI NHU APP
+
+1. Giai nen file ZIP nay.
+2. Keo TOAN BO noi dung ben trong thu muc len GitHub:
+   - index.html
+   - manifest.webmanifest
+   - sw.js
+   - offline.html
+   - README.md
+   - HUONG-DAN.txt
+   - assets/
+   - data/
+3. Vao Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Doi GitHub tao link web.
+5. Tren iPhone: mo link bang Safari > Chia se > Them vao Man hinh chinh.
+6. Tren Android: mo Chrome > Menu 3 cham > Add to Home screen / Install app.
+
+Luu y: PWA can chay qua link HTTPS cua GitHub Pages, khong cai nhu app khi mo truc tiep file index.html tren may.

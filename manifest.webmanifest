@@ -1,0 +1,26 @@
+{
+  "name": "Hệ thống ôn luyện Huấn luyện viên Cấp I",
+  "short_name": "HLV Cấp I",
+  "description": "Hệ thống ôn luyện Huấn luyện viên Cấp I - Hội đồng Huấn luyện Kỹ năng Đoàn - Hội thành phố Đà Nẵng",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#061a44",
+  "theme_color": "#0b8bd3",
+  "lang": "vi-VN",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,1076 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Hội LHTN Việt Nam có bao nhiêu chức năng?",
+    "options": [
+      "1 chức năng",
+      "2 chức năng",
+      "3 chức năng",
+      "4 chức năng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Hội LHTN Việt Nam có bao nhiêu nhiệm vụ?",
+    "options": [
+      "2 nhiệm vụ",
+      "3 nhiệm vụ",
+      "4 nhiệm vụ",
+      "5 nhiệm vụ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Từ khi thành lập đến nay, Hội Liên hiệp thanh niên Việt Nam trải qua mấy kỳ đại hội?",
+    "options": [
+      "7 kỳ đại hội.",
+      "8 kỳ đại hội.",
+      "9 kỳ đại hội.",
+      "10 kỳ đại hội."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Điều kiện để được công nhận là thành viên hội LHTN Việt Nam là:",
+    "options": [
+      "Công dân Việt Nam từ 15 -35 tuổi tán thành điều lệ Hội. tự nguyện gia nhập Hội và tự nguyện sinh hoạt trong một tổ chức của Hội hoặc của Đoàn TN Cộng sản Hồ Chí Minh thì được xét công nhận là hội viên hội LHTN Việt Nam.",
+      "Công dân Việt Nam từ 15 -30 tuổi tán thành điều lệ Hội, tự nguyện gia nhập Hội thì được xét công nhận là hội viên hội LHTN Việt Nam.",
+      "Những người quá 35 tuổi có nguyện vọng và ảnh hưởng tích cực đến hoạt động Hội thì được tham gia hoạt động trong tổ chức Hội.",
+      "Câu a & c đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Bài ca chính thức của Hội LHTN Việt Nam là bài:",
+    "options": [
+      "Thanh niên làm theo lời Bác",
+      "Tuổi trẻ thế hệ Bác Hồ",
+      "Lên Đàng (Lời 1).",
+      "Khát vọng tuổi trẻ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "orig": 6,
+    "question": "Thành viên tập thể có vai trò nòng cốt trong tổ chức và hoạt động của Hội là:",
+    "options": [
+      "Hội Sinh Viên Việt Nam.",
+      "Đoàn TNCS Hồ Chí Minh.",
+      "Các đội hình thanh niên xung phong, các tổ chức thanh niên theo ngành nghề, sở thích; các tổ chức thanh niên Việt Nam ở nước ngoài tuân thủ Hiến pháp, pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam, nếu tán thành Điều lệ Hội thì được Đòan chủ tịch Ủy ban TW Hội xét, công nhận.",
+      "Cả 3 đều đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "orig": 7,
+    "question": "Hội LHTN Việt Nam tổ chức và hoạt động theo nguyên tắc:",
+    "options": [
+      "Tự nguyện, tự quản; hiệp thương dân chủ",
+      "Tự nguyện tự quản; hiệp thương dân chủ, chịu sự lãnh đạo của Đảng",
+      "Đoàn kết tôn trọng lẫn nhau; hợp tác bình đẳng, phối hợp và thống nhất hành động.",
+      "Câu a và c đúng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "orig": 8,
+    "question": "Một trong những nhiệm vụ của Hội LHTN Việt Nam là:",
+    "options": [
+      "Quản lý hành chính nhà nước về thanh niên",
+      "Khuyến khích và tổ chức hội viên, thanh niên tham gia sự nghiệp công nghiệp hóa, hiện đại hóa đất nước",
+      "Cấp giấy phép hoạt động cho thanh niên",
+      "Quản lý doanh nghiệp thanh niên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "orig": 9,
+    "question": "Điều lệ Hội gồm có:",
+    "options": [
+      "8 chương 28 điều.",
+      "7 chương 27 điều.",
+      "6 chương 27 điều.",
+      "8 chương 27 điều."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "orig": 10,
+    "question": "Hội LHTN Việt Nam là :",
+    "options": [
+      "Tổ chức chính trị – xã hội của thanh niên Việt Nam",
+      "Tổ chức xã hội rộng rãi của thanh niên và các tổ chức thanh niên Việt Nam yêu nước theo tư tưởng Hồ Chí Minh và lý tưởng của Đảng cộng sản Việt Nam.",
+      "Tổ chức xã hội nghề nghiệp của thanh niên Việt Nam",
+      "Tổ chức tập hợp những người cùng lứa tuổi, cùng sở thích."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "orig": 11,
+    "question": "Bài Hội ca “ Lên đàng” - nhạc và lời do ai sáng tác?",
+    "options": [
+      "Nhạc : Huỳnh Văn Tiểng",
+      "Nhạc : Lưu Hữu Phước Lời : Lưu Hữu Phước Lời : Huỳnh Văn Tiểng Lưu Hữu Phước",
+      "Nhạc và lời : Lưu Hữu Phước",
+      "Nhạc : Nam Cao Lời : Huỳnh Văn Tiểng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "orig": 12,
+    "question": "Bài “ Lên Đàng” được hát trong dịp :",
+    "options": [
+      "Lúc chơi vòng tròn , sinh hoạt tập thể",
+      "Nghi lễ của Hội",
+      "Lửa trại",
+      "Cả 3 câu trên đều đúng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "orig": 13,
+    "question": "Hội LHTN Việt Nam là thành viên của",
+    "options": [
+      "Mặt trận Tổ quốc Việt Nam",
+      "Đoàn TNCS Hồ Chí Minh",
+      "Không là thành viên của tổ chức nào cả",
+      "Cả 3 câu trên đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "orig": 14,
+    "question": "Khẩu hiệu của Hội LHTN Việt Nam là:",
+    "options": [
+      "“Vì tổ quốc XHCN, vì lý tưởng của Bác Hồ vĩ đại” – Đáp : “sẵn sàng”",
+      "“Vì tổ quốc Việt Nam XHCN giàu mạnh và văn minh – Thanh niên” – Đáp:“Tiến”",
+      "“Vì tổ quốc Việt Nam văn minh và giàu mạnh – Thanh niên ” – Đáp : “Tiến”",
+      "“Vì tổ quốc Việt Nam giàu mạnh và văn minh – Thanh niên ” – Đáp : “Tiến”"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "orig": 15,
+    "question": "Ý nghĩa màu xanh trên biểu trưng của Hội là:",
+    "options": [
+      "Thể hiện sự hoà bình.",
+      "Thể hiện sự thanh bình",
+      "Thể hiện sự hy vọng.",
+      "Cả 3 câu trên đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "orig": 16,
+    "question": "Ý nghĩa hình tròn của biểu trưng Hội là:",
+    "options": [
+      "Thể hiện ước mơ nối vòng tay lớn.",
+      "Thể hiện ước mơ giao lưu, kết bạn.",
+      "Thể hiện ước mơ tiến đến sự hoàn thiện, đoàn kết.",
+      "Thể hiện ước mơ vươn đến sự hoàn thiện, đoàn kết, thân ái."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 17,
+    "orig": 17,
+    "question": "Chào Hội có mấy cách:",
+    "options": [
+      "2 cách: chào trong nghi lễ, chào trong đời thường",
+      "1 cách: chào trong nghi lễ",
+      "2 cách: chào trong nghi lễ, chào trong sinh hoạt.",
+      "3 cách: chào trong nghi lễ, chào trong sinh hoạt, chào khi gặp nhau bình thường."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "orig": 18,
+    "question": "Hội LHTN Việt Nam được tổ chức ở:",
+    "options": [
+      "Trung ương: tỉnh, thành phố trực thuộc trung ương và tương đương; huyện, quận, thị xã, thành phố trực thuộc tỉnh và tương đương; xã, thị trấn và tương đương.",
+      "Trung ương: tỉnh, thành phố, huyện, quận, xã, phường, thị trấn.",
+      "Trung ương: tỉnh, thành phố trực thuộc trung ương và tương đương; huyện, quận, thị xã, thành phố trực thuộc tỉnh và tương đương;",
+      "Trung ương; Tỉnh, thành phố trực thuộc trung ương và tương đương; Huyện, quận, thị xã, thành phố trực thuộc tỉnh và tương đương; Xã, thị trấn và tương đương; khu phố, ấp và tương đương."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "orig": 19,
+    "question": "Ý nghĩa cách chào sinh hoạt:",
+    "options": [
+      "Thể hiện sự chúc mừng, quan tâm lẫn nhau.",
+      "Thể hiện sự đoàn kếr thân ái.",
+      "Thể hiện sự chúc mừng, thăm hỏi và đến với nhau.",
+      "Cả 3 câu trên đều sai."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "orig": 20,
+    "question": "Hội LHTN Việt Nam có mục đích:",
+    "options": [
+      "Đoàn kết các tầng lớp thanh niên Việt Nam cùng phấn đấu cho sự nghiệp công nghiệp hoá hiện đại hoá đất nước, bảo vệ vững chắc Tổ quốc Việt Nam XHCN",
+      "Đoàn kết tập hợp rộng rãi các tầng lớp thanh niên Việt Nam trong và ngoài nước cùng phấn đấu cho sự nghiệp Công nghiệp hóa, Hiện đại hoá đất nước, bảo vệ vững chắc Tổ quốc Việt Nam XHCN.",
+      "Đoàn kết, tập hợp các tầng lớp thanh niên Việt Nam cùng phấn đấu cho sự nghiệp xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam XHCN",
+      "Đoàn kết, tập hợp rộng rãi các tầng lớp thanh niên Việt Nam trong và ngoài nước cùng phấn đấu cho sự nghiệp xây dựng xã hội giàu đẹp, công bằng và văn minh."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "orig": 21,
+    "question": "Hội viên có bao nhiêu quyền?",
+    "options": [
+      "4 quyền",
+      "5 quyền",
+      "3 quyền",
+      "6 quyền"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "orig": 22,
+    "question": "Một trong những nhiệm vụ của Hội viên là:",
+    "options": [
+      "Kêu gọi và kiến nghị kịp thời với cơ quan nhà nước, các tổ chức xã hội cùng chăm lo, bảo vệ quyền lợi hợp pháp của hội viên và các tổ chức thành viên.",
+      "Chấp hành điều lệ Hội, tích cực tham gia các hoạt động của Hội, giữ gìn tư cách Hội viên, tuyên truyền mở rộng ảnh hưởng của Hội, giúp đỡ và giới thiệu thanh niên vào Hội.",
+      "Đóng góp tài chính, ủng hộ về vật chất, tinh thần cho Hội và các hoạt động chung của Hội.",
+      "Cả 3 câu trên đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "orig": 23,
+    "question": "Hội viên danh dự là:",
+    "options": [
+      "Đảng viên ,Đoàn viên ưu tú.",
+      "Những người đóng góp lâu năm cho hoạt động của Hội.",
+      "Các nhà hoạt động, chính trị, xã hội, giáo dục, văn hoá, văn nghệ; các nhà khoa học, các doanh nhân, các nhà hảo tâm tự nguyện ủng hộ về tinh thần, vật chất cho Hội và cho các hoạt động của Hội.",
+      "Cả 3 câu trên đều đúng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "orig": 24,
+    "question": "Quan hệ của các thành viên tập thể trong Hội là:",
+    "options": [
+      "Quan hệ hiệp thương, phối hợp và thống nhất hành động vì mục tiêu chung.",
+      "Không có mối quan hệ nào .",
+      "Quan hệ gắn bó , lệ thuộc lẫn nhau .",
+      "Cả 3 câu trên đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "orig": 25,
+    "question": "Ý nghĩa biểu trưng của Hội:",
+    "options": [
+      "Biểu trưng của Hội với đường nét đơn giản, hiện đại màu sắc hài hoà thể hiện sự đoàn kết thân ái ; động viên lớp trẻ hướng đến tương lai : Vì tổ quốc Việt Nam giàu đẹp hùng mạnh, vì cuộc sống hạnh phúc , hòa bình của thanh niên Việt Nam.",
+      "Biểu trưng của Hội với đường nét đơn giản, hiện đại màu sắc hài hoà thể hiện sự đoàn kết, tương thân tương ái; động viên lớp trẻ hướng đến tương lai: Vì tổ quốc Việt Nam XHCN giàu mạnh và văn minh, vì cuộc sống hạnh phúc, hoà bình của thanh niên Việt Nam.",
+      "Biểu trưng của Hội với đường nét đơn giản, hiện đại màu sắc hài hoà thể hiện sự đoàn kết; động viên lớp trẻ hướng tới tương lai: Vì tổ quốc Viêt Nam XHCN giàu mạnh tươi trẻ, vì cuộc sống hạnh phúc, hoà bình của thanh niên Việt Nam.",
+      "Biểu trưng của Hội với đường nét đơn giản, hiện đại màu sắc hài hoà thể hiện sự đoàn kết, thân ái; động viên lớp trẻ hướng đến tương lai: Vì Tổ quốc Việt Nam XHCN giàu mạnh và văn minh, vì cuộc sống hạnh phúc, hòa bình của thanh niên Việt Nam ."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "orig": 26,
+    "question": "Uỷ ban Trung ương Hội có nhiệm vụ:",
+    "options": [
+      "Tổ chức thực hiện các chương trình do Đại hội , Hội nghị đại biểu toàn quốc đề ra và quyết định chương trình công tác hàng năm của Hội.",
+      "Chuẩn bị nội dung triệu tập Đại hội hoặc Hội nghị đại biểu toàn quốc Hội LHTN Việt Nam .",
+      "Cả 2 câu trên đều đúng.",
+      "Cả 2 câu trên đều sai."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "orig": 27,
+    "question": "Hình thức kỷ luật đối với tập thể có:",
+    "options": [
+      "3 hình thức",
+      "4 hình thức",
+      "5 hình thức",
+      "2 hình thức"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "orig": 28,
+    "question": "Những thanh niên sau đây không xem xét công nhận vào Hội:",
+    "options": [
+      "Đang trong thời gian thi hành án, tù giam, cải tạo tập trung, mất quyền công dân, mắc bệnh tâm thần.",
+      "Mắc các chứng bệnh nan y, truyền nhiễm.",
+      "Cả 2 câu trên đều đúng.",
+      "Cả 2 câu trên đều sai."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "orig": 29,
+    "question": "Điều lệ Hội LHTN Việt Nam hiện nay được thông qua tại:",
+    "options": [
+      "Đại hội đại biểu toàn quốc lần IV, ngày 15/01/2000",
+      "Đại hội đại biểu toàn quốc lần IV, ngày 15/10/2001",
+      "Đại hội đại biểu toàn quốc lần III, ngày 15/10/1996",
+      "Đại hội thành lập Hội, ngày 15/10/1956"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "orig": 30,
+    "question": "Hội viên có bao nhiêu nhiệm vụ?",
+    "options": [
+      "2 nhiệm vụ",
+      "4 nhiệm vụ",
+      "3 nhiệm vụ",
+      "5 nhiệm vụ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "orig": 31,
+    "question": "Đại hội, Hội nghị đại biểu Hội LHTN Việt Nam từ cấp xã trở nên được tổ chức bao nhiêu năm/một lần?",
+    "options": [
+      "2,5 năm",
+      "5 năm"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 32,
+    "orig": 32,
+    "question": "Ban Kiểm tra các cấp của Hội có mấy nhiệm vụ?",
+    "options": [
+      "1 nhiệm vụ.",
+      "3 nhiệm vụ.",
+      "2 nhiệm vụ",
+      "4 nhiệm vụ."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "orig": 33,
+    "question": "Ủy ban Trung ương Hội LHTN Việt Nam 1 năm họp ít nhất là mấy lần?",
+    "options": [
+      "1 lần",
+      "2 lần",
+      "3 lần",
+      "4 lần"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "orig": 34,
+    "question": "Ủy ban Hội LHTN Việt Nam cấp tỉnh, thành phố mỗi năm họp mấy lần?",
+    "options": [
+      "1 lần",
+      "2 lần",
+      "3 lần",
+      "4 lần"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "orig": 35,
+    "question": "Ủy ban Hội LHTN Việt Nam cấp xã, huyện và tương đương họp mỗi năm mấy lần?",
+    "options": [
+      "1 lần",
+      "2 lần",
+      "3 lần",
+      "4 lần"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 36,
+    "orig": 36,
+    "question": "Biểu trưng của Hội là của tác giả nào?",
+    "options": [
+      "Tác giả Lê Hữu Phước",
+      "Tác giả Lê Đàn",
+      "Tác giả Huỳnh Văn Tiển",
+      "Tác giả Thân Văn Huy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "orig": 37,
+    "question": "Trong đội hình hàng dọc, khẩu lệnh của chỉ huy là: a. “Toàn chi hội thành X hàng dọc tập hợp”",
+    "options": [
+      "“Chi hội thành X hàng dọc - tập hợp”",
+      "“Toàn chi hội tập hợp”",
+      "“Chi hội - Tập hợp” Câu 38: Các trường hợp nào được thực hiện chào cờ?",
+      "Nghi lễ chào cờ trong đội hình hàng dọc, hàng ngang hoặc nhiều đơn vị, chi hội."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 39,
+    "orig": 39,
+    "question": "Nghi thức Hội là hệ thống những quy định: a. Nghi thức, thủ tục, đội hình, đội ngũ",
+    "options": [
+      "Nghi lễ, động tác cá nhân, đội hình",
+      "Nghi thức, nghi lễ",
+      "Phát triển từ nghi thức Đội Câu 40: Tư thể nghỉ trong nghi thức Hội:",
+      "Chân trái hơi chùng xuống; Tay nắm hờ, khép sát đùi."
+    ],
+    "answer": 4
+  },
+  {
+    "id": 41,
+    "orig": 41,
+    "question": "Động tác chào (trong nghi lễ), “Năm ngón tay vung lên, tay giơ cao, tầm ngang vai” có ý nghĩa: a. Thể hiện sức trẻ, ý chí vươn lên b. Trung thành với Tổ quốc c. Tôn trọng lẽ phải công bằng d. Tất cả đều đúng",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "Trong Nghi thức Hội có tất cả bao nhiêu cự ly: a. 1 cự ly b. 2 cự ly c. 3 cự ly d. 4 cự ly",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "orig": 43,
+    "question": "Trong đội hình chữ U:",
+    "options": [
+      "Khoảng cách của Phân hội trưởng phân hội 1 và người chỉ huy là 1 mét.",
+      "Đội hình được triển khai bên trái về phía trước chỉ huy.",
+      "Cả a và b đều đúng.",
+      "Cả a và b đều sai."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "orig": 44,
+    "question": "Khẩu lệnh nào sau đây là ĐÚNG trong chỉnh đốn đội hình?",
+    "options": [
+      "Trong đội hình chữ U: “Cự ly rộng nhìn chuẩn – Thẳng”",
+      "Trong đội hình chữ U: “Cự ly hẹp nhìn chuẩn – Thẳng”",
+      "Trong đội hình vòng tròn: “Cự ly rộng nhìn chuẩn – Thẳng”",
+      "Trong đội hình vòng tròn: “Cự ly hẹp – Chỉnh đốn đội hình”"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "orig": 45,
+    "question": "Khẩu lệnh nào sau đây là ĐÚNG trong điểm số báo cáo từng phân hội trong chi hội?",
+    "options": [
+      "Chỉ huy: “Các phân hội điểm số - Báo cáo – Nghỉ”",
+      "Phân hội trưởng phân hội 1: “Chi hội 1 – Nghiêm – Điểm số - 1”",
+      "Chỉ huy: “Các phân hội lần lượt điểm số - Báo cáo – Nghỉ”",
+      "Chỉ huy: “Toàn phân hội điểm số - Báo cáo – Nghỉ”"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "orig": 46,
+    "question": "Đội hình đội ngũ nào trong Nghi thức Hội không có chuẩn? a. Đội hình hàng dọc b. Đội hình hàng ngang c. Đội hình chữ U d. Đội hình vòng tròn",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "orig": 47,
+    "question": "Chuẩn trong Nghi thức Hội là: a. Luôn là phân hội 1 b. Luôn là phân hội 4 c. Tuỳ thuộc chỉ huy chỉ định d. Tất cả đều sai",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "orig": 48,
+    "question": "Trong động tác di động, động tác nào thực hiện bằng chân phải trước: a. Tiến – lùi b. Sang phải c. Sang trái d. Dậm chân tại chỗ",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "orig": 49,
+    "question": "Lời hứa của hội viên: “Vinh dự là người hội viên Hội LHTN Việt Nam, trước tập thể chi hội, tôi xin hứa: …” a. “Là công dân tốt của nước CHXHCN Việt Nam; Thực hiện nghiêm chỉnh Điều lệ Hội, giữ gìn uy tín và thanh danh của Hội” – “Xin hứa”. b. “Làm công dân của nước Việt Nam Thực hiện nghiêm chỉnh Điều lệ Hội, giữ gìn uy tín và thanh danh của Hội” – “Xin hứa”.",
+    "options": [
+      "“Là công dân của nước CHXHCN Việt Nam; Thực hiện nghiêm chỉnh Điều lệ Hội, giữ gìn uy tín và thanh danh của Hội” – “Xin hứa”.",
+      "“Là công dân tốt của nước CHXHCN Việt Nam; Thực hiện nghiêm chỉnh Điều lệ Hội, xây dựng Hội vững mạnh” – “Xin hứa”."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "orig": 50,
+    "question": "Trong điều khiển đội hình, khẩu lệnh nào sau đây là ĐÚNG?",
+    "options": [
+      "“Chạy tại chỗ - Chạy”",
+      "“Đứng dậy”",
+      "“Dậm chân – Dậm”",
+      "“Ngồi trên gót – Ngồi”"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "orig": 51,
+    "question": "Lễ công nhận đội nhóm mới, hội viên mới được tổ chức: a. Trong hội trường b. Di tích lịch sử c. Khu sinh hoạt dã ngoại d. Tất cả đều đúng",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Trong tập hợp vòng tròn. Chọn câu SAI:",
+    "options": [
+      "Khẩu lệnh: “Cự ly hẹp – chỉnh đốn đội hình”",
+      "Khẩu lệnh: “Chi hội – Tập hợp”",
+      "Khẩu lệnh: “Cự ly rộng – chỉnh đốn đội hình”",
+      "Không cần tập trung theo phân hội (chi hội)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "orig": 53,
+    "question": "Trong rước cờ, người điều khiển hô:",
+    "options": [
+      "“Đã đến giờ làm lễ - Mời đội cờ vào vị trí”.",
+      "“Nghiêm - Đã đến giờ làm lễ - Mời đội cờ vào vị trí”.",
+      "“Nghiêm – Rước cờ”.",
+      "Cả a và b đều được."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "orig": 54,
+    "question": "Có bao nhiêu hình thức rước cờ?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "orig": 55,
+    "question": "Động tác quay đằng sau:",
+    "options": [
+      "Chân phải bước về phía sau chân trái, mũi chân phải cách gót chân trái khoảng 20cm. Dùng hai gót chân làm trụ quay về bên phải một góc 180 độ. Rút chân phải về tư thế nghiêm.",
+      "Chân phải đưa về phía sau chân trái, mũi chân phải cách gót chân trái khoảng một nắm tay. Dùng hai gót chân làm trụ quay về bên phải một góc 180 độ. Rút chân phải về tư thế nghiêm.",
+      "Gót chân trái và mũi chân phải làm trụ quay sang trái một góc 180 độ. Rút chân phải về tư thế nghiêm.",
+      "Cả a, b và c đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "orig": 56,
+    "question": "Cách sử dụng biểu trưng Hội:",
+    "options": [
+      "Làm phù hiệu, huy hiệu.",
+      "In (thêu) trên vải (cờ) các loại thẻ,",
+      "In trên công văn có liên quan.",
+      "Tất cả đều được."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 57,
+    "orig": 57,
+    "question": "Khi chỉ định đội hình tập hợp, người chỉ huy có thể sử dụng:",
+    "options": [
+      "Còi.",
+      "Cờ.",
+      "Khẩu lệnh.",
+      "Tất cả đều được."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 58,
+    "orig": 58,
+    "question": "Trong các đội hình tập hợp, khoảng cách giữa người chỉ huy và người phân hội trưởng phân hội 1 là:",
+    "options": [
+      "Một cánh tay.",
+      "1 mét.",
+      "Khoảng cách vừa đủ.",
+      "Tùy đội hình tập hợp."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "orig": 59,
+    "question": "Cự ly rộng trong đội hình vòng tròn:",
+    "options": [
+      "Hai tay thành chữ V ngược, đưa ra trước mặt, ngang vai, lòng bàn tay nắm và úp xuống, nắm tay người này chạm nắm tay người kia tạo thành vòng tròn.",
+      "Hai tay thành chữ V ngược, đưa sang ngang 1 góc 45 độ, lòng bàn tay nắm và úp xuống, nắm tay người này chạm nắm tay người kia tạo thành vòng tròn.",
+      "Tay trái đưa sang ngang, lòng bàn tay úp xuống, tay trái người này vừa chạm vai phải người kia tạo thành vòng tròn.",
+      "Tất cả đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 60,
+    "question": "Trong đội hình Hàng dọc, có mấy cự ly so hàng:",
+    "options": [
+      "4 cụ ly: Hẹp, hẹp đặc biệt, rộng và rộng đặc biệt.",
+      "2 cự ly: Hẹp, hẹp đặc biệt.",
+      "Đáp án a, b đều đúng.",
+      "Đáp án a, b đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "orig": 61,
+    "question": "Trong đội hình Hàng ngang, có mấy cự ly so hàng:",
+    "options": [
+      "4 cự ly: Hẹp, hẹp đặc biệt, rộng và rộng đặc biệt.",
+      "2 cự ly: Rộng và rộng đặc biệt.",
+      "Đáp án a, b đều đúng.",
+      "Đáp án a, b đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "orig": 62,
+    "question": "Trong đội hình Chữ U, có mấy cự ly so hàng:",
+    "options": [
+      "4 cự ly: Hẹp, hẹp đặc biệt, rộng và rộng đặc biệt.",
+      "2 cự ly: Hẹp, hẹp đặc biệt.",
+      "Đáp án a, b đều đúng.",
+      "Đáp án a, b đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "orig": 63,
+    "question": "Trong đội hình Vòng tròn, có mấy cự ly so hàng:",
+    "options": [
+      "4 cự ly: Hẹp, hẹp đặc biệt, rộng và rộng đặc biệt.",
+      "2 cự ly: Rộng và rộng đặc biệt.",
+      "Đáp án a, b đều đúng.",
+      "Đáp án a, b đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "orig": 64,
+    "question": "Tư thế người chỉ huy trong Đội hình vòng tròn:",
+    "options": [
+      "Hai tay giơ cao tạo thành vòng tròn trên đầu người chỉ huy, lòng bàn tay nắm và úp xuống, khoảng cách giữa hai nắm tay khoảng 10 đến 20cm.",
+      "Hai tay giơ cao tạo thành vòng tròn trên đầu người chỉ huy, lòng bàn tay nắm và úp xuống, khoảng cách giữa hai nắm tay tối thiểu khoảng 10cm.",
+      "Hai tay giơ cao tạo thành vòng tròn trên đầu người chỉ huy, lòng bàn tay nắm và úp xuống, khoảng cách giữa hai nắm tay tối thiểu khoảng 20cm.",
+      "Hai tay giơ cao tạo thành vòng tròn trên đầu người chỉ huy, lòng bàn tay nắm và úp xuống, khoảng cách giữa hai nắm tay tối thiểu khoảng 1 cánh tay."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "orig": 65,
+    "question": "Trong Đội hình chữ U, trường hợp có 3 phân hội:",
+    "options": [
+      "Người cuối cùng của phân hội 1 tay trái đưa thẳng trước mặt, 5 ngón tay khép lại, lòng bàn tay úp xuống song song với mặt đất.",
+      "Người cuối cùng của phân hội 1 tay trái đưa thẳng trước mặt, 5 ngón tay khép lại, lòng bàn tay hướng vào trong vuông góc với mặt đất.",
+      "Các đáp a, b đều đúng.",
+      "Các đáp án a, b đều sai."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "orig": 66,
+    "question": "Trong Đội hình chữ U, trường hợp có 3 phân hội:",
+    "options": [
+      "Người cuối cùng của phân hội 2, tay trái đưa thẳng ngang vai, 5 ngón tay khép lại, lòng bàn tay úp xuống song song với mặt đất.",
+      "Người cuối cùng của phân hội 2, tay trái đưa thẳng ngang vai, 5 ngón tay khép lại, lòng bàn tay hướng vào trong vuông góc với mặt đất.",
+      "Các đáp a, b đề đúng.",
+      "Các đáp án a, b đều sai."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "orig": 67,
+    "question": "Trong Đội hình chữ U, trường hợp có 3 phân hội, phân hội 1 và 3 sau khi tập hợp xong:",
+    "options": [
+      "Đối diện nhau trong hình chữ U.",
+      "Hướng về phía trước.",
+      "Hướng về phía sau.",
+      "Tùy trường hợp."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "orig": 68,
+    "question": "Có mấy cách điểm số - báo cáo:",
+    "options": [
+      "2 cách.",
+      "4 cách.",
+      "Đáp án a, b đều sai.",
+      "Đáp án a, b đều đúng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "orig": 69,
+    "question": "Nếu Nghi thức Hội có điểm nào đó khác với quy định của Điều Lệ Hội thì sẽ căn cứ vào đâu để thực hiện?",
+    "options": [
+      "Căn cứ vào Nghi Thức Hội",
+      "Căn cứ vào điều lệ Hội",
+      "Theo hướng dẫn của Đoàn chủ tịch Trung ương Hội LHTN Việt Nam",
+      "Theo hướng dẫn của Ủy ban Trung ương Hội LHTN Việt Nam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "orig": 70,
+    "question": "Nghi thức Hội LHTN Việt Nam do ai thông qua?",
+    "options": [
+      "Đại hội Đại biểu toàn quốc Hội LHTN Việt Nam",
+      "Ủy ban trung ương Hội LHTN Việt Nam thong qua",
+      "Đoàn chủ tịch Ủy ban Trung ương Hội quy định",
+      "Hội đồng Huấn luyện Trung ương quy định"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 71,
+    "orig": 71,
+    "question": "Trụ sở chính của Hội LHTN Việt Nam ở đâu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "orig": 72,
+    "question": "Hội LHTN Việt Nam là thành viên của?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "orig": 73,
+    "question": "Chức năng nào dưới đây là không phải là chức năng của Hội?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "orig": 74,
+    "question": "Nhiệm vụ và quyền hạn nào dưới đây không phải là nhiệm vụ và quyền hạn của Hội?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "orig": 75,
+    "question": "Hội viên của Hội vi phạm Điều lệ Hội thì tuỳ mức độ sẽ bị kỷ luật bằng hình thức như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "orig": 76,
+    "question": "Cán bộ của Hội vi phạm Điều lệ Hội thì tuỳ mức độ sẽ bị kỷ luật bằng hình thức như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "orig": 77,
+    "question": "Ngày truyền thống Hội LHTN Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 8 tháng 10 hằng năm",
+      "Ngày 10 tháng 10 hằng năm",
+      "Ngày 15 tháng 10 hằng năm",
+      "Ngày 20 tháng 10 hằng năm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 78,
+    "orig": 78,
+    "question": "Ý nghĩa của đường ngang trên biểu trưng Hội LHTN Việt Nam là",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "orig": 79,
+    "question": "Ý nghĩa của đường hình chữ S trên biểu trưng Hội LHTN Việt Nam là",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "orig": 80,
+    "question": "Ý nghĩa của ngôi sao trên biểu trưng Hội",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "orig": 81,
+    "question": "Người hô khẩu hiệu Hội để hội viên tham dự đáp là",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "orig": 82,
+    "question": "Cách chào của Hội thể hiện điều gì ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "orig": 83,
+    "question": "Động tác chào trong nghi lễ được áp dụng trong trường hợp nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "orig": 84,
+    "question": "Trong nghi lễ chào cờ, khi đang thực hiện động tác chào, các hội viên bỏ tay xuống khi nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Người hộ cờ trong quá trình di chuyển ra đội hình có được đi trước người khiêng cờ không?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "orig": 86,
+    "question": "Trong quá trình di chuyển ra vị trí chào cờ, vị trí cờ Tổ quốc và cờ mang biểu trưng Hội như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Khẩu lệnh của tư thế ngồi trên gót là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "orig": 88,
+    "question": "Tư thế ngồi trên đất, khi ngồi xuống xong, hai tay để như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Khẩu lệnh nào dưới đây là sai?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "orig": 90,
+    "question": "Khẩu lệnh nào dưới đây là sai?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "orig": 100,
+    "question": "Động tác chân khi thực hiện chạy tại chỗ và chạy đều là",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "Nhịp 1 trong chạy đều là rơi vào chân nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "orig": 102,
+    "question": "Khi cả chi hội đang đi đều gặp vật cản, muốn chi hội di chuyển sang trái thì khẩu lệnh như thế nào",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "Khi cả chi hội đang chạy đều gặp vật cản, muốn chi hội di chuyển sang trái thì khẩu lệnh như thế nào",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "orig": 104,
+    "question": "Khi cả chi hội đang đi đều gặp vật cản, muốn chi hội di chuyển vòng đằng sau thì khẩu lệnh như thế nào",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "orig": 105,
+    "question": "Trong khẩu lệnh: “Tiến 8 bước – Bước” đâu là dự lệnh?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "Khi thực hiện động tác lùi, phải thực hiện bằng chân nào trước?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "orig": 107,
+    "question": "Khẩu lệnh nào dưới đây không đúng?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "orig": 108,
+    "question": "Khi tập hợp, đội hình triển khai như thế nào so với người chỉ huy",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "Khi đã hô dự lệnh nhưng muốn huỷ bỏ lệnh đó thì hô tiếp như thế nào",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "orig": 110,
+    "question": "Khi hội viên được chỉ định làm chuẩn thì hội viên đó làm như thế nào",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "Có bao nhiêu đội hình tập hợp?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "orig": 112,
+    "question": "Đội hình hàng dọc được triển khai như thế nào so với người chỉ huy?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "orig": 113,
+    "question": "Đội hình hàng ngang được triển khai như thế nào so với người chỉ huy?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "Khi tập hợp đội hình hàng ngang, động tác người chỉ huy như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "orig": 115,
+    "question": "Trong đội hình chữ U, phân hội trưởng phân hội 1 cách người chỉ huy bao nhiêu mét?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "orig": 116,
+    "question": "Khoảng cách giữa 2 nắm tay của chi huy khi hô khẩu lệnh tập hợp đội hình vòng tròn là bao nhiêu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "orig": 117,
+    "question": "Khi tập hợp đội hình vòng tròn, có cần tập trung theo phân hội hoặc chi hội hay không?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "orig": 118,
+    "question": "Khẩu lệnh nào dưới đây là sai?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "orig": 119,
+    "question": "Trong đội hình hàng dọc khi so cự ly hẹp đặc biệt, hội viên thứ 2 của phân hội 1 thực hiện như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "orig": 120,
+    "question": "Trong đội hình chữ U khi so cự ly hẹp, người cuối cùng của phân hội 2 thực hiện như thế nào",
+    "options": [],
+    "answer": 0
+  }
+]

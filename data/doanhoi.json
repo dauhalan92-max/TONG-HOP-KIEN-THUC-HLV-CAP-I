@@ -1,0 +1,1284 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Đoàn TNCS Hồ Chí Minh thành lập vào ngày, tháng, năm nào? Do ai sáng lập và lãnh đạo?",
+    "options": [
+      "26/3/1931. Do Chủ tịch Hồ Chí Minh",
+      "26/3/1931. Do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh.",
+      "26/3/1931. Do Đảng Cộng sản Việt Nam và Trần Phú",
+      "26/3/1931. Do Đảng Cộng sản Việt Nam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Bài ca chính thức của Đoàn có tên là gì? Tác giả là ai?",
+    "options": [
+      "Thanh niên làm theo lời Bác - Hoàng Hòa",
+      "Thanh niên làm theo lời Bác - Hoàng Hà",
+      "Kết niên lại – Hoàng Hòa",
+      "Lên đàng – Hoàng Hà"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Tác giả của huy hiệu Đoàn Thanh niên Cộng sản HồChí Minh là ai?ra đời vào thời gian nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Đoàn Thanh niên từ khi thành lập cho đến nay đã đổi tên mấy lần?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Đồng chí Bí thư thứ nhất đầu tiên của Ban Chấp hành Đoàn TNCS Hồ Chí Minh là ai?",
+    "options": [
+      "Đ/c Nguyễn Lam",
+      "Đ/c Vũ Quang",
+      "Đ/c Đặng Quốc Bảo",
+      "Đ/c Vũ Mão"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "orig": 6,
+    "question": "Người Đoàn viên TNCS Hồ Chí Minh đầu tiên là ai?",
+    "options": [
+      "Lê Hữu Trọng",
+      "Nông Văn Dền",
+      "Kim Đồng",
+      "Võ Thị Sáu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "orig": 7,
+    "question": "Từ năm 2020, đoàn viên mới kết nạp học bao nhiêu bài học lý luận chính trị?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "orig": 8,
+    "question": "Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức và hoạt động theo nguyên tắc nào?",
+    "options": [
+      "Hợp tác, bình đẳng, phối hợp và thống nhất hành động.",
+      "Tập trung dân chủ.",
+      "Hiệp thương dân chủ.",
+      "Tự nguyện, tự quản."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "orig": 9,
+    "question": "Đại hội Đoàn toàn quốc lần thứ I diễn ra tại đâu?",
+    "options": [
+      "Thái Nguyên.",
+      "Thái Bình.",
+      "Hà Nội.",
+      "Hà Tây."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "orig": 10,
+    "question": "Khi mới thành lập, Đoàn Thanh niên Cộng sản Hồ Chí Minh có tên là gì?",
+    "options": [
+      "Đoàn Thanh niên Cộng sản Việt Nam.",
+      "Đoàn Thanh niên Cộng sản Đông Dương.",
+      "Đoàn Thanh niên Phản đế Đông Dương.",
+      "Đoàn Thanh niên Dân chủ Đông Dương."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "orig": 11,
+    "question": "Ngày 26/3/1931 được chọn là ngày thành lập Đoàn tại Đại hội Đoàn toàn quốc lần thứ mấy?",
+    "options": [
+      "Đại hội Đoàn toàn quốc lần thứ I (2/1950).",
+      "Đại hội Đoàn toàn quốc lần thứ II (11/1956).",
+      "Đại hội Đoàn toàn quốc lần thứ III (3/1961).",
+      "Đại hội Đoàn toàn quốc lần thứ IV (11/1980)."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "orig": 12,
+    "question": "Đoàn viên có mấy nhiệm vụ?",
+    "options": [
+      "3 nhiệm vụ.",
+      "4 nhiệm vụ.",
+      "5 nhiệm vụ.",
+      "6 nhiệm vụ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "orig": 13,
+    "question": "Anh Lý Tự Trọng đã gửi câu nói gì đến tuổi trẻ Việt Nam:",
+    "options": [
+      "Không có gì quý hơn độc lập tự do",
+      "Con đường thanh niên chỉ là con đường Cách mạng chứ không phải con đường nào khác",
+      "Sống, chiến đấu, lao động, học tập theo gương Bác Hồ vĩ đại.",
+      "Câu a &"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "orig": 14,
+    "question": "Hãy cho biết cơ quan lãnh đạo cao nhất của Đoàn TNCS HCM ?",
+    "options": [
+      "Đại hội đại biểu Đoàn toàn quốc.",
+      "Đại hội đại biểu Đoàn các cấp.",
+      "Ban Chấp hành Đoàn các cấp.",
+      "Ban Thường vụ Đoàn các cấp."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "orig": 15,
+    "question": "Cơ quan lãnh đạo cao nhất của chi đoàn là gì?",
+    "options": [
+      "Đại hội đại biểu cấp chi đoàn.",
+      "Đại hội đoàn viên.",
+      "Ban Chấp hành chi đoàn.",
+      "Đoàn cấp trên."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "orig": 16,
+    "question": "Tổ chức cơ sở Đoàn là gì?",
+    "options": [
+      "Chi đoàn cơ sở.",
+      "Đoàn cơ sở .",
+      "Đoàn cơ sở và chi đoàn bộ phận.",
+      "Đoàn cơ sở và chi đoàn cơ sở."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 17,
+    "orig": 17,
+    "question": "Điều kiện thành lập Chi đoàn là gì?",
+    "options": [
+      "Có ít nhất 3 đoàn viên",
+      "Có ít nhất 4 đoàn viên",
+      "Có ít nhất 5 đoàn viên",
+      "Có ít nhất 6 đoàn viên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "orig": 18,
+    "question": "Điều kiện để thành lập Đoàn cơ sở là gì?",
+    "options": [
+      "Có ít nhất 50 đoàn viên và 2 chi đoàn.",
+      "Có ít nhất 50 đoàn viên và 3 chi đoàn.",
+      "Có ít nhất 30 đoàn viên và 2 chi đoàn.",
+      "Có ít nhất 30 đoàn viên và 3 chi đoàn."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "orig": 19,
+    "question": "Đoàn viên được phân loại theo 4 mức nào?",
+    "options": [
+      "Vững mạnh, tiên tiến, trung bình, yếu",
+      "Xuất sắc, khá, trung bình, yếu",
+      "Xuất sắc, tiên tiến, trung bình, yếu",
+      "Vững mạnh, khá, trung bình, yếu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "orig": 20,
+    "question": "Chi đoàn có từ 9 đoàn viên trở lên thì được bầu bao nhiêu UV BCH?",
+    "options": [
+      "1-2 UV BCH",
+      "2-3 UV BCH",
+      "3-4 UV BCH",
+      "3-5 UV BCH"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 21,
+    "orig": 21,
+    "question": "Số lượng thành viên trong đoàn Chủ tịch Đại hội cấp Chi đoàn là bao nhiêu?",
+    "options": [
+      "1 – 3 đồng chí",
+      "3 – 5 đồng chí",
+      "5 – 9 đồng chí",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "orig": 22,
+    "question": "Ban Thẩm tra tư cách đại biểu có ở đại hội nào?",
+    "options": [
+      "Tất cả các đại hội",
+      "Chỉ có ở đại hội đại biểu",
+      "Có ở đại hội đại biểu và đại hội đoàn viên",
+      "Chỉ có ở đại hội đoàn viên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "orig": 23,
+    "question": "Sắp xếp thứ tự các mức kỷ luật của Đoàn đối với cán bộ đoàn viên.",
+    "options": [
+      "Khiển trách, khai trừ, cảnh cáo, cách chức",
+      "Khiển trách, cảnh cáo, cách chức, khai trừ",
+      "Khiển trách, cách chức, khai trừ, cảnh cáo",
+      "Cảnh cáo, khai trừ, cách chức, khiển trách"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "orig": 24,
+    "question": "Phong trào đoàn kết 3 lực lượng thanh niên gồm những lực lượng nào?",
+    "options": [
+      "Đoàn TNCS Hồ Chí Minh, Công an, Quân đội",
+      "Công an, Quân đội, Cựu chiến binh",
+      "Hội Phụ nữ, Đoàn TNCS Hồ Chí Minh, Công Đoàn",
+      "Đoàn TNCS Hồ Chí Minh, Cựu chiến binh, Hội Nông dân."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "orig": 25,
+    "question": "Ba đồng chí lớp đầu tiên của Đoàn hy sinh trong các trận đánh quyết liệt chống phát xít Đức ở Nam Mát-xcơ-va (trong đội hình Sư đoàn quốc tế bảo vệ Liên xô) là ai?",
+    "options": [
+      "Lý Nam Thanh, Lý Thúc Chất, Lý Phương Thuận.",
+      "Lý Nam Thanh, Lý Thúc Chất, Lý Anh Trợ.",
+      "Lý Nam Thanh, Lý Phương Thuận, Lý Trí Thông.",
+      "Lý Nam Thanh, Lý Phương Thuận, Lý Phương Đức"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "orig": 26,
+    "question": "Nội dung của phong trào 3 trách nhiệm là gì?",
+    "options": [
+      "Trách nhiệm với nhân dân, công việc (cơ quan, đơn vị) và bản thân",
+      "Trách nhiệm với nhân loại, công việc (cơ quan, đơn vị), gia đình",
+      "Trách nhiệm với gia đình, xã hội, bản thân",
+      "Trách nhiệm bản thân, công việc (cơ quan, đơn vị), gia đình"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "orig": 27,
+    "question": "Trong Điều lệ Đoàn sửa đổi khóa X đã bổ sung nội dung nào trong việc bầu trực tiếp Bí thư tại đại hội ?",
+    "options": [
+      "Chi đoàn xếp loại khá trở lên.",
+      "Đoàn cơ sở trong quá trình tổ chức đại hội được cấp ủy và Đoàn cấp trên trực tiếp thống nhất, tại đại hội được đại biểu đại hội nhất trí bầu trực tiếp Bí thư",
+      "Đại hội chi đoàn và Đại hội Đoàn các cấp được trực tiếp bầu Bí thư khi được sự thống nhất của Đoàn cấp trên trực tiếp và cấp ủy Đảng cùng cấp",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "orig": 28,
+    "question": "Độ tuổi của người được xét kết nạp đoàn viên theo hướng dẫn thực hiện điều lệ Đoàn sửa đổi khóa X ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "orig": 29,
+    "question": "Đâu không phải nhiệm vụ của Đại hội Đoàn toàn quốc lần thứ XIII?",
+    "options": [
+      "Đánh giá kết quả công tác Đoàn và phong trào thanh thiếu nhi nhiệm kỳ 2025 - 2030",
+      "Xác định mục tiêu, phương hướng, nhiệm vụ, giải pháp công tác Đoàn và phong trào thanh thiếu nhi nhiệm kỳ 2025 - 2030",
+      "Sửa đổi, bổ sung Điều lệ Đoàn",
+      "Kiện toàn Ban Thường vụ Trung ương Đoàn"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 30,
+    "orig": 30,
+    "question": "Số đoàn viên và thanh niên tham gia chiến dịch Điện Biên Phủ là bao nhiêu?",
+    "options": [
+      "Hơn 30 vạn.",
+      "Hơn 40 vạn.",
+      "Hơn 50 vạn.",
+      "Hơn 60 vạn."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "orig": 31,
+    "question": "Nội dung nào sau đây không thuộc phong trào \"Năm xung kích phát triển kinh tế - xã hội và bảo vệ Tổ Quốc\"",
+    "options": [
+      "Xung kích lao động sáng tạo, phát triển kinh tế - xã hội",
+      "Xung kích trong học tập, nâng cao trình độ học vấn, chuyên môn, nghiệp vụ",
+      "Xung kích, tình nguyện vì cuộc sống cộng đồng",
+      "Xung kích thực hiện cải cách hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "orig": 32,
+    "question": "Đoàn Thanh niên phản đế Đông Dương được chính thức đổi tên thành Đoàn Thanh niên cứu quốc Việt Nam giai đoạn nào?",
+    "options": [
+      "Từ 1931 - 1936.",
+      "Từ 1937 - 1939.",
+      "Từ 11/1939 - 1941.",
+      "Từ 5/1941 - 1956."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "orig": 33,
+    "question": ": Hoạt động nhằm thể hiện sự tri ân của tuổi trẻ đối với các anh hùng liệt sĩ nhân dịp 27/7 hằng năm. Hãy cho biết đây là hoạt động gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "orig": 34,
+    "question": "Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII xác lập chỉ tiêu như thế nào về số lượng đoàn viên ưu tú được giới thiệu cho Đảng xem xét kết nạp trong nhiệm kỳ 2022 – 2027?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "orig": 35,
+    "question": "Người chiến sĩ cộng sản trẻ tuổi đã hy sinh anh dũng được truy tặng danh hiệu cao quý \"Cảm tử quân số 1 của Thủ đô\" là ai?",
+    "options": [
+      "Lê Gia Định.",
+      "Nguyễn Viết Xuân.",
+      "Cao Xuân Quế.",
+      "Lê Cảnh Nhượng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "orig": 36,
+    "question": "Trung ương Đoàn tổ Đại hội Thanh niên tiên tiến làm theo lời Bác toàn quốc mới nhất vào năm nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "orig": 37,
+    "question": "Tuần báo Thanh niên – cơ quan Trung ương của Việt nam Thanh niên Cách mạng đồng chí Hội do Hồ Chủ tịch sáng lập đã ra số đầu tiên vào ngày?",
+    "options": [
+      "03/02/1930",
+      "09/01/1930",
+      "01/6/1925",
+      "21/6/1925"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 38,
+    "orig": 38,
+    "question": "Đâu không phải là tên chương trình, đề án trọng điểm được xác định trong Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "orig": 39,
+    "question": "Hãy cho biết chủ đề triển lãm tại Đại hội Đoàn toàn quốc lần thứ XIII?",
+    "options": [
+      "Chuyến tàu tiến vào kỷ nguyên mới",
+      "Thanh niên tiến vào kỷ nguyên số",
+      "Tự hào truyền thống, vững bước tương lai",
+      "Vững vàng niềm tin, tự hào tiến bước"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "orig": 40,
+    "question": "Tại Đại hội Đoàn toàn quốc lần thứ XIII xác định chỉ tiêu như thế nào về thiếu nhi có hoàn cảnh khó khăn được tổ chức Đoàn, Hội, Đội các cấp hỗ trợ?",
+    "options": [
+      "3 triệu thiếu nhi",
+      "4 triệu thiếu nhi",
+      "5 triệu thiếu nhi",
+      "6 triệu thiếu nhi"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "orig": 41,
+    "question": "Hội nghị Ban Chấp hành Trung ương Đoàn lần thứ nhất, khoá XIII đã bầu bao nhiêu đồng chí tham gia Uỷ ban Kiểm tra Trung ương Đoàn.",
+    "options": [
+      "17 đồng chí",
+      "19 đồng chí",
+      "21 đồng chí",
+      "23 đồng chí"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII xác lập chỉ tiêu như thế nào về tổng số dự án khởi nghiệp đổi mới sáng tạo của thanh niên được hỗ trợ đầu ra sản phẩm/dịch vụ đầu ra?",
+    "options": [
+      "750 dự án khởi nghiệp đổi mới sáng tạo",
+      "850 dự án khởi nghiệp đổi mới sáng tạo",
+      "950 dự án khởi nghiệp đổi mới sáng tạo",
+      "650 dự án khởi nghiệp đổi mới sáng tạo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "orig": 43,
+    "question": "Phong trào năm xung phong được phát động thời gian nào, ở đâu?",
+    "options": [
+      "Tháng 3/1965 tại căn cứ kháng chiến Tây Ninh",
+      "Tháng 12/ 2012 tại Hà Nội",
+      "Tháng 3/1965 tại Đại Từ, Thái Nguyên",
+      "Tháng 10/1956"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "orig": 44,
+    "question": "Theo Luật Thanh niên năm 2020, “Chăm lo hạnh phúc gia đình; giữ gìn và phát huy truyền thống tốt đẹp của gia đình Việt Nam.” là:",
+    "options": [
+      "Trách nhiệm của thanh niên đối với gia đình",
+      "Trách nhiệm của thanh niên đối với Tổ quốc",
+      "Trách nhiệm của thanh niên đối với Nhà nước và xã hội",
+      "Trách nhiệm của thanh niên đối với bản thân"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "orig": 45,
+    "question": "Khẩu hiệu hành động của Đại hội Đoàn toàn quốc lần thứ XIII nhiệm kỳ 2026 – 2031 là gì?",
+    "options": [
+      "“Bản lĩnh tự cường – Tiên phong sáng tạo – Khát vọng cống hiến – Làm chủ tương lai”",
+      "“Bản lĩnh tự cường – Khát vọng cống hiến – Tiên phong sáng tạo – Làm chủ tương lai”",
+      "“Khát vọng cống hiến – Bản lĩnh tự cường – Tiên phong sáng tạo – Làm chủ tương lai”",
+      "“Làm chủ tương lai – Bản lĩnh tự cường – Tiên phong sáng tạo – Khát vọng cống hiến”"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "orig": 46,
+    "question": "Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII xác lập chỉ tiêu như thế nào về số lượt đoàn viên, thanh niên được tham gia các hoạt động tình nguyện do tổ chức Đoàn, Hội tổ chức trong nhiệm kỳ 2026 – 2031?",
+    "options": [
+      "70 triệu lượt",
+      "80 triệu lượt",
+      "90 triệu lượt",
+      "100 triệu lượt"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "orig": 47,
+    "question": "Giải thưởng nào được Trung ương Đoàn tổ chức trao cho cán bộ đoàn tiêu biểu xuất sắc vào dịp kỷ niệm Ngày thành lập Đoàn TNCS Hồ Chí Minh hằng năm?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "orig": 48,
+    "question": "Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII xác lập chỉ tiêu như thế nào về tỷ lệ cán bộ đoàn, đoàn viên, thanh niên được học tập, quán triệt, tuyên truyền, phổ biến nghị quyết, chủ trương của Đảng, chính sách, pháp luật của Nhà nước và Nghị quyết, kết luận, chủ trương của Đoàn trong nhiệm kỳ 2026 - 2031?",
+    "options": [
+      "100% cán bộ đoàn, đoàn viên, 70% thanh niên",
+      "100% cán bộ đoàn, đoàn viên, 80% thanh niên",
+      "100% cán bộ đoàn, đoàn viên, 90% thanh niên",
+      "100% cán bộ đoàn, đoàn viên, thanh niên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "orig": 49,
+    "question": "Theo Luật Thanh niên năm 2020, có mấy nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5 ."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "orig": 50,
+    "question": "Tổ chức nào dưới đây có trách nhiệm tham gia, phối hợp với các cơ quan nhà nước có liên quan trong quá trình xây dựng, tuyên truyền và tổ chức thực hiện chính sách, pháp luật đối với thanh niên?",
+    "options": [
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "Hội Liên hiệp Thanh niên Việt Nam",
+      "Hội Sinh viên Việt Nam",
+      "Tất cả tổ chức trên"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 51,
+    "orig": 51,
+    "question": "Ủy ban quốc gia về Thanh niên Việt Nam là?",
+    "options": [
+      "tổ chức phối hợp liên ngành, có chức năng tư vấn giúp Chính phủ về công tác thanh niên",
+      "tổ chức liên ngành, có chức năng tư vấn giúp Chính phủ về công tác thanh niên",
+      "tổ chức phối hợp liên ngành, có chức năng tư vấn giúp Thủ tướng Chính phủ về công tác thanh niên",
+      "tổ chức liên ngành, có chức năng tư vấn giúp Thủ tướng Chính phủ về công tác thanh niên"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Nhiệm vụ, quyền hạn của Ủy ban quốc gia về Thanh niên Việt Nam do ai quy định?",
+    "options": [
+      "Thủ tướng Chính phủ",
+      "Chính phủ",
+      "Bộ Nội vụ",
+      "Quốc hội"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "orig": 53,
+    "question": "Hợp tác quốc tế về thanh niên phải bảo đảm nguyên tắc?",
+    "options": [
+      "bình đẳng, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, phù hợp với pháp luật mỗi nước, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc thông lệ quốc tế.",
+      "bình đẳng, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, phù hợp với pháp luật mỗi nước, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thông lệ quốc tế.",
+      "bình đẳng, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, phù hợp với pháp luật mỗi nước, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "orig": 54,
+    "question": "Theo Luật Thanh niên năm 2020, chính sách của Nhà nước đối với thanh niên về văn hóa, thể dục, thể thao là:",
+    "options": [
+      "Tư vấn, hỗ trợ nâng cao sức khỏe cho thanh niên.",
+      "Khuyến khích, hỗ trợ thanh niên tham gia hoạt động và sáng tạo trong văn hóa, thể dục, thể thao.",
+      "Khuyến khích tổ chức, cá nhân đầu tư, cung cấp dịch vụ y tế, chăm sóc sức khỏe cho thanh niên.",
+      "Phòng, chống bạo lực gia đình, bạo lực học đường, xâm hại tình dục."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "orig": 55,
+    "question": "Văn kiện Đại hội Đoàn toàn quốc lần thứ XIII xác lập chỉ tiêu như thế nào về số lượt thanh thiếu nhi tham gia các hoạt động hỗ trợ nâng cao năng lực ngoại ngữ và hội nhập quốc tế trong nhiệm kỳ 2026 – 2031?",
+    "options": [
+      "7 triệu lượt thanh thiếu nhi",
+      "8 triệu lượt thanh thiếu nhi",
+      "9 triệu lượt thanh thiếu nhi",
+      "10 triệu lượt thanh thiếu nhi"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 56,
+    "orig": 56,
+    "question": "Hãy cho biết tên ca khúc chính thức của Đại hội Đoàn toàn quốc lần thứ XIII?",
+    "options": [
+      "Áo xanh gọi tương lai",
+      "Thanh niên Việt Nam tiến bước",
+      "Khát vọng cống hiến, lẽ sống thanh niên",
+      "Sứ mệnh thanh niên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "orig": 57,
+    "question": "Chiến dịch thanh niên tình nguyện hè được triển khai với chương trình \"Tiếp sức mùa thi\" và những chiến dịch nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "orig": 58,
+    "question": "Đâu là tên một phong trào trong thiếu nhi triển khai trong nhiệm kỳ?",
+    "options": [
+      "Thiếu nhi Việt Nam thi đua làm theo 5 điều Bác Hồ dạy",
+      "Học sinh 3 tốt",
+      "Học sinh 3 rèn luyện",
+      "Ba giỏi"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "orig": 59,
+    "question": "Đại hội đại biểu Đoàn TNCS Hồ Chí Minh toàn quốc lần thứ XIII, nhiệm kỳ 2026 - 2031 có bao nhiêu đại biểu tham dự?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 60,
+    "question": "Đại hội Đoàn toàn quốc lần thứ XIII dự kiến tổ chức vào thời gian nào?",
+    "options": [
+      "20 - 21/6/2026",
+      "22 - 23/6/2026",
+      "24 - 25/6/2026",
+      "26 - 27/6/2026"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 61,
+    "orig": 61,
+    "question": "Theo Luật Thanh niên năm 2020, chính sách của Nhà nước đối với thanh niên có tài năng là:",
+    "options": [
+      "Tất cả đều đúng.",
+      "Chính phủ có chính sách phát hiện, đào tạo, bồi dưỡng, thu hút, trọng dụng và đãi ngộ đối với thanh niên có tài năng.",
+      "Khuyến khích tổ chức, cá nhân hỗ trợ thanh niên tham gia hoạt động tình nguyện vì lợi ích của cộng đồng, xã hội.",
+      "Người đứng đầu cơ quan, tổ chức có trách nhiệm thực hiện chính sách đối với thanh niên có tài năng phù hợp với chức năng, nhiệm vụ và quyền hạn của mình."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "orig": 62,
+    "question": "Theo Luật Thanh niên năm 2020, Chính sách của nhà nước đối với thanh niên về lao động, việc làm:",
+    "options": [
+      "Tạo điều kiện cho thanh niên được vay vốn ưu đãi từ Quỹ quốc gia về việc làm",
+      "Tạo điều kiện để thanh niên có việc làm tốt",
+      "Tất cả đều đúng",
+      "Giáo dục, đào tạo kiến thức, kỹ năng khởi nghiệp cho thanh niên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "orig": 63,
+    "question": "Theo Luật Thanh niên năm 2020, Chính sách của nhà nước đối với thanh niên về bảo vệ Tổ quốc:",
+    "options": [
+      "Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Quân đội nhân dân được hưởng chính sách hỗ trợ đào tạo nghề",
+      "Bảo đảm cho thanh niên thực hiện nghĩa vụ quân sự",
+      "Tất cả đều đúng",
+      "Bảo đảm cho thanh niên được giáo dục quốc phòng và an ninh, tinh thần yêu nước, chủ nghĩa cộng sản, ý thức xây dựng và bảo vệ Tổ quốc."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "orig": 64,
+    "question": "Theo quy định của Luật Thanh niên có bao nhiêu nguyên tắc bảo đảm thực hiện quyền, nghĩa vụ của thanh niên và chính sách của Nhà nước đối với thanh niên?",
+    "options": [
+      "05 nguyên tắc.",
+      "06 Nguyên tắc",
+      "07 Nguyên tắc",
+      "08 Nguyên tắc"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 65,
+    "orig": 65,
+    "question": "Thủ tướng Chính phủ, Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm đối thoại với thanh niên ít nhất mỗi năm bao nhiêu lần về các vấn đề liên quan đến thanh niên; người đứng đầu cơ quan, tổ chức, đơn vị lực lượng vũ trang nhân dân có trách nhiệm đối thoại với thanh niên theo yêu cầu của tổ chức thanh niên quy định tại Luật này?",
+    "options": [
+      "01 Lần",
+      "02 Lần",
+      "03 lần",
+      "04 lần"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "orig": 66,
+    "question": "Theo quy định của Luật Thanh niên Chính sách về học tập và nghiên cứu khoa học được quy định như thế nào?",
+    "options": [
+      "Có chính sách tín dụng, học bổng, miễn, giảm học phí cho thanh niên theo quy định của pháp luật.",
+      "Khuyến khích, hỗ trợ thanh niên học tập, nâng cao trình độ chuyên môn, nghiệp vụ; khả năng sáng tạo, nghiên cứu, ứng dụng tiến bộ khoa học và công nghệ.",
+      "Ưu đãi, hỗ trợ tổ chức, cá nhân đầu tư hoạt động nghiên cứu khoa học, đổi mới sáng tạo của thanh niên; tham gia đào tạo kỹ năng sống và kỹ năng cần thiết khác cho thanh niên.",
+      "Cả 3 đáp án đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 67,
+    "orig": 67,
+    "question": "Theo quy định của Luật Thanh niên Chính sách về văn hóa, thể dục, thể thao được quy định như thế nào?",
+    "options": [
+      "Bảo đảm cho thanh niên được giáo dục quốc phòng và an ninh, tinh thần yêu nước, chủ nghĩa anh hùng cách mạng, ý thức xây dựng và bảo vệ Tổ quốc.",
+      "Bảo đảm cho thanh niên thực hiện nghĩa vụ quân sự; nghĩa vụ tham gia Công an nhân dân, Dân quân tự vệ; tham gia quân nhân dự bị và xây dựng nền quốc phòng toàn dân, nền an ninh nhân dân theo quy định của pháp luật.",
+      "Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân được hưởng chính sách hỗ trợ đào tạo nghề và các chính sách ưu đãi khác theo quy định của pháp luật.",
+      "Khuyến khích tổ chức, cá nhân đầu tư xây dựng các thiết chế văn hóa, thể dục, thể thao cho thanh niên."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 68,
+    "orig": 68,
+    "question": "Theo quy định của Luật Thanh niên Chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được quy định như thế nào?",
+    "options": [
+      "Trang bị kiến thức, kỹ năng tự bảo vệ trước nguy cơ ảnh hưởng đến sức khỏe thể chất, tinh thần; bảo đảm các biện pháp hỗ trợ và can thiệp để thanh niên từ đủ 16 tuổi đến dưới 18 tuổi được sống an toàn, lành mạnh.",
+      "Ưu tiên cho thanh niên là người dân tộc thiểu số về học tập, lao động, việc làm, khởi nghiệp, chăm sóc sức khỏe, thể dục, thể thao.",
+      "Hỗ trợ thanh niên là người dân tộc thiểu số giữ gìn, phát huy bản sắc văn hóa dân tộc, xây dựng nếp sống văn minh, đấu tranh xóa bỏ phong tục, tập quán lạc hậu.",
+      "Ưu tiên lựa chọn đào tạo, bồi dưỡng và đưa vào quy hoạch để tạo nguồn lãnh đạo, quản lý đối với cán bộ, công chức, viên chức là thanh niên người dân tộc thiểu số trong cơ quan, tổ chức, đơn vị của Nhà nước; Khuyến khích doanh nghiệp, tổ chức ưu tiên tuyển dụng thanh niên là người dân tộc thiểu số."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "orig": 69,
+    "question": "Tổ chức thanh niên có trách nhiệm gì ?",
+    "options": [
+      "Tổ chức thanh niên có trách nhiệm nghiên cứu nhu cầu, nguyện vọng của thanh niên để kiến nghị với cơ quan, tổ chức có thẩm quyền; phối hợp với cơ quan quản lý nhà nước về thanh niên, các cơ quan có liên quan trong việc tuyên truyền, giáo dục, thực hiện chính sách, pháp luật đối với thanh niên; tổ chức cho thanh niên tham gia phong trào vì lợi ích của cộng đồng, xã hội, vì sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Tổ chức thanh niên có trách nhiệm nghiên cứu nguyện vọng của thanh niên để kiến nghị với cơ quan, tổ chức có thẩm quyền; phối hợp với cơ quan quản lý nhà nước về thanh niên, các cơ quan có liên quan trong việc tuyên truyền, giáo dục, thực hiện chính sách, pháp luật đối với thanh niên; tổ chức cho thanh niên tham gia phong trào vì lợi ích của cộng đồng, xã hội, vì sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Tổ chức thanh niên có trách nhiệm nghiên cứu nhu cầu, nguyện vọng của thanh niên để kiến nghị với cơ quan, tổ chức có thẩm quyền; phối hợp với cơ quan quản lý nhà nước về thanh niên, các cơ quan có liên quan trong việc tuyên truyền, giáo dục, thực hiện chính sách, pháp luật đối với thanh niên.",
+      "Tổ chức thanh niên có trách nhiệm nghiên cứu nhu cầu, nguyện vọng, quyền lợi của thanh niên để kiến nghị với cơ quan, tổ chức có thẩm quyền; phối hợp với cơ quan quản lý nhà nước về thanh niên, các cơ quan có liên quan trong việc tuyên truyền, giáo dục, thực hiện chính sách, pháp luật đối với thanh niên; tổ chức cho thanh niên tham gia phong trào vì lợi ích của cộng đồng, xã hội, vì sự nghiệp xây dựng và bảo vệ Tổ quốc."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "orig": 70,
+    "question": "Đoàn Thanh niên Cộng sản Hồ Chí Minh là ?",
+    "options": [
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị-xã hội của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thiếu niên, nhi đồng, phụ trách Đội Thiếu niên tiền phong Hồ Chí Minh.",
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thiếu niên, nhi đồng, phụ trách Đội Thiếu niên tiền phong Hồ Chí Minh.",
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị-xã hội của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thiếu niên, nhi đồng, phụ trách đoàn viên.",
+      "Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị-xã hội của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thanh thiếu niên, nhi đồng, phụ trách Đội Thiếu niên tiền phong Hồ Chí Minh."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "orig": 71,
+    "question": "Hội Liên hiệp Thanh niên Việt Nam là ?",
+    "options": [
+      "Hội Liên hiệp Thanh niên Việt Nam là tổ chức xã hội rộng rãi của thanh niên Việt Nam và tổ chức thanh niên nhằm đoàn kết, tập hợp mọi tầng lớp thanh niên Việt Nam phấn đấu vì sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Hội Liên hiệp Thanh niên Việt Nam là tổ chức xã hội của thanh niên Việt Nam và tổ chức thanh niên nhằm đoàn kết, tập hợp mọi tầng lớp thanh niên Việt Nam phấn đấu vì sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Hội Liên hiệp Thanh niên Việt Nam là tổ chức xã hội rộng rãi của thanh niên và tổ chức thanh niên nhằm đoàn kết, tập hợp mọi tầng lớp thanh niên Việt Nam phấn đấu vì sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Hội Liên hiệp Thanh niên Việt Nam là tổ chức chính trị - xã hội rộng rãi của thanh niên Việt Nam và tổ chức thanh niên nhằm đoàn kết, tập hợp mọi tầng lớp thanh niên Việt Nam phấn đấu vì sự nghiệp xây dựng và bảo vệ Tổ quốc."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "orig": 72,
+    "question": "Một mô hình hoạt động toàn diện; được xây dựng trên cở sở điạ bàn dân cư nhằm thu hút, tập hợp thanh niên tham gia làm lực lượng nòng cốt; phù hợp với phong tục, tập quán, truyền thống của thanh thiếu niên miền núi; được chính quyền các cấp, các già làng, bà con các dân tộc tỉnh ủng hộ, thanh thiếu nhi hưởng ứng một cách tự nguyện và được nhân rộng ra các địa phương trong cả nước mà Ủy ban TW Hội đã chỉ đạo là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "orig": 73,
+    "question": "Cơ quan ngôn luận của Hội LHTN Việt Nam là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "orig": 74,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ III, đồng chí nào đã thay mặt Đoàn Chủ tịch đọc Diễn văn khai mạc Đại hội?",
+    "options": [
+      "Đồng chí Phạm Ngọc Thạnh.",
+      "Đồng chí Lê Quang Vịnh.",
+      "Đồng chí Hà Quang Dự.",
+      "Đồng chí Trương Thị Mai"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 75,
+    "orig": 75,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ III, Đại hội đã hết sức phấn khởi lắng nghe bài phát biểu Huấn thị của đồng chí Tổng Bí thư Trung ương Đảng lúc bấy giờ, đó là đồng chí nào?",
+    "options": [
+      "Đồng chí Lê Duẩn.",
+      "Đồng chí Đỗ Mười.",
+      "Đồng chí Võ Văn Kiệt.",
+      "Đồng chí Nguyễn Phú Trọng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "orig": 76,
+    "question": "Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ III được triệu tập đúng vào dịp kỷ niệm lần thứ bao nhiêu của Ngày thành lập Quân đội nhân dân Việt Nam anh hùng?",
+    "options": [
+      "30 năm.",
+      "40 năm.",
+      "50 năm.",
+      "60 năm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "orig": 77,
+    "question": "Thiết thực thực hiện phong trào “Học tập vì ngày mai lập nghiệp” trong thanh niên, học sinh, sinh viên của Hội sinh viên Việt Nam phát động. Chàng hiệp sĩ trên mạng Internet Nguyễn Tử Quảng – Một trong 10 gương mặt trẻ Việt Nam năm 1998 được tuyên dương, khi đó anh bao nhiêu tuổi?",
+    "options": [
+      "21 tuổi.",
+      "22 tuổi.",
+      "23 tuổi.",
+      "24 tuổi."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "orig": 78,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ IV, đồng chí nào đã thay mặt Đoàn Chủ tịch đọc Diễn văn khai mạc Đại hội.",
+    "options": [
+      "Đồng chí Hồ Đức Việt",
+      "Đồng chí Lê Quang Vịnh.",
+      "Đồng chí Hà Quang Dự.",
+      "Đồng chí Trương Thị Mai."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "orig": 79,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ IV, đã được các đồng chí lãnh đạo Đảng, Nhà nước, Quốc hội, Chính phủ các tổ chức và nhân dân đến dự. Đồng chí Tổng Bí thư Trung ương Đảng đã phát biểu dành những tình cảm thân thương và trách nhiệm với tuổi trẻ thanh niên Việt Nam, đó là đồng chí nào?",
+    "options": [
+      "Đồng chí Đỗ Mười.",
+      "Đồng chí Lê Khả Phiêu.",
+      "Đồng chí Võ Văn Kiệt.",
+      "Đồng chí Nguyễn Phú Trọng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "orig": 80,
+    "question": "Trong bài phát biểu tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ IV, Tổng Bí thư Lê Khả Phiêu đã gửi lời cảm ơn sự giúp đỡ tận tình và không mệt mỏi của thanh niên thế giới và 1 tổ chức đã cùng với Thanh niên Việt Nam trong sự nghiêp đấu tranh giải phóng dân tộc, bảo vệ Tổ quốc và xây dựng đất nước trong ba phần tư thế kỷ. Đó là tổ chức nào?",
+    "options": [
+      "Unessco.",
+      "Liên đoàn Thanh niên Dân chủ thế giới.",
+      "Đảng Cộng Sản Pháp.",
+      "Đảng cộng Sản Cuba."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "orig": 81,
+    "question": "Đại hội Đại biểu Hội LHTN Việt Nam lần thứ IV đã thống nhất thông qua khẩu hiệu hành động của Thanh niên Việt Nam:",
+    "options": [
+      "\"Thanh niên Việt Nam – Xung kích, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Tài năng, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Đoàn kết, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Đoàn kết, sáng tạo – Tình nguyện vì dân – Lập nghiệp, kiến quốc\""
+    ],
+    "answer": 2
+  },
+  {
+    "id": 82,
+    "orig": 82,
+    "question": "Tại Hội nghị tổng kết công công tác Hội năm 2002, chị Trương Thị Mai được Đảng, Nhà nước phân công nhiệm vụ mới. Ai được Hội nghị hiệp thương giữ chức vụ Chủ tịch Hội LHTN Việt Nam?",
+    "options": [
+      "Anh Hoàng Bình Quân.",
+      "Anh Đinh Quế Hải.",
+      "Anh Trần Đắc Lợi.",
+      "Anh Nông Quốc Tuấn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "orig": 83,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ V, đã được các đồng chí lãnh đạo Đảng, Nhà nước, Quốc hội, chính phủ các tổ chức và nhân dân đến dự. Đồng chí Tổng Bí thư Trung ương Đảng đã phát biểu đánh giá cao và khẳng định sự đóng góp to lớn của các tầng lớp thanh niên Việt Nam trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đó là đồng chí nào?",
+    "options": [
+      "Đồng chí Đổ Mười.",
+      "Đồng chí Lê Khả Phiêu.",
+      "Đồng chí Nông Đức Mạnh.",
+      "Đồng chí Nguyễn Phú Trọng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "orig": 84,
+    "question": "Đại hội Đại biểu Hội LHTN Việt Nam lần thứ V đã thống nhất thông qua khẩu hiệu hành động của Thanh niên Việt Nam:",
+    "options": [
+      "\"Thanh niên Việt Nam – Xung kích, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Tài năng, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Đoàn kết, sáng tạo – Tình nguyện vì dân – Lập thân, kiến quốc\".",
+      "\"Thanh niên Việt Nam – Đoàn kết, sáng tạo – Thi đua, tình nguyện – Lập nghiệp, kiến quốc\"."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Kế hoạch số 234/KH-TWH, ngày 09/11/2005 của TW Hội LHTN Việt Nam về việc đẩy mạnh thực hiện Cuộc vận động:",
+    "options": [
+      "\"Nghĩa tình biên cương Tổ quốc\".",
+      "\"Thanh niên sống đẹp\".",
+      "\"Vì đàn em thân yêu\".",
+      "\"Sống, chiên đấu, lao động và học tập theo gương Bác Hồ vĩ đại\""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "orig": 86,
+    "question": "Nghị quyết số 25 của Hội nghị BCH Trung ương Đảng lần thứ 7 khóa X ngày 25/7/2008 về:",
+    "options": [
+      "\"Tăng cường sự lãnh đạo của Đảng đối với công tác thanh niên trong thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa\".",
+      "\"Một số vấn đề cấp bách về xây dựng Đảng hiện nay\".",
+      "\"Nâng cao chất lượng sinh hoạt của các tổ chức cơ sở Đảng\".",
+      "\"Tăng cường sự lãnh đạo của Đảng đối với công tác phòng, chống tham nhũng, lãng phí \"."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ VI, đã được các đồng chí lãnh đạo Đảng, Nhà nước, Quốc hội, Chính phủ, các tổ chức và nhân dân đến dự. Đồng chí Tổng Bí thư Trung ương Đảng đã phát biểu đánh giá cao vai trò của thanh niên cũng như những đóng góp to lớn của các tầng lớp thanh niên Việt Nam trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đó là đồng chí nào?",
+    "options": [
+      "Đồng chí Đỗ Mười.",
+      "Đồng chí Lê Khả Phiêu.",
+      "Đồng chí Nông Đức Mạnh.",
+      "Đồng chí Nguyễn Phú Trọng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "orig": 88,
+    "question": "Tại Đại hội đại biểu Hội LHTN Việt Nam toàn quốc lần thứ VI, đồng chí Nông Đức Mạnh - Tổng Bí thư Trung ương Đảng đã trao tăng Đại hội bức trướng với dòng chữ:",
+    "options": [
+      "\"Thanh niên Việt Nam, đoàn kết, sáng tạo, xung kích vì sự nghiệp xây dựng và bảo vệ Tổ quốc\".",
+      "\"Thanh niên Việt Nam xây hoài bão lớn, đoàn kết, sáng tạo, xung kích vì sự nghiệp xây dựng và bảo vệ Tổ quốc\".",
+      "\"Thanh niên Việt Nam xây hoài bão lớn, sáng tạo, xung kích vì sự nghiệp xây dựng và bảo vệ Tổ quốc\".",
+      "\"Thanh niên Việt Nam xây hoài bão lớn, đoàn kết, xung kích vì sự nghiệp xây dựng và bảo vệ Tổ quốc\""
+    ],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Chủ tịch Hội LHTN Việt Nam đầu tiên là:",
+    "options": [
+      "Đại tướng Nguyễn Chí Thanh",
+      "Bác sĩ Phạm Ngọc Thạch",
+      "Giáo sư Phạm Huy Thông",
+      "Nhạc sĩ Lưu Hữu Phước"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "orig": 90,
+    "question": "Khẩu hiệu hành động của Đại hội khóa VI, là:",
+    "options": [
+      "\"Thanh niên Việt Nam xây hoài bão lớn, chung sức trẻ vì Tổ quốc giàu mạnh và văn minh\".",
+      "\"Thanh niên Việt Nam vì Tổ quốc giàu mạnh và văn minh\".",
+      "\"Thanh niên Việt Nam xây hoài bảo lớn, vì Tổ quốc giàu mạnh và văn minh\".",
+      "\"Thanh niên Việt Nam chung sức trẻ vì Tổ quốc giàu mạnh và văn minh\"."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "orig": 91,
+    "question": "Ngày 24/01/2013, Hội nghị Ủy ban Trung ương Hội lần thứ 7 khóa VI diễn ra tại Hà Nội, đồng chí nào được hiệp thương chọn cử giữ chức danh Chủ tịch Ủy ban Trung ương Hội LHTN Việt Nam khóa VI thay anh Nguyễn Phước Lộc đã được điều động phân công nhiệm vụ mới tại Ban dân vận Trung ương.",
+    "options": [
+      "Nguyễn Quang Trường.",
+      "Nguyễn Phi Long.",
+      "Phan Văn Mãi.",
+      "Nguyễn Đắc Vinh."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "orig": 92,
+    "question": "Ngày 30/6/2014, Hội nghị Ủy ban Trung ương Hội lần thứ 10 khóa VI diễn ra tại Hà Nội, đồng chí nào được hiệp thương chọn cử giữ chức danh Chủ tịch Ủy ban Trung ương Hội LHTN Việt Nam khóa VI thay anh Phan Văn Mãi đã được điều động về Tỉnh ủy Bến Tre tham gia BCH, BTV và giữ chức danh Phó Bí thư Tỉnh ủy Bến Tre nhiệm kỳ 2010 – 2015.",
+    "options": [
+      "Nguyễn Quang Trường.",
+      "Nguyễn Phi Long.",
+      "Đặng Quốc Toàn.",
+      "Nguyễn Đắc Vinh"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "orig": 93,
+    "question": "Ngày 25/01/2010, anh Nguyễn Phước Lộc – PCT Thường trực Trung ương Hội đã ký ban hành Chương trình số: 20 CT/TWH triển khai Chương trình công tác Hội và phong trào thanh niên năm 2010, với chủ đề công tác năm:",
+    "options": [
+      "\"Hành trình nhân ái vì an sinh xã hội\".",
+      "\"Thanh niên làm theo lời Bác, hành động vì cộng đồng\".",
+      "\"Chung sức trẻ hành động vì an sinh xã hội\".",
+      "\"Năm nâng cao chất lượng tổ chức cơ sở Hội\"."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "orig": 94,
+    "question": "Ngày 17/02/2014, anh Phan Văn Mãi – Chủ tịch Hội LHTN Việt Nam đã ký ban hành chương trình công tác Hội và phong trào Thanh niên năm 2014 với chủ đề công tác năm:",
+    "options": [
+      "\"Hành trình nhân ái vì an sinh xã hội\".",
+      "\"Thanh niên làm theo lời Bác, hành động vì cộng đồng\".",
+      "\"Chung sức trẻ hành động vì an sinh xã hội\".",
+      "\"Năm nâng cao chất lượng tổ chức cơ sở Hội\"."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 95,
+    "orig": 95,
+    "question": "Khẩu hiệu hành động của Đại hội Hội LHTN Việt Nam toàn quốc lần thứ VII có nội dung gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "orig": 96,
+    "question": "Đại hội Hội LHTN Việt Nam lần thứ VII, nhiệm kỳ 2014 – 2019 diễn ra vào ngày nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "orig": 97,
+    "question": "Điều lệ Hội LHTN Việt Nam hiện nay được ban hành khi nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "orig": 98,
+    "question": "Chủ tịch Hội LHTN Việt Nam hiện nay là ai?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "orig": 99,
+    "question": "Chỉ tiêu về công tác xây dựng tổ chức Hội, mở rộng mặt trận đoàn kết tập hợp thanh niên đã được Đại hội Hội LHTN Việt Nam toàn quốc lần thứ VII thông qua là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "orig": 100,
+    "question": "Những chương trình, phong trào nhằm vận động thanh niên thi đua rèn luyện nhiệm hưởng ứng phong trào “Tôi yêu Tổ quốc tôi” là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "Khẩu hiệu hành động của Hội Liên hiệp Thanh niên Việt Nam khóa VIII là gì?",
+    "options": [
+      "Đoàn kết - Sáng tạo - Hội nhập - Phát triển",
+      "Thanh niên Việt Nam yêu nước, sáng tạo, tình nguyện, hội nhập, phát triển",
+      "Tuổi trẻ Việt Nam tiên phong, bản lĩnh, đoàn kết, sáng tạo",
+      "Khát vọng - Tiên phong - Đoàn kết - Phát triển"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 102,
+    "orig": 102,
+    "question": "Ủy Ban Trung ương Hội LHTN Việt Nam khóa VII, nhiệm kỳ 2014 – 2019 có bao nhiêu ủy viên?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "Đại hội VIII đã hiệp thương chọn cử bao nhiêu Ủy viên Ủy ban Trung ương Hội Liên hiệp Thanh niên Việt Nam khóa VIII, nhiệm kỳ 2019 - 2024?",
+    "options": [
+      "125",
+      "130",
+      "137",
+      "145"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "orig": 104,
+    "question": "Ban kiểm tra Trung ương Hội LHTN Việt Nam khóa VII, nhiệm kỳ 2014 – 2019, có bao nhiêu ủy viên?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "orig": 105,
+    "question": "Theo điều lệ Hội Liên Hiệp Thanh Niêm Việt Nam , sửa đổi 2010, Chủ thể nào có trách nhiệm hướng dẫn thực hiện Điều lệ Hội",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "Chủ tịch hội liên hiệp thanh niên việt nam hiện nay là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "orig": 107,
+    "question": "Đại hội Hội LHTN Việt Nam nhiệm kỳ 2019-2024 đề ra bao nhiêu chỉ tiêu trọng tâm ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "orig": 108,
+    "question": "Đại hội Hội Liên hiệp Thanh niên (LHTN) Việt Nam lần thứ VIII, nhiệm kỳ 2019 - 2024 tín nhiệm hiệp thương bao nhiêu anh/chị tham gia Ủy ban Trung ương Hội LHTN Việt Nam khóa VIII",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "Đại hội Hội Liên hiệp Thanh niên (LHTN) Việt Nam lần thứ VIII, nhiệm kỳ 2019 - 2024 hiệp thương Đoàn Chủ tịch Ủy Ban Trung ương Hội Liên hiệp Thanh niên Việt Nam gồm bao nhiêu anh/chị?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "orig": 110,
+    "question": "Đại hội đại biểu Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng lần thứ I, nhiệm kỳ 2026 – 2029 diễn ra với khẩu hiệu hành động là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "Đại hội đại biểu Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng lần thứ I, nhiệm kỳ 2026 – 2029 diễn ra vào thời gian nào?",
+    "options": [
+      "Ngày 27 – 28 tháng 5 năm 2026",
+      "Ngày 28 – 29 tháng 5 năm 2026",
+      "Ngày 29 – 30 tháng 5 năm 2026",
+      "Ngày 30 – 31 tháng 5 năm 2026"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 112,
+    "orig": 112,
+    "question": "Theo điều lệ Hội Liên Hiệp Thanh Niêm Việt Nam , sửa đổi 2010, việc sửa đổi , bổ sung Điều lệ Hội phải được ít nhất ……… số đại biểu có mặt tại Đại hội thông qua?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "orig": 113,
+    "question": "Đại hội đại biểu Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng lần thứ I, nhiệm kỳ 2026 – 2029 với sự tham dự của bao nhiêu đại biểu chính thức?",
+    "options": [
+      "300 đại biểu chính thức",
+      "325 đại biểu chính thức",
+      "350 đại biểu chính thức",
+      "375 đại biểu chính thức"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "Ai được hiệp thương cử giữ chức Chủ tịch Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng khóa I, nhiệm kỳ 2026 - 2029?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "orig": 115,
+    "question": "Đại hội đã hiệp thương cử bao nhiêu Phó Chủ tịch Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng khóa I, nhiệm kỳ 2026 - 2029?",
+    "options": [
+      "03 Phó Chủ tịch",
+      "04 Phó Chủ tịch",
+      "05 Phó Chủ tịch",
+      "06 Phó Chủ tịch"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 116,
+    "orig": 116,
+    "question": "Đại hội đã công bố Ban Thư ký Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng khóa I, nhiệm kỳ 2026 - 2029 gồm bao nhiêu thành viên?",
+    "options": [
+      "11 thành viên",
+      "12 thành viên",
+      "13 thành viên",
+      "14 thành viên"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 117,
+    "orig": 117,
+    "question": "Đại hội đã công bố Ủy ban Kiểm tra Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng khóa I, nhiệm kỳ 2026 - 2029 gồm bao nhiêu thành viên?",
+    "options": [
+      "04 thành viên",
+      "05 thành viên",
+      "06 thành viên",
+      "07 thành viên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "orig": 118,
+    "question": "Đại hội đã hiệp thương cử bao nhiêu Ủy viên Ủy ban Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng khóa I, nhiệm kỳ 2026 - 2029?",
+    "options": [
+      "57 thành viên",
+      "58 thành viên",
+      "59 thành viên",
+      "60 thành viên"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "orig": 119,
+    "question": "Đại hội đại biểu Hội Liên hiệp Thanh niên Việt Nam thành phố Đà Nẵng lần thứ I, nhiệm kỳ 2026 - 2029 được tổ chức tại đâu?",
+    "options": [
+      "Phường Ngũ Hành Sơn",
+      "Phường Bàn Thạch",
+      "Phường Tam Kỳ",
+      "Phường Hòa Cường"
+    ],
+    "answer": 1
+  }
+]

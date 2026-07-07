@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Luật Trật tự, an toàn giao thông đường bộ năm 2024 chính thức có hiệu lực thi hành từ ngày nào?",
+    "options": [
+      "01/7/2025.",
+      "01/01/2024.",
+      "01/01/2025.",
+      "01/7/2024."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Luật Trật tự, an toàn giao thông đường bộ năm 2024 gồm bao nhiêu chương và bao nhiêu điều?",
+    "options": [
+      "8 chương, 89 điều.",
+      "9 chương, 89 điều.",
+      "9 chương, 88 điều.",
+      "8 chương, 90 điều."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Khái niệm \"đường bộ\" theo quy định hiện hành bao gồm những thành phần nào?",
+    "options": [
+      "Đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.",
+      "Đường, dải phân cách và hành lang an toàn.",
+      "Đường xe chạy và vỉa hè.",
+      "Đường và cầu đường bộ."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Cơ quan nào chịu trách nhiệm chính trước Chính phủ về quản lý nhà nước về trật tự, an toàn giao thông đường bộ?",
+    "options": [
+      "Bộ Công an.",
+      "Bộ Tư pháp.",
+      "Bộ Giao thông vận tải.",
+      "Ủy ban An toàn giao thông Quốc gia."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Giấy phép lái xe hạng A1 theo luật mới cấp cho người điều khiển loại xe nào?",
+    "options": [
+      "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm³ hoặc động cơ điện đến 11 kW.",
+      "Xe gắn máy dưới 50 cm³.",
+      "Xe mô tô hai bánh từ 50 cm³ đến dưới 175 cm³.",
+      "Xe mô tô từ 125 cm³ trở lên."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "orig": 6,
+    "question": "Người sở hữu giấy phép lái xe hạng A theo luật mới được điều khiển loại xe nào?",
+    "options": [
+      "Tất cả các loại xe ô tô con.",
+      "Xe mô tô ba bánh chở hàng.",
+      "Xe mô tô hai bánh có dung tích xi-lanh trên 125 cm³ hoặc động cơ điện trên 11 kW.",
+      "Chỉ xe mô tô từ 175 cm³ trở lên."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "orig": 7,
+    "question": "Giấy phép lái xe hạng B theo quy định mới cấp cho người lái xe ô tô chở người đến bao nhiêu chỗ ngồi?",
+    "options": [
+      "Đến 7 chỗ.",
+      "Đến 9 chỗ, kể cả chỗ của người lái xe.",
+      "Đến 16 chỗ.",
+      "Không giới hạn số chỗ."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "orig": 8,
+    "question": "Giấy phép lái xe hạng B cấp cho người lái xe tải có khối lượng toàn bộ theo thiết kế tối đa là bao nhiêu?",
+    "options": [
+      "Trên 3.500 kg.",
+      "Đến 7.500 kg.",
+      "Đến 3.500 kg.",
+      "Đến 5.000 kg."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "orig": 9,
+    "question": "Để điều khiển xe ô tô tải có khối lượng toàn bộ theo thiết kế trên 7.500 kg, người lái xe phải có giấy phép lái xe hạng nào?",
+    "options": [
+      "Hạng",
+      "Hạng",
+      "Hạng C1.",
+      "Hạng D2."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "orig": 10,
+    "question": "Giấy phép lái xe hạng D2 theo hệ thống phân hạng mới cấp cho người lái xe ô tô chở người loại nào?",
+    "options": [
+      "Từ 18 đến 30 chỗ, kể cả chỗ của người lái xe.",
+      "Từ 10 đến 17 chỗ, kể cả chỗ của người lái xe.",
+      "Chỉ xe giường nằm.",
+      "Trên 30 chỗ, kể cả chỗ của người lái xe."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "orig": 11,
+    "question": "Giấy phép lái xe hạng D cấp cho người lái xe ô tô chở người có số chỗ ngồi là bao nhiêu?",
+    "options": [
+      "Trên 16 chỗ.",
+      "Xe container.",
+      "Trên 30 chỗ, kể cả chỗ của người lái xe.",
+      "Từ 10 đến 30 chỗ."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "orig": 12,
+    "question": "Theo luật mới, mỗi giấy phép lái xe có tổng cộng bao nhiêu điểm trong một năm?",
+    "options": [
+      "10 điểm.",
+      "12 điểm.",
+      "50 điểm.",
+      "20 điểm."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "orig": 13,
+    "question": "Khi giấy phép lái xe bị trừ hết điểm, người lái xe muốn phục hồi điểm phải làm gì?",
+    "options": [
+      "Chờ sau 12 tháng tự phục hồi.",
+      "Nộp tiền phạt tự động.",
+      "Đổi giấy phép lái xe mới.",
+      "Sau ít nhất 06 tháng phải tham gia kiểm tra kiến thức pháp luật và đạt yêu cầu."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "orig": 14,
+    "question": "Nếu giấy phép lái xe chưa bị trừ hết điểm, sau bao lâu kể từ lần trừ điểm gần nhất, nếu không bị trừ tiếp, sẽ được phục hồi đủ 12 điểm?",
+    "options": [
+      "24 tháng.",
+      "12 tháng.",
+      "03 tháng.",
+      "06 tháng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "orig": 15,
+    "question": "Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe gắn máy?",
+    "options": [
+      "Đủ 18 tuổi.",
+      "Đủ 16 tuổi.",
+      "Đủ 15 tuổi.",
+      "Đủ 14 tuổi."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "orig": 16,
+    "question": "Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh hạng A1, A và xe ô tô hạng B?",
+    "options": [
+      "Đủ 21 tuổi.",
+      "Đủ 16 tuổi.",
+      "Đủ 18 tuổi.",
+      "Đủ 17 tuổi."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "orig": 17,
+    "question": "Tuổi tối đa của người lái xe ô tô chở người trên 29 chỗ, không kể chỗ của người lái xe, được quy định thế nào?",
+    "options": [
+      "Không giới hạn độ tuổi.",
+      "Đủ 60 tuổi cho cả nam và nữ.",
+      "Đủ 50 tuổi đối với nữ, đủ 55 tuổi đối với nam.",
+      "Đủ 55 tuổi đối với nữ, đủ 57 tuổi đối với nam."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 18,
+    "orig": 18,
+    "question": "Ứng dụng định danh điện tử nào được pháp luật công nhận để xuất trình các loại giấy tờ khi Cảnh sát giao thông kiểm tra?",
+    "options": [
+      "VNeID.",
+      "eTax.",
+      "VssID.",
+      "PC-Covid."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "orig": 19,
+    "question": "\"Phương tiện giao thông đường bộ\" gồm những loại nào?",
+    "options": [
+      "Xe ô tô, xe máy và xe máy chuyên dùng.",
+      "Xe cơ giới và xe chuyên dùng.",
+      "Phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ, xe máy chuyên dùng và các loại xe tương tự.",
+      "Tất cả các phương tiện di chuyển trên đường."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "orig": 20,
+    "question": "\"Phương tiện giao thông cơ giới đường bộ\" gồm những loại nào?",
+    "options": [
+      "Chỉ gồm xe ô tô, xe tải và xe khách.",
+      "Chỉ gồm xe ô tô và xe mô tô.",
+      "Xe ô tô; rơ moóc, sơ mi rơ moóc được kéo bởi xe ô tô; xe chở người bốn bánh có gắn động cơ; xe chở hàng bốn bánh có gắn động cơ; xe mô tô; xe gắn máy và các loại xe tương tự.",
+      "Xe đạp, xe xích lô, xe lăn dùng cho người khuyết tật."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 21,
+    "orig": 21,
+    "question": "\"Người tham gia giao thông đường bộ\" gồm những thành phần nào?",
+    "options": [
+      "Người điều khiển, người sử dụng phương tiện.",
+      "Người đi bộ trên đường bộ.",
+      "Người dẫn dắt súc vật.",
+      "Tất cả các thành phần trên."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "orig": 22,
+    "question": "Ai được coi là \"người điều khiển giao thông\"?",
+    "options": [
+      "Thanh tra giao thông đang đi tuần tra.",
+      "Người đi bộ qua đường.",
+      "Tài xế xe cứu thương.",
+      "Cảnh sát giao thông; người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, ùn tắc, bến phà, cầu đi chung đường sắt."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "orig": 23,
+    "question": "Hành vi điều khiển phương tiện tham gia giao thông mà trong máu hoặc hơi thở có nồng độ cồn bị nghiêm cấm ở mức nào?",
+    "options": [
+      "Chỉ cấm đối với người lái xe ô tô.",
+      "Cấm tuyệt đối; cứ có nồng độ cồn là vi phạm.",
+      "Chỉ cấm khi vượt quá 50 mg/100 ml máu.",
+      "Chỉ cấm khi vượt quá 0,25 mg/l khí thở."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "orig": 24,
+    "question": "Sử dụng điện thoại di động khi đang điều khiển phương tiện được quy định thế nào?",
+    "options": [
+      "Nghiêm cấm hành vi dùng tay cầm và sử dụng điện thoại khi đang lái xe.",
+      "Chỉ cấm đối với xe khách.",
+      "Được dùng khi xe chạy chậm dưới 10 km/h.",
+      "Được dùng nếu có tai nghe."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "orig": 25,
+    "question": "Xe máy chuyên dùng gồm những loại nào?",
+    "options": [
+      "Xe tải ben trên 10 tấn.",
+      "Xe mô tô phân khối lớn.",
+      "Xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác tham gia giao thông.",
+      "Xe cứu hỏa và xe cứu thương."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "orig": 26,
+    "question": "\"Hành lang an toàn đường bộ\" là gì?",
+    "options": [
+      "Phần đường dành riêng cho xe chạy tốc độ cao.",
+      "Dải đất dọc hai bên đất của đường bộ nhằm bảo đảm an toàn giao thông và bảo vệ công trình đường bộ.",
+      "Vỉa hè dọc hai bên đường phố.",
+      "Làn đường khẩn cấp trên cao tốc."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "orig": 27,
+    "question": "Thời hạn của giấy phép lái xe hạng B theo quy định mới là bao nhiêu năm?",
+    "options": [
+      "Vô thời hạn.",
+      "20 năm.",
+      "10 năm.",
+      "05 năm."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "orig": 28,
+    "question": "Thời hạn của giấy phép lái xe các hạng C, D1, D2, D là bao nhiêu năm?",
+    "options": [
+      "05 năm.",
+      "03 năm.",
+      "Vô thời hạn.",
+      "10 năm."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "orig": 29,
+    "question": "Biển số xe được cấp và quản lý theo mã định danh của ai?",
+    "options": [
+      "Của hãng sản xuất.",
+      "Của địa phương nơi sản xuất xe.",
+      "Của chủ xe, tức biển số định danh.",
+      "Của chiếc xe đó."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "orig": 30,
+    "question": "Đi bộ, đi xe đạp, xe gắn máy vào đường cao tốc, trừ người và phương tiện phục vụ quản lý, bảo trì đường cao tốc, là hành vi như thế nào?",
+    "options": [
+      "Bị nghiêm cấm.",
+      "Được phép vào ban đêm.",
+      "Được phép nếu đi sát lề.",
+      "Chỉ xe gắn máy trên 50 cm³ được vào."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "orig": 31,
+    "question": "Người tham gia giao thông phải đi như thế nào là đúng quy tắc?",
+    "options": [
+      "Đi ở làn giữa trong mọi trường hợp.",
+      "Đi theo xe phía trước.",
+      "Đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và chấp hành hệ thống báo hiệu đường bộ.",
+      "Đi bên trái nếu đường bên phải bị tắc."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "orig": 32,
+    "question": "Trên đường có nhiều làn đường cùng chiều được phân biệt bằng vạch kẻ, người lái xe phải chuyển làn như thế nào?",
+    "options": [
+      "Chuyển làn bất cứ lúc nào thấy trống.",
+      "Chỉ chuyển làn khi có Cảnh sát giao thông yêu cầu.",
+      "Bật xi nhan là được chuyển ngay lập tức.",
+      "Chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải bảo đảm an toàn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "orig": 33,
+    "question": "Xe thô sơ phải đi ở làn đường nào khi di chuyển trên đường có phân làn?",
+    "options": [
+      "Làn đường ở giữa.",
+      "Làn đường bên trái ngoài cùng.",
+      "Làn đường bên phải trong cùng.",
+      "Đi trên vỉa hè."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "orig": 34,
+    "question": "Khi gặp đèn tín hiệu giao thông màu vàng bật sáng ổn định, người lái xe phải làm gì?",
+    "options": [
+      "Dừng xe ngay lập tức giữa ngã tư.",
+      "Tăng tốc độ để vượt qua vạch.",
+      "Chỉ cần giảm tốc độ và không cần dừng.",
+      "Phải dừng lại trước vạch dừng; trường hợp đã đi quá vạch hoặc quá gần vạch nếu dừng lại thấy nguy hiểm thì được đi tiếp."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "orig": 35,
+    "question": "Tín hiệu đèn vàng nhấp nháy có ý nghĩa gì?",
+    "options": [
+      "Phải dừng lại tuyệt đối.",
+      "Đèn bị hỏng, các xe tự do đi.",
+      "Được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường hoặc các phương tiện khác.",
+      "Cấm tất cả các xe rẽ trái."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "orig": 36,
+    "question": "Nếu hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn tín hiệu hoặc biển báo, người tham gia giao thông phải chấp hành theo hiệu lệnh của ai?",
+    "options": [
+      "Biển báo hiệu.",
+      "Người điều khiển giao thông.",
+      "Đèn tín hiệu.",
+      "Xe ưu tiên phía sau."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "orig": 37,
+    "question": "Người điều khiển giao thông giơ tay thẳng đứng có ý nghĩa gì?",
+    "options": [
+      "Cho phép tất cả các xe rẽ phải.",
+      "Xe ở phía bên phải được đi.",
+      "Người tham gia giao thông ở các hướng đều phải dừng lại trước vạch dừng.",
+      "Xe ở phía trước và sau được đi thẳng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "orig": 38,
+    "question": "Người điều khiển giao thông dang ngang hai tay có ý nghĩa gì?",
+    "options": [
+      "Hướng phía trước được đi, các hướng khác dừng lại.",
+      "Tất cả các hướng được đi.",
+      "Người tham gia giao thông ở phía trước và phía sau phải dừng lại; ở phía bên phải và bên trái được đi.",
+      "Tất cả các hướng phải dừng lại."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "orig": 39,
+    "question": "Trước khi chuyển hướng, rẽ trái hoặc rẽ phải, người lái xe phải làm gì?",
+    "options": [
+      "Bấm còi liên tục.",
+      "Tăng tốc để rẽ nhanh.",
+      "Chỉ cần chú ý gương chiếu hậu.",
+      "Giảm tốc độ và có tín hiệu báo hướng rẽ trước một khoảng cách an toàn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 40,
+    "orig": 40,
+    "question": "Cấm quay đầu xe ở những vị trí nào dưới đây?",
+    "options": [
+      "Phần đường dành cho người đi bộ qua đường.",
+      "Đường hẹp, đoạn đường cong tầm nhìn bị che khuất.",
+      "Trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, nơi đường bộ giao cắt đường sắt.",
+      "Tất cả các phương án trên."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 41,
+    "orig": 41,
+    "question": "Khi lùi xe, người lái xe phải thực hiện những biện pháp an toàn nào?",
+    "options": [
+      "Lùi thật nhanh để không cản trở xe khác.",
+      "Phải quan sát phía sau, có tín hiệu cần thiết và chỉ khi nào thấy không nguy hiểm mới được lùi.",
+      "Bật đèn pha chiếu xa.",
+      "Chỉ cần nhìn gương chiếu hậu bên trái."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "Hành vi lùi xe trên đường cao tốc bị pháp luật quy định như thế nào?",
+    "options": [
+      "Được lùi nếu chạy quá lối ra.",
+      "Bị nghiêm cấm hoàn toàn.",
+      "Được lùi ở làn dừng khẩn cấp.",
+      "Được lùi khi có người xi nhan phía sau."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "orig": 43,
+    "question": "Khi muốn vượt xe khác, phương tiện phải vượt về phía bên nào?",
+    "options": [
+      "Phía bên phải.",
+      "Bên nào thoáng thì vượt.",
+      "Phía bên trái, trừ các trường hợp đặc biệt được luật cho phép.",
+      "Đi lên vỉa hè để vượt."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "orig": 44,
+    "question": "Trường hợp nào dưới đây xe được phép vượt về phía bên phải?",
+    "options": [
+      "Tất cả các trường hợp trên.",
+      "Khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.",
+      "Khi xe điện đang chạy giữa đường.",
+      "Khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "orig": 45,
+    "question": "Trong đô thị và khu đông dân cư từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, xe xin vượt phải báo hiệu bằng cách nào?",
+    "options": [
+      "Chỉ được báo hiệu bằng còi.",
+      "Không cần báo hiệu.",
+      "Phải báo hiệu bằng cả còi và đèn.",
+      "Chỉ được báo hiệu bằng tín hiệu đèn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 46,
+    "orig": 46,
+    "question": "Khi hai xe tránh nhau trên đoạn đường hẹp, dốc, quy tắc nhường đường như thế nào là đúng?",
+    "options": [
+      "Xe nào lớn hơn thì được đi trước.",
+      "Xe nào nháy đèn trước thì được đi trước.",
+      "Xe xuống dốc phải nhường đường cho xe đang lên dốc.",
+      "Xe lên dốc phải nhường đường cho xe xuống dốc."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "orig": 47,
+    "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường thế nào?",
+    "options": [
+      "Nhường đường cho xe đi đến từ bên phải.",
+      "Nhường đường cho xe đi đến từ bên trái.",
+      "Xe tải được ưu tiên đi trước xe con.",
+      "Xe nào xi nhan trước được đi trước."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "orig": 48,
+    "question": "Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, quy tắc nhường đường là gì?",
+    "options": [
+      "Phải nhường đường cho xe đi đến từ bên phải.",
+      "Phải nhường đường cho xe đi bên trái, tức xe đã vào trong vòng xuyến.",
+      "Xe nào to hơn được đi trước.",
+      "Các xe đi cùng lúc."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "orig": 49,
+    "question": "Khi từ đường ngõ, đường nhánh, đường không ưu tiên ra đường chính, đường ưu tiên, tài xế phải xử lý thế nào?",
+    "options": [
+      "Bấm còi liên tục để các xe trên đường chính nhường đường.",
+      "Tăng tốc để nhập làn nhanh chóng.",
+      "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.",
+      "Chỉ nhường xe đi từ bên phải."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "orig": 50,
+    "question": "Thứ tự quyền ưu tiên của các xe đi làm nhiệm vụ khẩn cấp từ cao xuống thấp được quy định như thế nào?",
+    "options": [
+      "Tất cả các xe có quyền ngang nhau.",
+      "Xe cứu thương; xe chữa cháy; xe công an; xe quân sự.",
+      "Xe chữa cháy; xe quân sự, xe công an, xe kiểm sát đi làm nhiệm vụ khẩn cấp và đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương; xe hộ đê, xe đi làm nhiệm vụ khắc phục sự cố, thiên tai, dịch bệnh; đoàn xe tang.",
+      "Xe công an; xe quân sự; xe cứu thương; xe chữa cháy."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 51,
+    "orig": 51,
+    "question": "Các xe ưu tiên khi đi làm nhiệm vụ khẩn cấp phải có tín hiệu gì theo quy định?",
+    "options": [
+      "Phải có còi, cờ, đèn tín hiệu theo quy định pháp luật.",
+      "Chỉ cần bật đèn pha.",
+      "Dán chữ \"ƯU TIÊN\" trước kính xe.",
+      "Chỉ cần rú ga thật to."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Xe ưu tiên khi đi làm nhiệm vụ khẩn cấp có bị hạn chế tốc độ không?",
+    "options": [
+      "Chỉ được chạy nhanh khi đường vắng.",
+      "Có, phải tuân thủ tốc độ tối đa của đoạn đường.",
+      "Chỉ được chạy quá tốc độ 20 km/h.",
+      "Không bị hạn chế tốc độ; được phép đi vào đường ngược chiều, qua đèn đỏ nhưng phải bảo đảm an toàn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "orig": 53,
+    "question": "Khái niệm \"dừng xe\" được hiểu như thế nào là đúng?",
+    "options": [
+      "Là trạng thái đứng yên tạm thời của phương tiện giao thông trong khoảng thời gian cần thiết để cho người lên, xuống, xếp dỡ hàng hóa hoặc thực hiện công việc khác.",
+      "Là việc tắt máy xe nghỉ ngơi.",
+      "Là trạng thái xe bị hỏng máy.",
+      "Là trạng thái đứng yên của phương tiện không giới hạn thời gian."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "orig": 54,
+    "question": "Khái niệm \"đỗ xe\" được hiểu như thế nào?",
+    "options": [
+      "Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.",
+      "Là trạng thái đứng yên tạm thời của xe.",
+      "Là việc gửi xe vào bãi đỗ.",
+      "Là xe dừng lại chờ đèn đỏ."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "orig": 55,
+    "question": "Khi dừng xe, đỗ xe trên đường phố, bánh xe gần nhất không được cách lề đường, hè phố quá bao nhiêu mét?",
+    "options": [
+      "0,20 mét.",
+      "0,25 mét.",
+      "0,50 mét.",
+      "0,30 mét."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "orig": 56,
+    "question": "Khi dừng, đỗ xe trên đường phố hẹp, không được đỗ xe cách xe ô tô đang đỗ ở phía bên kia đường dưới bao nhiêu mét?",
+    "options": [
+      "15 mét.",
+      "05 mét.",
+      "10 mét.",
+      "20 mét."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 57,
+    "orig": 57,
+    "question": "Quy định mới về việc chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 m trên xe ô tô con là gì?",
+    "options": [
+      "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ khi xe chỉ có một hàng ghế, và phải sử dụng thiết bị an toàn phù hợp.",
+      "Được người lớn bế ngồi ghế trước.",
+      "Được ngồi ghế trước nếu có thắt dây an toàn.",
+      "Ngồi ở vị trí nào cũng được miễn là đóng chặt cửa."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "orig": 58,
+    "question": "Người điều khiển xe mô tô hai bánh, xe gắn máy được phép chở tối đa mấy người ngồi sau?",
+    "options": [
+      "03 người nếu xe phân khối lớn.",
+      "02 người trong mọi trường hợp.",
+      "Không được chở ai.",
+      "01 người, trừ một số trường hợp ngoại lệ được chở 02 người."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "orig": 59,
+    "question": "Trường hợp nào dưới đây xe mô tô hai bánh được phép chở tối đa 02 người ngồi sau?",
+    "options": [
+      "Tất cả các trường hợp trên.",
+      "Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật.",
+      "Chở trẻ em dưới 12 tuổi.",
+      "Chở người già yếu hoặc người khuyết tật."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 60,
+    "question": "Người ngồi trên xe mô tô, xe gắn máy có được thực hiện hành vi bám, kéo hoặc đẩy phương tiện khác không?",
+    "options": [
+      "Được phép kéo xe đạp.",
+      "Tuyệt đối không được phép.",
+      "Được phép vào ban đêm khi đường vắng.",
+      "Được phép nếu xe khác bị hỏng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "orig": 61,
+    "question": "Người điều khiển xe đạp có được phép buông cả hai tay hoặc đi xe dàn hàng ngang từ 03 xe trở lên không?",
+    "options": [
+      "Được phép nếu là học sinh.",
+      "Được phép đi dàn hàng ngang trên đường làng.",
+      "Được buông hai tay khi đường vắng.",
+      "Bị nghiêm cấm."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "orig": 62,
+    "question": "Người đi bộ phải đi như thế nào là đúng quy tắc giao thông?",
+    "options": [
+      "Đi bên nào cũng được miễn là chú ý xe cộ.",
+      "Đi dưới lòng đường sát dải phân cách.",
+      "Phải đi trên hè phố, lề đường; trường hợp đường không có hè phố, lề đường thì người đi bộ phải đi sát mép đường.",
+      "Đi chéo qua ngã tư để qua đường nhanh nhất."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "orig": 63,
+    "question": "Khi xe gặp sự cố kỹ thuật trên đường cao tốc, người lái xe phải thực hiện ngay thao tác nào đầu tiên?",
+    "options": [
+      "Tiếp tục cố gắng cho xe chạy đến lối ra.",
+      "Gọi điện cho cứu hộ rồi ngồi yên trong xe.",
+      "Xuống xe vẫy gọi xe khác giúp đỡ.",
+      "Bật đèn cảnh báo nguy hiểm."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "orig": 64,
+    "question": "Trên đường cao tốc, việc đặt biển hoặc thiết bị cảnh báo nguy hiểm phía sau xe bị sự cố tối thiểu là bao nhiêu mét?",
+    "options": [
+      "100 mét.",
+      "150 mét.",
+      "50 mét.",
+      "200 mét."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "orig": 65,
+    "question": "Làn đường khẩn cấp trên đường cao tốc dùng để làm gì?",
+    "options": [
+      "Nơi nghỉ ngơi, ngắm cảnh của tài xế.",
+      "Để xe ô tô con chạy khi đường chính bị ùn tắc.",
+      "Dành cho xe tải chạy chậm.",
+      "Dành riêng cho xe bị sự cố dừng đỗ hoặc cho các xe ưu tiên đi làm nhiệm vụ khẩn cấp."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 66,
+    "orig": 66,
+    "question": "Người lái xe phải giữ một khoảng cách an toàn với xe chạy liền trước như thế nào?",
+    "options": [
+      "Càng đi sát càng tốt để tránh bị xe khác chen vào.",
+      "Luôn giữ cố định là 05 mét.",
+      "Không cần giữ khoảng cách nếu chạy chậm.",
+      "Phải tuân thủ khoảng cách an toàn tối thiểu phù hợp với tốc độ, mật độ giao thông và điều kiện thời tiết."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 67,
+    "orig": 67,
+    "question": "Trong hầm đường bộ, người điều khiển phương tiện có được phép quay đầu xe hay lùi xe không?",
+    "options": [
+      "Bị nghiêm cấm hoàn toàn.",
+      "Được quay đầu nếu hầm rộng.",
+      "Được lùi xe khi đi quá lối rẽ trong hầm.",
+      "Được quay đầu xe vào ban đêm."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "orig": 68,
+    "question": "Phương tiện cơ giới đi trong hầm đường bộ bắt buộc phải thực hiện quy định nào về chiếu sáng?",
+    "options": [
+      "Chỉ cần bật đèn định vị.",
+      "Không cần bật đèn nếu hầm sáng.",
+      "Bật đèn pha chiếu xa để nhìn rõ hơn.",
+      "Phải bật đèn chiếu sáng phía trước, đèn gần/đèn cốt, ngay cả khi hầm đường bộ đã có ánh sáng điện."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 69,
+    "orig": 69,
+    "question": "Xe vận chuyển hàng hóa nguy hiểm khi lưu thông trên đường phải tuân thủ điều kiện gì?",
+    "options": [
+      "Phải có giấy phép do cơ quan nhà nước có thẩm quyền cấp và có ký hiệu, biểu trưng cảnh báo trên xe.",
+      "Chạy càng nhanh càng tốt.",
+      "Không cần điều kiện gì đặc biệt.",
+      "Chỉ được chạy vào ngày lễ."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "orig": 70,
+    "question": "Tại đoạn đường có vạch kẻ đường đơn màu vàng, nét liền, người lái xe được thực hiện hành vi nào?",
+    "options": [
+      "Được quay đầu xe qua vạch.",
+      "Được đè lên vạch để vượt xe.",
+      "Không được đè lên vạch, không được chuyển làn hoặc lấn sang làn ngược chiều.",
+      "Được dừng, đỗ xe trên vạch."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 71,
+    "orig": 71,
+    "question": "Khi bán, tặng hoặc điều chuyển quyền sở hữu xe, chủ xe phải làm gì với biển số xe đối với biển số định danh?",
+    "options": [
+      "Vứt bỏ biển số cũ đi.",
+      "Bán luôn biển số cùng với xe.",
+      "Phải giữ lại chứng nhận đăng ký và biển số xe, nộp lại cho cơ quan đăng ký xe để làm thủ tục thu hồi.",
+      "Cho người mua mượn biển số trong 01 năm."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 72,
+    "orig": 72,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày làm giấy tờ chuyển quyền sở hữu xe, chủ xe phải làm thủ tục thu hồi đăng ký, biển số xe?",
+    "options": [
+      "10 ngày.",
+      "15 ngày.",
+      "30 ngày.",
+      "60 ngày."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "orig": 73,
+    "question": "Xe cơ giới tham gia giao thông đường bộ bắt buộc phải có loại bảo hiểm nào dưới đây?",
+    "options": [
+      "Bảo hiểm người ngồi trên xe.",
+      "Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới.",
+      "Bảo hiểm thân vỏ xe.",
+      "Bảo hiểm hàng hóa."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "orig": 74,
+    "question": "Theo quy định mới, việc kiểm định khí thải đối với xe mô tô, xe gắn máy được thực hiện như thế nào?",
+    "options": [
+      "Chỉ áp dụng cho xe tự chế.",
+      "Hoàn toàn tự nguyện.",
+      "Bắt buộc thực hiện theo lộ trình và quy định cụ thể của Chính phủ.",
+      "Chỉ áp dụng đối với xe nhập khẩu."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 75,
+    "orig": 75,
+    "question": "Thiết bị giám sát hành trình và camera giám sát bắt buộc phải lắp đặt trên loại phương tiện nào?",
+    "options": [
+      "Xe ô tô kinh doanh vận tải như xe khách, xe tải kinh doanh.",
+      "Tất cả các xe ô tô cá nhân.",
+      "Xe máy chuyên dùng.",
+      "Xe mô tô phân khối lớn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "orig": 76,
+    "question": "Khi xảy ra tai nạn giao thông, người điều khiển xe có liên quan trực tiếp phải có trách nhiệm gì đầu tiên?",
+    "options": [
+      "Gọi điện cho người nhà đến giải quyết.",
+      "Dừng xe ngay lập tức, giữ nguyên hiện trường, cấp cứu người bị nạn.",
+      "Rời khỏi hiện trường ngay lập tức.",
+      "Đổ lỗi cho phương tiện khác."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "orig": 77,
+    "question": "Người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm nào sau đây?",
+    "options": [
+      "Báo tin ngay cho cơ quan Công an, Y tế hoặc Ủy ban nhân dân nơi gần nhất.",
+      "Tất cả các trách nhiệm trên.",
+      "Cung cấp thông tin xác thực về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.",
+      "Bảo vệ hiện trường, giúp đỡ, cứu chữa kịp thời người bị nạn."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "orig": 78,
+    "question": "Hành vi lợi dụng vụ tai nạn giao thông để hành hung, đe dọa, lăng mạ hoặc hôi của, chiếm đoạt tài sản, bị pháp luật xử lý thế nào?",
+    "options": [
+      "Không có quy định xử lý.",
+      "Được xem là tranh chấp dân sự.",
+      "Nghiêm cấm và bị xử lý nghiêm khắc theo quy định hành chính hoặc hình sự.",
+      "Chỉ bị nhắc nhở."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 79,
+    "orig": 79,
+    "question": "Đèn lùi gắn phía sau xe ô tô bắt buộc phải có ánh sáng màu gì?",
+    "options": [
+      "Màu trắng.",
+      "Màu xanh.",
+      "Màu đỏ.",
+      "Màu vàng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "orig": 80,
+    "question": "Đèn phanh, đèn báo hãm, của xe ô tô, xe mô tô bắt buộc phải phát ra ánh sáng màu gì?",
+    "options": [
+      "Màu vàng.",
+      "Màu trắng.",
+      "Màu đỏ.",
+      "Màu xanh lục."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "orig": 81,
+    "question": "Biển số xe của ô tô, xe máy kinh doanh vận tải như xe công nghệ, xe taxi, xe tải kinh doanh có đặc điểm gì về màu sắc?",
+    "options": [
+      "Nền màu xanh, chữ màu trắng.",
+      "Nền màu trắng, chữ màu đen.",
+      "Nền màu đỏ, chữ màu trắng.",
+      "Nền màu vàng, chữ và số màu đen."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 82,
+    "orig": 82,
+    "question": "Biển số xe của các cơ quan Đảng, Nhà nước, Văn phòng Quốc hội, Công an có đặc điểm gì?",
+    "options": [
+      "Nền màu xanh, chữ màu vàng.",
+      "Nền màu xanh, chữ và số màu trắng.",
+      "Nền màu vàng, chữ màu đỏ.",
+      "Nền màu trắng, chữ màu đen."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "orig": 83,
+    "question": "Chủ phương tiện có được tự ý thay đổi màu sơn, nhãn hiệu hoặc kết cấu hệ thống truyền động của xe không?",
+    "options": [
+      "Được tự ý thay đổi theo sở thích.",
+      "Không được phép tự ý thay đổi khi chưa được cơ quan đăng ký xe chấp thuận.",
+      "Chỉ cần báo cáo sau khi đã thay đổi xong.",
+      "Được thay đổi màu sơn, cấm thay đổi máy."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "orig": 84,
+    "question": "Người lái xe kinh doanh vận tải hành khách không được thực hiện hành vi nào dưới đây?",
+    "options": [
+      "Đón, trả khách đúng nơi quy định.",
+      "Chở quá số người quy định hoặc chở hàng hóa cồng kềnh trong khoang chở khách.",
+      "Giúp đỡ hành khách là người già, trẻ em.",
+      "Thu tiền vé theo đúng giá niêm yết."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Việc lắp đặt còi hơi, còi phát ra âm thanh vượt quá âm lượng quy định trên xe ô tô con bị xử lý thế nào?",
+    "options": [
+      "Bị nghiêm cấm và không được chấp nhận khi kiểm định an toàn kỹ thuật.",
+      "Chỉ cấm ở đường nông thôn.",
+      "Được phép lắp để cảnh báo từ xa.",
+      "Được dùng ban ngày, cấm ban đêm."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "orig": 86,
+    "question": "Người nước ngoài điều khiển phương tiện giao thông tại Việt Nam cần có điều kiện gì về giấy phép lái xe?",
+    "options": [
+      "Chỉ cần giấy phép lái xe của quốc gia họ là đủ.",
+      "Chỉ được lái xe điện du lịch.",
+      "Phải có giấy phép lái xe quốc tế phù hợp được Việt Nam công nhận hoặc giấy phép lái xe do Việt Nam cấp.",
+      "Không cần bằng lái nếu có hộ chiếu."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Trách nhiệm tuyên truyền, giáo dục pháp luật về trật tự, an toàn giao thông đường bộ thuộc về ai?",
+    "options": [
+      "Chỉ riêng nhà trường.",
+      "Chỉ riêng ngành Công an.",
+      "Là trách nhiệm của gia đình, nhà trường, cơ quan, tổ chức và toàn xã hội.",
+      "Chỉ riêng ngành Giao thông vận tải."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "orig": 88,
+    "question": "Xe máy điện khi tham gia giao thông có bắt buộc phải đăng ký và gắn biển số xe không?",
+    "options": [
+      "Chỉ bắt buộc đối với người trên 18 tuổi.",
+      "Bắt buộc phải đăng ký và gắn biển số theo quy định.",
+      "Chỉ cần đăng ký, không cần gắn biển số.",
+      "Không cần đăng ký vì là xe chạy điện."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Giao xe cho người không có giấy phép lái xe hoặc người đang có nồng độ cồn điều khiển xe tham gia giao thông là hành vi như thế nào?",
+    "options": [
+      "Bị nghiêm cấm hoàn toàn.",
+      "Chủ xe không phải chịu trách nhiệm.",
+      "Được phép nếu đi quãng đường ngắn.",
+      "Chỉ bị phạt nếu xảy ra tai nạn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "orig": 90,
+    "question": "Khi chở hàng vượt quá chiều cao hoặc chiều dài thiết kế của thùng xe ô tô tải, tài xế phải làm gì?",
+    "options": [
+      "Chỉ chạy vào ban đêm.",
+      "Dùng bạt che kín lại để tránh bị phát hiện.",
+      "Cứ chạy bình thường nếu chằng buộc chắc chắn.",
+      "Phải xin giấy phép lưu hành đặc biệt của cơ quan thẩm quyền và có báo hiệu an toàn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 91,
+    "orig": 91,
+    "question": "Hệ thống báo hiệu đường bộ theo luật hiện hành bao gồm những gì?",
+    "options": [
+      "Cảnh sát giao thông và hệ thống camera phạt nguội.",
+      "Hiệu lệnh của người điều khiển giao thông; tín hiệu đèn; biển báo hiệu; vạch kẻ đường; cọc tiêu, rào chắn, tường bảo vệ.",
+      "Chỉ gồm đèn giao thông.",
+      "Biển báo hiệu và vạch kẻ đường."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "orig": 92,
+    "question": "Thứ tự ưu tiên chấp hành hệ thống báo hiệu đường bộ khi tham gia giao thông là gì?",
+    "options": [
+      "Người điều khiển giao thông; tín hiệu đèn; biển báo hiệu; vạch kẻ đường.",
+      "Xe đi trước tuân thủ thế nào thì đi theo thế đó.",
+      "Đèn tín hiệu; biển báo hiệu; vạch kẻ đường.",
+      "Biển báo; đèn tín hiệu; vạch kẻ đường; người điều khiển giao thông."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "orig": 93,
+    "question": "Biển báo hiệu hình tròn, viền đỏ, nền màu trắng, trên nền có hình vẽ hoặc chữ số, chữ viết màu đen thuộc nhóm biển báo nào?",
+    "options": [
+      "Biển báo nguy hiểm.",
+      "Biển chỉ dẫn.",
+      "Biển hiệu lệnh.",
+      "Biển báo cấm."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 94,
+    "orig": 94,
+    "question": "Biển báo hiệu hình tam giác đều, viền đỏ, nền màu vàng, trên nền có hình vẽ màu đen là biển báo gì?",
+    "options": [
+      "Biển chỉ dẫn.",
+      "Biển báo cấm.",
+      "Biển hiệu lệnh.",
+      "Biển báo nguy hiểm và cảnh báo."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 95,
+    "orig": 95,
+    "question": "Biển báo hiệu hình tròn nền màu xanh lam, có hình vẽ màu trắng thuộc nhóm biển báo nào?",
+    "options": [
+      "Biển phụ.",
+      "Biển báo cấm.",
+      "Biển hiệu lệnh phải thi hành.",
+      "Biển chỉ dẫn."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 96,
+    "orig": 96,
+    "question": "Biển báo hình chữ nhật hoặc hình vuông, nền màu xanh lam, hình vẽ màu trắng là loại biển báo nào?",
+    "options": [
+      "Biển báo cấm.",
+      "Biển chỉ dẫn.",
+      "Biển phụ.",
+      "Biển hiệu lệnh."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "orig": 97,
+    "question": "Vạch kẻ đường đứt nét màu trắng phân chia các làn đường cùng chiều có ý nghĩa gì?",
+    "options": [
+      "Chỉ dành cho xe ưu tiên.",
+      "Biểu thị khu vực cấm dừng xe.",
+      "Cấm các xe đè lên vạch.",
+      "Cho phép các xe được chuyển làn, đè lên vạch khi bảo đảm an toàn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "orig": 98,
+    "question": "Vạch kẻ đường đôi nét liền màu vàng phân chia hai chiều xe chạy có ý nghĩa gì?",
+    "options": [
+      "Xe được phép đè vạch khi vượt.",
+      "Cấm các xe đè lên vạch, lấn làn, không được quay đầu xe qua vạch.",
+      "Cho phép đè vạch vào ban đêm.",
+      "Vạch chỉ dẫn khu vực đỗ xe."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "orig": 99,
+    "question": "Tại ngã tư có vạch kẻ hình mắt võng màu vàng nét liền đan xen, người lái xe phải lưu ý điều gì?",
+    "options": [
+      "Không được dừng phương tiện trong phạm vi vạch kẻ này để tránh gây ùn tắc giao thông.",
+      "Chỉ xe máy được đi vào.",
+      "Được đỗ xe thoải mái tại đây.",
+      "Làn đường dành riêng cho xe buýt."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "orig": 100,
+    "question": "Khi muốn quay đầu xe tại ngã tư, tài xế phải cho xe quay đầu ở vị trí nào?",
+    "options": [
+      "Quay đầu ngay giữa ngã tư bất chấp luồng xe.",
+      "Đè lên vạch kẻ đi bộ để quay đầu cho nhanh.",
+      "Ở nơi đường giao nhau hoặc nơi có biển báo cho phép quay đầu xe; tuyệt đối không quay đầu trên vạch đi bộ.",
+      "Quay đầu ở sát vỉa hè bên trái."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "Người điều khiển, người ngồi trên xe mô tô, xe gắn máy không đội mũ bảo hiểm hoặc cài quai không đúng quy cách bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 400.000 đến 600.000 đồng.",
+      "Từ 100.000 đến 200.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 200.000 đến 300.000 đồng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "orig": 102,
+    "question": "Người điều khiển xe mô tô, xe gắn máy trên đường mà trong máu hoặc hơi thở có nồng độ cồn ở mức thấp nhất, chưa vượt quá 50 mg/100 ml máu hoặc chưa quá 0,25 mg/l khí thở, bị phạt tiền bao nhiêu?",
+    "options": [
+      "Chỉ bị nhắc nhở.",
+      "Từ 2.000.000 đến 3.000.000 đồng.",
+      "Từ 500.000 đến 1.000.000 đồng.",
+      "Từ 6.000.000 đến 8.000.000 đồng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "Mức phạt tiền cao nhất đối với người điều khiển xe ô tô vi phạm nồng độ cồn kịch khung, vượt quá 80 mg/100 ml máu hoặc quá 0,4 mg/l khí thở, là bao nhiêu?",
+    "options": [
+      "Từ 40.000.000 đến 60.000.000 đồng.",
+      "Từ 20.000.000 đến 30.000.000 đồng.",
+      "Từ 30.000.000 đến 40.000.000 đồng.",
+      "Từ 10.000.000 đến 20.000.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "orig": 104,
+    "question": "Hành vi dùng tay sử dụng điện thoại di động khi đang điều khiển xe ô tô chạy trên đường bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 500.000 đến 1.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 2.000.000 đến 3.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "orig": 105,
+    "question": "Người đang điều khiển xe mô tô, xe gắn máy sử dụng điện thoại di động bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 2.000.000 đến 3.000.000 đồng.",
+      "Từ 200.000 đến 400.000 đồng.",
+      "Từ 800.000 đến 1.000.000 đồng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "Điều khiển xe mô tô, xe gắn máy chạy dàn hàng ngang từ 03 xe trở lên bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 400.000 đến 600.000 đồng.",
+      "Từ 300.000 đến 400.000 đồng.",
+      "Từ 600.000 đến 800.000 đồng.",
+      "Từ 100.000 đến 200.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 107,
+    "orig": 107,
+    "question": "Người điều khiển xe ô tô không chấp hành hiệu lệnh của đèn tín hiệu giao thông, gồm vượt đèn đỏ hoặc đèn vàng không đúng quy định, bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 6.000.000 đến 8.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 18.000.000 đến 20.000.000 đồng.",
+      "Từ 10.000.000 đến 12.000.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 108,
+    "orig": 108,
+    "question": "Người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông, gồm vượt đèn đỏ hoặc đèn vàng không đúng quy định, bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 800.000 đến 1.000.000 đồng.",
+      "Từ 2.000.000 đến 3.000.000 đồng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "Người điều khiển xe ô tô đi ngược chiều của đường một chiều hoặc đi ngược chiều trên đường có biển \"Cấm đi ngược chiều\" bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 18.000.000 đến 20.000.000 đồng.",
+      "Từ 10.000.000 đến 12.000.000 đồng.",
+      "Từ 16.000.000 đến 18.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "orig": 110,
+    "question": "Hành vi đón, trả khách trên đường cao tốc của người điều khiển xe ô tô chở hành khách bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 5.000.000 đến 7.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 10.000.000 đến 12.000.000 đồng.",
+      "Từ 3.000.000 đến 5.000.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "Người đi bộ đi vào đường cao tốc trái quy định bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 100.000 đến 200.000 đồng.",
+      "Từ 300.000 đến 400.000 đồng.",
+      "Từ 50.000 đến 100.000 đồng.",
+      "Từ 400.000 đến 600.000 đồng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "orig": 112,
+    "question": "Không nhường đường cho xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ đối với người điều khiển xe ô tô bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 10.000.000 đến 12.000.000 đồng.",
+      "Từ 6.000.000 đến 8.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 3.000.000 đến 5.000.000 đồng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "orig": 113,
+    "question": "Chủ xe máy là cá nhân tự ý thay đổi màu sơn của xe không đúng với chứng nhận đăng ký xe bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 100.000 đến 200.000 đồng.",
+      "Từ 400.000 đến 800.000 đồng.",
+      "Từ 200.000 đến 300.000 đồng.",
+      "Từ 50.000 đến 100.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "Người điều khiển xe ô tô chạy quá tốc độ quy định trên 20 km/h đến 35 km/h bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 800.000 đến 1.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 10.000.000 đến 12.000.000 đồng.",
+      "Từ 6.000.000 đến 8.000.000 đồng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "orig": 115,
+    "question": "Lỗi không có Giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của chủ xe cơ giới đối với xe mô tô, xe gắn máy bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 400.000 đến 600.000 đồng.",
+      "Từ 200.000 đến 300.000 đồng.",
+      "Từ 50.000 đến 100.000 đồng.",
+      "Từ 100.000 đến 200.000 đồng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 116,
+    "orig": 116,
+    "question": "Điều khiển xe mô tô, xe gắn máy lạng lách, đánh võng trên đường bộ bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 3.000.000 đến 4.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 8.000.000 đến 10.000.000 đồng.",
+      "Từ 6.000.000 đến 8.000.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 117,
+    "orig": 117,
+    "question": "Người điều khiển xe ô tô thực hiện hành vi quay đầu xe tại nơi có biển báo \"Cấm quay đầu xe\" bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 2.000.000 đến 3.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 800.000 đến 1.000.000 đồng.",
+      "Từ 400.000 đến 600.000 đồng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "orig": 118,
+    "question": "Bấm còi xe trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau đối với xe ô tô bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 400.000 đến 600.000 đồng.",
+      "Từ 800.000 đến 1.000.000 đồng.",
+      "Từ 2.000.000 đến 3.000.000 đồng.",
+      "Từ 100.000 đến 200.000 đồng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "orig": 119,
+    "question": "Người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm³ hoặc có công suất động cơ điện đến 11 kW mà không có giấy phép lái xe bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 1.000.000 đến 2.000.000 đồng.",
+      "Từ 2.000.000 đến 4.000.000 đồng.",
+      "Từ 500.000 đến 1.000.000 đồng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 120,
+    "orig": 120,
+    "question": "Người điều khiển xe ô tô không có giấy phép lái xe bị phạt tiền bao nhiêu?",
+    "options": [
+      "Từ 18.000.000 đến 20.000.000 đồng.",
+      "Từ 4.000.000 đến 6.000.000 đồng.",
+      "Từ 10.000.000 đến 12.000.000 đồng.",
+      "Từ 2.000.000 đến 4.000.000 đồng."
+    ],
+    "answer": 0
+  }
+]

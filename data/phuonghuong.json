@@ -1,0 +1,954 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Điểm Bắc là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Có mấy loại góc phương vị?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Trên thực tế người ta thường sử dụng góc Phương vị nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Với cách gọi tên Phương hướng theo góc thì hướng chính nam có góc góc Phương vị bằng bao nhiêu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Ký hiệu hướng nào sau đây không chính xác?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "orig": 5,
+    "question": "Theo cách gọi tên theo số trên đồng hồ đeo tay thì góc 210 đang chỉ số máy trong kim đồng hồ ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "orig": 6,
+    "question": "Hướng Tây Tây Bắc có góc phương vị là bao nhiêu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "orig": 7,
+    "question": "Để thuận tiện tính toán Liên Xô (cũ) và khối hiệp ước vác-xa-va thống nhất qui chẵn ly giác bằng bao nhiêu ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "orig": 8,
+    "question": "Để thuận tiện tính toán Mỹ và Các nước phương Tây, NATO thống nhất qui chẵn ly giác bằng bao nhiêu ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "orig": 9,
+    "question": "Độ ly giác của góc Đông Đông Nam tính theo độ ly giác của Liên Xô (cũ) bằng bao nhiêu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "orig": 10,
+    "question": "Độ ly giác của góc Bắc Tây Bắc tính theo độ ly giác của Mỹ bằng bao nhiêu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "orig": 11,
+    "question": "Góc tương đương 2625 ly giác tính theo Liên Xô là góc nào sau đây:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "orig": 12,
+    "question": "Thực tế có bao nhiêu hướng Bắc? đó là?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "orig": 13,
+    "question": "Một đầu kim la bàn luôn chỉ hướng Bắc. Đó là hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "orig": 14,
+    "question": "Trên bản đồ,hướng Bắc từ được ký hiệu bằng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "orig": 15,
+    "question": "Hướng Bắc bản đồ là hướng Bắc chỉ có trên bản đồ, theo phép chiếu U.T.M. (Universal Transverse Mercator), Hướng Bắc bản đồ còn có tên gọi là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "orig": 16,
+    "question": "Trên bản đồ,hướng Bắc địa dư được ký hiệu bằng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "orig": 17,
+    "question": "Trên bản đồ,hướng Bắc ô vuông được ký hiệu bằng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "orig": 18,
+    "question": "Hướng Bắc địa dư :",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "orig": 19,
+    "question": "Độ từ thiên là gì? Ký hiệu bằng chữ gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "orig": 20,
+    "question": "Có bao nhiêu cách cách định hướng từ thiên nhiên ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "orig": 21,
+    "question": "Mặt trời chỉ mọc và lặn đúng chính Đông - chính Tây vào:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "orig": 22,
+    "question": "Trái đất có mấy loại chuyển động chính? đó là ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "orig": 23,
+    "question": "Hướng tự quay của trái đất bao giờ cũng là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "orig": 24,
+    "question": "Con người như nhìn thấy hầu như tất cả các thiên thể bầu trời đều quay từ:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "orig": 25,
+    "question": "Mùa hè bán cầu bắc ngả về hướng mặt trời, cho nên hướng mặt trời mọc lệch về:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "orig": 26,
+    "question": "Khi sử dụng phương pháp dùng đồng hồ có kim chỉ giờ và mặt trời để xác định phương hướng,nếu nằm ở Nam bán cầu thì buổi sáng đường phân giác sẽ xác định hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "orig": 27,
+    "question": "Khi sử dụng phương pháp dùng đồng hồ có kim chỉ giờ và mặt trời để xác định phương hướng,nếu nằm ở Bắc bán cầu thì buổi sáng đường phân giác sẽ xác định hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "orig": 28,
+    "question": "Với phương pháp gậy không bóng ta dùng một cây gậy dài khoảng bao nhiêu để cắm xuống đất:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "orig": 29,
+    "question": "Với phương pháp gậy không bóng khoảng 10 phút sau Mặt trời di chuyển và bóng gãy in trên mặt đất bóng này chỉ cho ta biết hướng nào phải tìm?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "orig": 30,
+    "question": "Với phương pháp gậy và bóng nắng ta dùng một cây gậy dài khoảng bao nhiêu để cắm xuống đất:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "orig": 31,
+    "question": "Khi sử dụng phương pháp gậy và bóng nắng ta sẽ có đoạn thẳng được nối bởi hai đầu đỉnh bóng hai đầu này chỉ hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "orig": 32,
+    "question": "Phương pháp nào là phương pháp xác định điểm đứng trên bản đồ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "orig": 33,
+    "question": "Khi xác định được trăng thượng tuần mặt Trăng có hình lưỡi liềm hai đầu nhọn quay về hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "orig": 34,
+    "question": "Khi xác định được Trăng Thượng tuần vào khoảng 18 giờ thì trăng ở hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "orig": 35,
+    "question": "Xác định được Trăng Rằm vào khoảng 24 giờ thì Trăng ở hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "orig": 36,
+    "question": "Xác định được Trăng hạ tuần, trăng có hình bán nguyệt hai đầu nhọn sẽ quay về hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "orig": 37,
+    "question": "Trong xác định phương hướng bằng Mặt Trăng, nếu trong trường hợp chúng ta không biết rõ là đầu tháng hay cuối tháng âm lịch, các bạn sẽ xem xét kỹ lưỡng hướng của dây cung (đường nối hai đỉnh nhọn của trăng ) và kéo dài dây cung này thẳng tới đường chân trời gần nhất đó là hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "orig": 38,
+    "question": "Thiên hà chứa trái đất và thái dương hệ có tên chính xác là gì?",
+    "options": [
+      "Milky Way",
+      "Andromeda",
+      "Cigar",
+      "Messier 81"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "orig": 39,
+    "question": "Thiên cầu là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "orig": 40,
+    "question": "Thiên đỉnh là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 41,
+    "question": "Thiên đế là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "orig": 42,
+    "question": "Theo thiên văn học hiện đại thiên cực được hiểu là?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "orig": 43,
+    "question": ". Hoàng đạo là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "orig": 44,
+    "question": "Có bao nhiêu cung Hoàng đạo?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "orig": 45,
+    "question": "Theo thiên văn học hiện đại Nhật Động là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "orig": 46,
+    "question": "Theo thiên văn học hiện đại trục vũ trụ là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "orig": 47,
+    "question": "Nguyên nhân chính nào dẫn đến hiện tượng có nhiều ngôi sao khác nhau đã, đang và sẽ thay nhau giữ vai trò sao Bắc cực?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "orig": 48,
+    "question": "Hiện nay, ngôi sao nào là sao Bắc Cực?",
+    "options": [
+      "Polaris",
+      "Thuban",
+      "Vega",
+      "Kochab"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "orig": 49,
+    "question": "Dự đoán bán vào khoảng năm 14000 thì ngôi sao nào là ngôi sao bắc cực:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "orig": 50,
+    "question": "Theo thiên văn học hiện đại ngày được định nghĩa là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 51,
+    "question": "Theo thiên văn học hiện đại năm được định nghĩa là:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "orig": 52,
+    "question": "Xuân Phân được tính là ngày nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "orig": 53,
+    "question": "Đường chân trời là gì?",
+    "options": [
+      "Đường giới hạn của vũ trụ",
+      "Đường giới hạn của người nhìn bầu trời",
+      "Đường giới hạn của hệ Mặt Trời",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "orig": 54,
+    "question": "Xích đạo trời là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "orig": 55,
+    "question": "Các thiên thể trong hệ mặt trời có khoảng cách được tính bằng?",
+    "options": [
+      "Năm ánh sáng (LY)",
+      "Parsec",
+      "Đơn vị thiên văn (AU)",
+      "Tất cả đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "orig": 56,
+    "question": "Hiệp hội thiên văn học quốc tế chia bầu trời thành bao nhiêu vùng trời?bao nhiêu chòm sao?",
+    "options": [
+      "88 vùng trời, 48 chòm sao",
+      "88 vùng trời, 88 chòm sao",
+      "48 vùng trời, 88 chòm sao",
+      "48 vùng trời, 48 chòm sao"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "orig": 57,
+    "question": "Tên của các chòm sao được thống nhất dùng bằng tiếng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "orig": 58,
+    "question": "Chòm sao Gấu lớn có tên gọi tiếng Latinh là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 59,
+    "question": "Kéo dài cạnh ngoài của đáy soong của chòm sao Gấu lớn bao nhiêu lần nó sẽ gặp ngôi sao Bắc cực(Polaris)",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "orig": 60,
+    "question": "Xưa kia các phụ nữ da đỏ Châu Mỹ thường dùng ngôi sao nào để kiểm tra thị lực của trẻ con:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "orig": 61,
+    "question": "Chòm sao Đại Hùng được đại diện bởi bao nhiêu ngôi sao tạo thành?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "orig": 62,
+    "question": "Chòm sao Đại Hùng đối xứng với chòm sao nào qua sao Bắc Cực ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "orig": 63,
+    "question": "Vào lúc 21 giờ ngày nào hàng năm là lúc chòm sao Đại Hùng xuất hiện ở vị trí cao nhất trên bầu trời ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "orig": 64,
+    "question": "Nếu kéo cạnh bên của đáy xoong( tạo bởi sao Dubhe và Merak) theo hướng ngược lại với hướng tìm ngôi sao Polaris ta sẽ gặp chòm sao nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "orig": 65,
+    "question": "Chòm sao Gấu nhỏ có tên gọi tiếng Latinh là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "orig": 61,
+    "question": "Chòm sao Tiểu Hùng được đại diện bởi bao nhiêu ngôi sao chính?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "orig": 62,
+    "question": "Sao Bắc Đẩu là cách gọi dân gian, nói về:",
+    "options": [
+      "Một khu vực sao",
+      "Một mảng sao",
+      "Một chòm sao",
+      "Một ngôi sao"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "orig": 63,
+    "question": "Đâu là tên gọi của chòm sao Mục Phu",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "orig": 64,
+    "question": "Chòm sao Mục Phu có bao nhiêu ngôi sao chính?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "orig": 65,
+    "question": "Ngôi sao sáng nhất của chòm sao Bootes là ngôi sao nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "orig": 66,
+    "question": "Từ ngôi sao Boo kéo đường thẳng đi qua sao Seginus , gấp khoảng mấy lần đoạn thẳng được tạo bởi 2 sao trên thì ta gặp sao Bắc Cực:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "orig": 67,
+    "question": "Đâu là tên gọi tiếng Latinh của chòm sao Ngự Phu:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "orig": 68,
+    "question": "Chòm sao Auriga (Ngự Phu) có bao nhiêu ngôi sao?",
+    "options": [
+      "05 sao",
+      "06 sao",
+      "07 sao",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 75,
+    "orig": 69,
+    "question": "Kéo dài cạnh Mahasim - Menkalinan khoảng mấy lần đoạn thẳng của 2 sao tạo thành sẽ gặp ngôi sao bắc cực:",
+    "options": [
+      "05",
+      "06",
+      "07",
+      "08"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "orig": 70,
+    "question": "Đâu là tên gọi tiếng Latinh của chòm sao Thiên Nga:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "orig": 71,
+    "question": "Kéo dài cạnh tạo bởi sao Thiên Tân và sao Aljanah khoảng mấy đoạn bằng chính nó sẽ gặp sao Bắc cực",
+    "options": [
+      "04",
+      "05",
+      "06",
+      "07"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "orig": 72,
+    "question": "Đâu là tên gọi tiếng Latinh của chòm sao Thiên Hậu:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "orig": 73,
+    "question": "Sao Thiên Hậu có hình giống như:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "orig": 74,
+    "question": "Từ sao Ruchbah kẻ 1 đường thẳng tưởng tượng đến ngôi sao Navi tạo thành 1 đoạn thẳng ;tại vị trí sao Navi ta kẻ một đường thẳng vuông góc với đoạn thẳng trên và kéo dài ra 1 khoảng cách gần bằng bao nhiêu lần đoạn thẳng đó ta sẽ gặp ngôi sao bắc cực",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "orig": 75,
+    "question": "Đâu là tên gọi của chòm sao Bọ cạp;",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "orig": 76,
+    "question": "Ngôi sao nào là trái tim của chòm sao Bọ Cạp:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "orig": 77,
+    "question": "Kể một đường thẳng tưởng tượng giữa sao Antares và sao Dschubba, Kể một đường vuông góc tại vị trí giữa đoạn thẳng trên ta sẽ tìm được phương nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "orig": 78,
+    "question": "Đâu là tên gọi khác của chòm sao Orion",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "orig": 79,
+    "question": "Dân Việt Nam còn gọi giải đai lưng của Sao Hiệp Sĩ là sao gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "orig": 80,
+    "question": "Trong chòm sao Hiệp Sĩ kéo một đường tưởng tượng qua đỉnh đầu đến ngôi sao giữa dây lưng và cây gươm ta sẽ tìm được phương gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 81,
+    "question": "Nằm gần chòm sao Cygnus (Thiên Nga) là các chòm sao nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "orig": 82,
+    "question": "Chòm sao nào sau đây không phải là chòm sao Hoàng đạo?",
+    "options": [
+      "Scopius (Bò Cạp),",
+      "Taurus (Kim Ngưu)",
+      "Virgo (Trinh Nữ)",
+      "Cassiopia(Thiên Hậu)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "orig": 83,
+    "question": "Các chòm sao Ngự phu – Mục phu – Xà phu – Thợ săn là mấy chòm sao?",
+    "options": [
+      "02 chòm",
+      "03 chòm",
+      "04 chòm",
+      "02 chòm sao"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 90,
+    "orig": 84,
+    "question": "Nằm gần chòm sao Orion (Thợ săn) là các chòm sao nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "orig": 85,
+    "question": "Gió nam thổi từ biển Đông hải vào lục địa theo chiều nào:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "orig": 86,
+    "question": "Gió thổi từ tháng 4-5 năm dương lịch đến tháng 10-11 dương lịch là gió nào:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "orig": 87,
+    "question": "Loại gió mang theo không khí lạnh từ lục địa Trung Quốc tràn sang nước ta, gây lạnh hoặc giá rét, vào mùa Xuân kèm theo mưa phùn gây ướt át khó chịu, người dân vùng Bắc Bộ còn gọi là gió?",
+    "options": [
+      "Gió Phơn",
+      "Gió Nam",
+      "Gió Bấc",
+      "Gió Lạnh"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "orig": 88,
+    "question": "Gió thổi từ tháng 10-11 năm dương lịch đến tháng 4-5 dương lịch là gió nào:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "orig": 89,
+    "question": "Gió Lào thổi nhiều nhất vào tháng nào ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "orig": 90,
+    "question": "Gió Bấc (gió mùa Đông) có hướng thổi từ lục địa ra biển theo chiều:",
+    "options": [
+      "Đông Bắc xuống Tây Nam",
+      "Tây Nam lên Đông Bắc",
+      "Đông sang Tây",
+      "Cả A và B đều đúng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "orig": 91,
+    "question": "Gió Lào thổi theo hướng nào ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "orig": 92,
+    "question": "Tên gọi địa phương của bà con nông dân ở Nam Bộ đối với gió mùa Đông Bắc là gì:",
+    "options": [
+      "Gió Chướng",
+      "Gió Nam",
+      "Gió Bấc",
+      "Gió Lạnh"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "orig": 93,
+    "question": "Cách nói của người dân đồng bằng Bắc Bộ chỉ loại gió hướng Tây Bắc thổi về dịp có bão xa ở ngoài Biển Đông dó là loại gió nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "orig": 94,
+    "question": "La bàn là một dụng cụ để tìm phương hướng :",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "orig": 95,
+    "question": "Khi sử dụng la bàn cần tránh:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "orig": 96,
+    "question": "Có bao nhiêu loại ước hiệu trên bản đồ",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 97,
+    "question": "Màu đỏ trên bản đồ chỉ ước hiệu cho cái gì:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "orig": 98,
+    "question": "Phần lớn các loài chim di trú (biết hót) bay vào ban đêm, định vị đường bay một phần là nhờ vào:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "orig": 99,
+    "question": "Cách đánh số nhà theo quy định theo nguyên tắc:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 100,
+    "question": "Sông ngòi nước ta hầu hết chảy theo hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "orig": 101,
+    "question": "Trong rừng cây thường ẩm ướt và thiếu ánh sáng mặt trời, nên gốc cây thường mọc rêu, muốn biết phương hướng ta tìm đến những gốc cây to, phía nào rong rêu mọc thì đó là :",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "orig": 102,
+    "question": "Khi gặp một gốc cây bị cưa ngang, nhìn vào vòng tuổi ở vết cưa đó, hướng nào có vòng tuổi ken dày hơn thì là hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 103,
+    "question": "Khi vào rừng gặp gốc cây có kiến tổ kiến ở hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "orig": 104,
+    "question": "Các tán cây lớn phát triển mạnh về hướng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 105,
+    "question": "Thiên xích đạo là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "orig": 106,
+    "question": "Thực thể vũ trụ nào sau đây không phải là ngôi sao?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "orig": 107,
+    "question": "Chòm sao Bắc Đẩu (một cách chưa thực sự chính xác) được gọi là chòm sao nào sau đây?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "orig": 108,
+    "question": "Thiên hà chứa trái đất và thái dương hệ thuộc chòm sao nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "orig": 109,
+    "question": "Có bao nhiêu cách gọi tên phương hướng",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "orig": 110,
+    "question": "Cách gọi tên nào thường sử dụng trong trắc địa, vật lý thiên văn, quân sự.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "orig": 111,
+    "question": "Cách gọi tên nào mà: Không gian được chia ra làm 4 hướng chính là Đông (East), Tây (Weat), Nam (South), Bắc (North) và 4 phương (hướng phụ) xem giữa 4 hướng chính là: Đông bắc (North East – NE), Đông nam (South East – SE), Tây bắc (North West – NW), Tây nam (South West – SW); Để việc xác định chính xác hơn nữa người ta tiếp tục chia nhỏ 4 hướng phụ ra thành 8 hướng phụ nữa gọi là hướng bang,",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "orig": 112,
+    "question": "Cách gọi tên nào chia theo góc phương vị, đây là đơn vị đo góc đặc biệt, sử dụng nhiều trong pháo binh.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 119,
+    "orig": 113,
+    "question": "Theo cách gọi tên theo chữ 8 hướng phụ gọi là hướng bang, bao gồm:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "orig": 114,
+    "question": "Có rất nhiều cách định hướng từ thiên nhiên ( trong đó có nhiều cách chưa thực sự chính xác mà thiên về cảm tính, kinh nghiệm, tập quán hoặc chưa được xác thực bởi khoa học hiện đại) nhưng để đơn giản hóa, ta nghiên cứu ra bao nhiêu cách định hướng từ thiên nhiên cơ bản nhất:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "orig": 115,
+    "question": "Xuân Phân là ngày nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 122,
+    "orig": 116,
+    "question": "Thu Phân là ngày nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 123,
+    "orig": 117,
+    "question": "Những ngày Hạ Chí (21-22/06) thì mặt trời mọc ở:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "orig": 118,
+    "question": "ở Việt Nam,vị trí nào độ từ thiên biến đổi từ (–1)⁰ đến 0⁰ :",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 125,
+    "orig": 119,
+    "question": "Khi sử dụng phương pháp dùng đồng hồ có kim chỉ giờ và mặt trời để xác định phương hướng,nếu nằm ở Nam bán cầu thì buổi chiều đường phân giác sẽ xác định hướng nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "orig": 120,
+    "question": "Đối với các bước thực hiện phương pháp gậy và bóng nắng thì đợi khoảng bao nhiêu phút bóng gậy sẽ khác đi giúp chúng ta xác định được phương hướng?",
+    "options": [],
+    "answer": 0
+  }
+]

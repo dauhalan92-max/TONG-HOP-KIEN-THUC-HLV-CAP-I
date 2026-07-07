@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Thương tích gây nên có sự chú ý của người bị tai nạn thương tích hay của những người khác gây ra?",
+    "options": [
+      "Chết đuối, tai nạn giao thông, ngộ độc.",
+      "Bỏng, ngã, nghẹn hóc",
+      "Điện giật, súc vật cắn, ong chích",
+      "Lạm dụng, bạo lực, đánh nhau."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Thương tích gây nên không có chú ý?",
+    "options": [
+      "Tự tử, bạo lực, đánh nhau",
+      "Chiến tranh, chém nhau, giết người",
+      "Chết đuối, ngã, điện giật",
+      "Bạo lực, chém nhau, chết đuối."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Nguy hiểm tiềm ẩn tại hiện trường xảy ra tai nạn từ?",
+    "options": [
+      "Nguồn điện cao thế, nước sâu, nguy cơ cháy, nổ ...",
+      "Khí độc, hóa chất, vật rơi từ trên cao, sạt lở ...",
+      "a sai b đúng",
+      "a và b đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Kiểm tra sự thở của nạn nhân bằng cách?",
+    "options": [
+      "Lồng ngực có hay không di động theo nhịp thở",
+      "Nhìn, sờ, nghe và cảm nhận",
+      "Áp tai nghe tại mủi, miệng của nạn nhân",
+      "Kiểm tra di động lồng ngực, bụng."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Nạn nhân bị bất tỉnh, kiểm tra mạch một trong các vị trí sau?",
+    "options": [
+      "Mạch cổ, mạch khuỷu tay, mạch bàn chân",
+      "Mạch ổ tay, mạch bẹn, mạch nhượng chân.",
+      "Mạch cảnh, mạch quay (ở cổ tay), mạch đùi (ở bẹn).",
+      "Mạch bàn chân, nhượng chân, cổ tay."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "orig": 6,
+    "question": "Dấu hiệu nhận biết của dị vật đường thở?",
+    "options": [
+      "Tắt không hoàn toàn, tắt hoàn toàn.",
+      "Mặt hoảng hốt, da tím tái",
+      "Mặt hoảng hốt, không nói được.",
+      "Cố gắng thở, không nói được."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "orig": 7,
+    "question": "Nguy cơ của dị vật đường thở?",
+    "options": [
+      "Bất tỉnh, ngừng thở - ngừng tim tử vong",
+      "Khó thở, hai tay ôm cổ, mặt đỏ",
+      "Da tím tái, nôn ói, cố gắng thở",
+      "Mắt trợn ngược, vẻ mặt hốt hoảng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "orig": 8,
+    "question": "Trẻ trên 8 tuổi bị dị vật đường thở áp dụng phương pháp nào để lấy dị vật ra?",
+    "options": [
+      "Phương pháp vỗ lưng ép bụng",
+      "Phương pháp ấn ngực nâng tay",
+      "Phương pháp kéo tay ấn lưng",
+      "Phương pháp hà hơi thổi ngạt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "orig": 9,
+    "question": "Dấu hiếu nhận biết của bất tỉnh?",
+    "options": [
+      "Gọi hỏi không đáp ứng, người mềm nhũn",
+      "Da tím tái, xanh nhợt, người lạnh, vã mồ hôi",
+      "a và b đúng",
+      "a và b sai"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "orig": 10,
+    "question": "Nguy cơ của bất tỉnh?",
+    "options": [
+      "Thiếu máu não, ngừng thở, ngừng tim và tử vong.",
+      "Ngừng thở, tim ngừng đập",
+      "Não bị tổn thương, nhũn não.",
+      "Não bị tổn thương không khả năng phục hồi."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "orig": 11,
+    "question": "Trong sơ cứu nạn nhân bất tỉnh bị tổn thương cột sống thì tránh không được thực hiện?",
+    "options": [
+      "Không đưa nạn nhân về tư thế hồi phục",
+      "Không áp dụng phương pháp ấn lưng",
+      "Không hà hơi thổi ngạt ép tim ngoài lồng ngực.",
+      "Không ấn ngực, nâng tay."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "orig": 12,
+    "question": "Nạn nhân bị bất tỉnh áp dụng phương pháp hô hấp nhân tạo nào hiệu quả nhất?",
+    "options": [
+      "Hà hơi thổ ngạt, ấn tim ngoài lồng ngực.",
+      "Ấn lưng, kéo tay",
+      "Ấn ngực, kéo tay",
+      "Không có phương pháp nào hiệu quả."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "orig": 13,
+    "question": "Một chu kỳ hà hơi thổi ngạt, ấn tim ngoài lồng ngực là?",
+    "options": [
+      "30 lần ấn tim, 2 lần thổi ngạt",
+      "15 lần ấn tim, 2 lần thổi ngạt",
+      "5 lần ấn tim, 2 lần thổi ngạt",
+      "1 lần ấn tim, 2 lần thổi ngạt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "orig": 14,
+    "question": "Khi ấn tim trẻ sơ sinh (dưới 1 tuổi) bị bất tỉnh là?",
+    "options": [
+      "2 ngón tay",
+      "5 ngón tay",
+      "1 cánh tay",
+      "2 bàn tay"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "orig": 15,
+    "question": "Có mấy loại chảy máu? Kể tên?",
+    "options": [
+      "2 loại, chảy máu ngoài và chảy máu trong.",
+      "2 loại, chảy máu đầu và chảy máu mũi",
+      "2 loại, chảy máu tay và chảy máu chân",
+      "2 loại, chảy máu ngực và chảy máu bụng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "orig": 16,
+    "question": "Nguy cơ của chảy máu?",
+    "options": [
+      "Chảy máu nhiều nạn nhân bất tỉnh và tử vong.",
+      "Chảy máu nhiều nạn nhân bị choáng/sốc",
+      "Chảy máu nhiều nạn nhân bị bất tỉnh",
+      "Chảy máu nhiều nạn nhân khó thở, nói nhảm."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "orig": 17,
+    "question": "Vết thương phần mềm bao gồm?",
+    "options": [
+      "Chấn thương kín và vết thương hở.",
+      "Chấn thương xương và vết thương khớp",
+      "Chấn thương da và vết thương xương",
+      "Chấn thương mắt và vết thương đầu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "orig": 18,
+    "question": "Vết thương phần mềm là?",
+    "options": [
+      "Rách da chảy máu",
+      "Không chảy máu",
+      "Sưng nề không chảy máu",
+      "Không cử động được."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "orig": 19,
+    "question": "Chấn thương phần mềm là?",
+    "options": [
+      "Không rách da, đau, bầm tím",
+      "Rách da chảy máu",
+      "Có dị vật tại vết thương",
+      "Gãy xương không chảy máu."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "orig": 20,
+    "question": "Cách rửa vết thương phần mềm?",
+    "options": [
+      "Theo chiều xoắn ốc từ trong vết thương ra ngoài",
+      "Rửa vết thương bằng nước sạch hoặc cồn",
+      "Đặt gạt băng kín vết thương thật chặt",
+      "3 ý trên đều đúng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 21,
+    "orig": 21,
+    "question": "Vết thương ở cẳng tay thường áp dụng kiểu băng phổ biến nào?",
+    "options": [
+      "Băng xoắn ốc",
+      "Băng lật",
+      "Băng số 8",
+      "Băng chữ nhân"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "orig": 22,
+    "question": "Vết thương ở mặt ngoài khuỷn tay (cùi chỏ tay) thường áp dụng kiểu băng phổ biến nào?",
+    "options": [
+      "Băng rẽ quạt",
+      "Băng lật",
+      "Băng số 8",
+      "Băng vòng sấp lại"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "orig": 23,
+    "question": "Vết thương ở đầu thường áp dụng kiểu băng phổ biến nào?",
+    "options": [
+      "Băng vòng gắp lại",
+      "Băng xoắn ốc",
+      "Băng lật",
+      "Băng rẽ quạt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "orig": 24,
+    "question": "Có mấy kiểu băng vết thương?",
+    "options": [
+      "5 kiểu băng",
+      "4 kiểu băng",
+      "3 kiểu băng",
+      "2 kiểu băng"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "orig": 25,
+    "question": "Gãy xương kín là gì?",
+    "options": [
+      "Gãy xương mà ổ gãy không thông với bên ngoài.",
+      "Gãy xương mà ổ gãy thông với bên ngoài.",
+      "a đúng b sai",
+      "b đúng a sai"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "orig": 26,
+    "question": "Gãy xương hở là?",
+    "options": [
+      "Gãy xương mà ổ gãy thông với bên ngoài.",
+      "Gãy xương mà ổ gãy không thông với bên ngoài.",
+      "a đúng b sai",
+      "b đúng a sai"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "orig": 27,
+    "question": "Dấu hiệu của nhật biết bong gân, sai khớp?",
+    "options": [
+      "Đau, hạn chế cử động, sưng, phù nề, bầm tím.",
+      "Sưng, phù nề, bầm tím, chảy máu, thấy xương.",
+      "Đau, hạn chế cử động, rách da, chảy máu.",
+      "Xương gãy di lệch làm tổn thương cơ, thần kinh"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "orig": 28,
+    "question": "Nguyên tắc xử trí gãy xương kèm vết thương phần mềm?",
+    "options": [
+      "Sơ cứu vết thương trước, cố định gãy xương sau.",
+      "Cố định gãy xương trước, sơ cứu vết thương sau.",
+      "a đúng b sai",
+      "b đúng a sai"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "orig": 29,
+    "question": "Nguy cơ tổn thương vùng bụng?",
+    "options": [
+      "Mất máu, choáng sốc, có thể tử vong.",
+      "Chảy máu, thủng ruột – dạ dày, la hét",
+      "Ruột có thể lòi ra ngoài qua vết thương",
+      "Gây chảy máu trong ổ bụng, choáng mất máu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "orig": 30,
+    "question": "Xử trí tổn thương mắt do dị vật nhỏ: cát, bụi ... rơi vào mắt?",
+    "options": [
+      "Nghiên đầu về bên mắt có dị vật, dùng nước sạch nhỏ liên tục để rửa mắt cho dị vật trôi ra.",
+      "Chớp mắt vào bát (chén) nước đầy để dị vật trôi ra.",
+      "a đúng b sai",
+      "a và b đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 31,
+    "orig": 31,
+    "question": "Nguyên nhân chính dẫn đến tai nạn bỏng?",
+    "options": [
+      "Bỏng nhiệt, điện, hóa chất, tia bức xạ.",
+      "Bỏng ống bô xe máy, cháy nổ bình ga.",
+      "Bỏng hơi nước nóng, nước sôi, canh sôi.",
+      "Bỏng do hóa chất sinh hoạt, hóa chất công nghiệp."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "orig": 32,
+    "question": "Nguy cơ tai nạn bỏng?",
+    "options": [
+      "Nhiễm trùng, sốc, tàn phế hoặc tử vong.",
+      "Nhiễm trùng sau khi bỏng",
+      "Nhiễm độc và thoát dịch qua vết bỏng",
+      "Nhanh chóng chuyển nạn nhân đến cơ sở y tế"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "orig": 33,
+    "question": "Xử trí bỏng hóa chất do tiếp xúc ngoài da?",
+    "options": [
+      "Dùng nước sạch rửa trôi hóa chất, băng lỏng vết thương, chuyển nạn nhân đến cơ sở y tế càng sớm càng tốt.",
+      "Bôi thuốc đỏ lên vết bỏng, chuyển nạn nhân đến cơ sở y tế.",
+      "Băng kín vết bỏng, chuyển nạn nhân đến bệnh viện",
+      "Cho nạn nhân uống nước dừa hoặc ORESOL"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "orig": 34,
+    "question": "Xử trí bỏng do uống phải hóa chất?",
+    "options": [
+      "Cho nạn nhân uống nước, không gây nôn và chuyển y tế khẩn cấp.",
+      "Không cho nạn nhân uống nước, gây nôn và chuyển y tế khẩn cấp.",
+      "Không xử lý nạn nhân uống hóa chất, chuyển y tế khẩn cấp.",
+      "Nạn nhân bất tỉnh, tiến hành sơ cứu như trường hợp bất tỉnh."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "orig": 35,
+    "question": "Xử trí bỏng do tia bức xạ?",
+    "options": [
+      "Bảo vệ vết bỏng bằng vải sạch, gạc ẩm. Chuyển đến cơ sở y tế nhanh nhất.",
+      "Bỏng có nguy cơ nhiểm trùng cao hơn vết thương.",
+      "Khi đi ngoài trời nắng đội mũ và thoa kem chống nắng.",
+      "Gọi xe cứu thương."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "orig": 36,
+    "question": "Dịch từ vết bỏng có nguy cơ lây nhiểm không?",
+    "options": [
+      "Có nguy cơ lây nhiểm khi tiếp xúc không găng tay.",
+      "Không lây nhiểm khi không có găng tay.",
+      "Không cần găng tay khi tiếp xúc với vết thương bỏng",
+      "Nhanh chóng chuyển nạn nhân đến bệnh viện."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "orig": 37,
+    "question": "3 ý dưới đây là dấu hiệu nhận biết của:",
+    "options": [
+      "Nạn nhân bị bất tỉnh",
+      "Nạn nhân bị chảy máu",
+      "Nạn nhân bị gãy xương",
+      "Tổn thương phần mềm"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "orig": 38,
+    "question": "Dị vật đường thở là?",
+    "options": [
+      "Máu, dịch, đờm dãi, bùn đất, chất nôn (ói) ...",
+      "Dao, vật nhọn, mảnh đạn.",
+      "Xương, ống hút, thức ăn cứng",
+      "Thịt bò, bánh các loại, rau quả."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "orig": 39,
+    "question": "Dị vật vết thương là?",
+    "options": [
+      "Dao, vật nhọn,đạn, miểng trong chiến tranh ...",
+      "Gai, chai, xe, rắn.",
+      "Đinh, lọ, ô tô, ong.",
+      "Đá, chén, mô tô, chó."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "orig": 40,
+    "question": "Ai có thể tham gia sơ cấp cứu?",
+    "options": [
+      "Người được hướng dẫn kỷ thuật và nguyên tắc sơ cấp cứu.",
+      "Cán bộ đoàn, hội, tình nguyện viên",
+      "Mọi người đều có thể tham gia sơ cấp cứu",
+      "Xe cứu thương, cán bộ Hội Chữ thập đỏ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "orig": 41,
+    "question": "Mạch quay nằm ở vị trí nào trên cơ thể?",
+    "options": [
+      "Ở cổ tay",
+      "Ở cổ chân",
+      "Ở cổ",
+      "Ở bẹn (hán)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "Khi nào phải di chuyển nạn nhân khẩn cấp?",
+    "options": [
+      "Di chuyển nạn nhân khi hiện trường nguy hiểm",
+      "Hiện trường không đe dọa an toàn cho người sơ cứu",
+      "Do vết thương nạn nhân quá nặng",
+      "Khi nạn nhân yêu cầu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "orig": 43,
+    "question": "Xử trí khi nạn nhân bất tỉnh khi còn thở?",
+    "options": [
+      "Đưa nạn nhân về tư thế nằm nghiêng an toàn và tiếp tục theo dõi.",
+      "Tiến hành hà hơi, thổi ngạt ép tim nạn nhân ngoài lòng ngực.",
+      "Chuyển nạn nhân hoặc gọi xe cứu thương.",
+      "Giúp thở nạn nhân 5 hơi liên tục."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "orig": 44,
+    "question": "Xử trí nạn nhân không thở, không có mạch?",
+    "options": [
+      "Tiến hành ấn tim, thổi ngạt ngoài lồng ngực.",
+      "Đưa nạn nhân về tư thế an toàn theo dõi.",
+      "Kêu gọi sự trợ giúp của người đang xem",
+      "Nắm họ, tên và số điện thoại của nạn nhân."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "orig": 45,
+    "question": "Khi dị vật nhỏ vào mắt yêu cầu nạn nhân không được?",
+    "options": [
+      "Yêu cầu nạn nhân không dụi mắt",
+      "Yêu cầu nạn nhân không nằm nghiên",
+      "Yêu cầu nạn nhân không mở mắt",
+      "Yêu cầu nạn nhân đi cấp cứu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "orig": 46,
+    "question": "Giới hạn phần việc của cấp cứu viên là gì?",
+    "options": [
+      "Sơ cấp cứu và phòng chống dịch",
+      "Điều dưỡng và cấp cứu cơ sở",
+      "Sô cấp cứu và chuyển thương an toàn",
+      "Chuyển thương đến y tế an toàn."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "orig": 47,
+    "question": "Nguyên tắc cố định xương ống tay gãy là?",
+    "options": [
+      "Cột dây chắc chỗ xương gãy",
+      "Cố định hai đầu khớp xương gãy",
+      "Bó nẹp và treo chỗ cánh tay gãy",
+      "Cố định khớp xương và treo tay"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "orig": 48,
+    "question": "Trong trường hợp nạn nhân bị tai nạn không còn tĩnh, không cử động, sự hô hấp bị ngưng, cấp cứu viên phải?",
+    "options": [
+      "Đưa nạn nhân đến một cơ quan Y Tế để được cấp cứu",
+      "Đưa nạn nhân ra khỏi nơi nguy hiểm, làm thông đường hô hấp, làm hô hấp nhân tạo, báo Trung tâm cấp cứu.",
+      "Đưa nạn nhân ra khỏi nơi nguy hiểm, canh chừng thường xuyên và báo trung tâm cấp cứu",
+      "Đưa nạn nhân ra khỏi nơi tai nạn, tráng gây nguy hiểm cho người khác và cho mình và báo Trung tâm cấp cứu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "orig": 49,
+    "question": "Trước một vết thương phỏng nặng, cấp cứu viên săn sóc vết phỏng bằng cách?",
+    "options": [
+      "Lấy đá lạnh chườm lên vết phỏng",
+      "Lấy kem đánh răng bôi lên vết phỏng",
+      "Bôi thuốc mát vào vết phỏng",
+      "Tưới nước lạnh vào vết phỏng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 50,
+    "orig": 50,
+    "question": "Đứng trước một nạn nhân bị đứt động mạch, cấp cứu viên phải : a. Đặt nạn nhân nằm ngửa, ấn chấn động mạch giữa vết thương và tim,làm garô sau đó chuyển thương. b. Đặt nạn nhân ở tư thế thích hợp, ấn chấn động mạch, làm garô, cho uống cafe để tự tin c. Đặt nạn nhân nằm ngửa, ấn chấn động mạch, làm garô, lập phiếu garô, tiêm thuốc tự tin, chuyển thương",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "orig": 51,
+    "question": "Đứng trước một nạn nhân bị gãy hở xương cẳng tay, cấp cứu viên phải xử trí thế nào ? a. Nắn sửa lại xương gãy, săn sóc vết thương, bó nẹp b. Không làm động chỗ gãy, bôi thuốc sát trùng lên chỗ vết thương, cố địng xương gãy, băng vết thương, chuyển thương c. Không nắn sửa lại chỗ gãy, không bôi thuốc sát trùng lên chỗ vết thương, cố địng xương gãy, băng vết thương, chuyển thương d. Không nắn sửa lại chỗ gãy, cố địng xương gãy, chuyển thương",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Gặp một nạn nhân cùng một lúc ngưng thở và đứt lìa cẳng tay, chảy máu nhiều, cấp cứu chỉ viên chỉ có một mình thì phải xử lí như thế nào?",
+    "options": [
+      "Cầm máu rồi hô hấp nhân tạo",
+      "Cầm máu rồi chuyển lên bệnh viện ngay",
+      "Làm hô hấp trước, cầm máu rồi chuyển thương",
+      "Làm hô hấp rồi chuyển đến bệnh viện để cầm máu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 53,
+    "orig": 53,
+    "question": "Các nguyên tắc của sơ cấp cứu là : a. Tránh làm cho tai nạn nặng thêm bằng cách dời chỗ nạn nhân để nạn nhân được an toàn b. Hành động nhanh bằng cách đưa nạn nhân đến ngay bệnh viện c. Quan sát sự hô hấp của nạn nhân nếu lồng ngực không nổi lên dó là ngừng thở phải chuyển đến bệnh viện d. Trong lúc chờ đợi bác sĩ đến, cấp cứu viên phải biết báo động đúng lúc và tránh làm nặng thêm tình hình.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "orig": 54,
+    "question": "Khi cần thiết phải gọi xe cấp cứu : a. Cấp cứu viên phải nhờ người khác đi báo thay, nhấn mạnh địa điểm, tính chất tai nạn. b. Cấp cứu viên chạy đến nơi có điện thoại gọi xe cấp cứu đến c. Cấp cứu viên hỏi tên tuổi nạn nhân, địa chỉ nhà và người cần cấp báo để báo cho thân nhân biết d. Cấp cứu viên nhờ người khác báo cho Trung tâm y tế, Công an giao thông nhờ Công an báo cho Trung tâm cấp cứu",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "orig": 55,
+    "question": "Tai nạn về tiêu hóa, nạn nhân ói mửa, đau bụng kèm theo sốt, co giật trong lúc chờ đợi xe cấp cứu đến : a.Đặt lên bụng nạn nhân túi nước đá để làm giảm đau b.Cho uống thuốc giảm đau c.Chống ói bằng cách cho uống thuốc chống ói d.Đặt nạn nhân trong tư thế nằm nghiêng, làm ấm nạn nhân bằng mền hay nước nóng gọi bác sĩ đến.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "orig": 56,
+    "question": "Vết thương có hiện tượng rộng, sâu, dính đất, vật dụng kim khí : a. Cấp cứu viên lấy tay sờ mó vết thương, lấp vật lạ ra, rửa vết thương và băng lại b. Cấp cứu viên băng che kín vết thương, đặt nạn nhân ở vị trí thích hợp chờ Y tế hay Bác sĩ đến c. Cấp cứu viên chùi rửa vết thương, băng bó lại và cho dùng thuốc kháng sinh d. Cấp cứu viên không sờ mó vết thương, không tìm cách lấy vật lạ ra mà phải băng che kín vết thương, đặt nạn nhân ở tư thế thích hợp và báo cho y tế hoặc chuyển nạn nhân đến bệnh viện.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "orig": 57,
+    "question": "Dấu hiệu đặc biệt trong viêm ruột thừa là :",
+    "options": [
+      "Ấn vùng bụng thật mạnh, nạn nhân đau",
+      "Đè mạnh vào ngực và bụng, nạn nhân đau nhói",
+      "Ấn vùng hố chậu phải nhẹ, sâu thì hơi đau, sau đó giật tay ra đột ngột,nạn nhân đau nhói.",
+      "Không có dấu hiệu rõ ràng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "orig": 58,
+    "question": "Một nạn nhân bị dập nát cẳng tay, dính nhiều đất cát, máu ra nhiều, bạnchỉ có một mình, bạn sẽ xử lí theo thứ tự như thế nào? a. Lau rửa vết thương, cầm máu, cố định xương gãy, chuyển bệnh viện b. Cầm máu, cố định xương gãy, lau rửa vết thương, chuyển bệnh viện c. Cầm máu, lau rửa vết thương, băng bó, cố định xương gãy, chuyển bệnh viện",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "orig": 59,
+    "question": "Gặp một nạn nhân cùng một lúc ngưng thở và đứt lìa cẳng tay, chảy máunhiều, bạn chỉ có một mình thì xử lí như thế nào? a. Cầm máu rồi làm hô hấp b. Hô hấp trước, cầm máu rồi chuyển thương c. Hô hấp trước, cầm máu, băng bó rồi chuyển thương.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 60,
+    "question": "Để chống choáng (chống shock) trong trường hợp sơ cứu, ta có thể : a. Đắp ấm, để nằm đầu thấp, cho uống nước khi nạn nhân chưa tỉnh lại b. Xoa đầu, để nơi thoáng khí, kín gió. c. Chuyển ngay đến Y tế để được cấp cứu.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "orig": 61,
+    "question": "Đánh giá tình trạng ngưng tim, ngưng thở ở một nạn nhân qua các dấu hiệu a. Lòng ngực không cử động, tim không đập, mạch không bắt được b. Bất tỉnh, tím tái, đầu, tay chân , vùng quanh môi lạnh c. Cả 2 câu trên đều đúng d. Cả 2 câu trên đều sai",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "orig": 62,
+    "question": "Việc cầm máu tạm thời được tiến hành nhằm mục đích gì?",
+    "options": [
+      "Giữ cho ổ xương gãy được tương đối ổn định.",
+      "Nhanh chóng đưa người bị thương đến nơi an toàn.",
+      "Nhanh chóng làm ngừng chảy máu để hạn chế mất máu.",
+      "Bảo vệ vết thương khỏi bị ô nhiễm, cầm máu tại vết thương."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "orig": 63,
+    "question": "Nội dung nào dưới đây không phản ánh đúng nguyên tắc của kĩ thuật cầm máu tạm thời?",
+    "options": [
+      "Nhanh chóng làm ngừng máu chảy.",
+      "Xử lý đúng tính chất của vết thương.",
+      "Hạn chế đến mức thấp nhất sự mất máu.",
+      "Giữ cho ổ xương gãy được ổn định."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "orig": 64,
+    "question": "Biến pháp nào dưới đây không được tiến hành để cầm máu tạm thời?",
+    "options": [
+      "Gấp chi tối đa.",
+      "Ấn động mạch.",
+      "Băng chèn.",
+      "Ép tim ngoài lồng ngực."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "orig": 65,
+    "question": "Bước đầu tiên khi tiến hành đặt garô là gì?",
+    "options": [
+      "Lót gạc chỗ định đặt garô.",
+      "Ấn động mạch phía trên vết thương.",
+      "Băng vết thương và làm các thủ tục cần thiết.",
+      "Đặt garô rồi từ từ xoắn đến khi không thấy máu chảy."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "orig": 66,
+    "question": "Nẹp cẳng tay gồm 2 nẹp, rộng 5 cm, dày 0.5 - 0.7 cm và có chiều dài là",
+    "options": [
+      "30 cm và 35 cm.",
+      "20 cm và 35 cm.",
+      "25 cm và 30 cm.",
+      "30 cm và 30 cm."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "orig": 67,
+    "question": "Nẹp cẳng chân gồm 2 hoặc 3 nẹp, rộng 5 – 6 cm, dày 0.8 – 1 cm, dài khoảng",
+    "options": [
+      "30 cm.",
+      "40 cm.",
+      "50 cm.",
+      "60 cm."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 68,
+    "orig": 68,
+    "question": "Nội dung nào dưới đây không phản ánh đúng nguyên tắc băng vết thương?",
+    "options": [
+      "Băng kín, không bỏ sót vết thương.",
+      "Băng đủ chặt.",
+      "Không làm ô nhiễm vết thương.",
+      "Băng muộn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 69,
+    "orig": 69,
+    "question": "Khi có hai người cấp cứu, kỹ thuật thổi ngạt và ép tim ngoài lồng ngực cho nạn nhân bị ngất được tiến hành như thế nào?",
+    "options": [
+      "Thổi ngạt 1 lần, ép tim 5 lần.",
+      "Thổi ngạt 3 lần, ép tim 5 lần.",
+      "Thổi ngạt 1 lần, ép tim 10 lần.",
+      "Thổi ngạt 2 lần, ép tim 15 lần."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "orig": 70,
+    "question": "Nội dung nào dưới đây không phản ánh đúng nguyên tác cố định xương gãy?",
+    "options": [
+      "Giảm đau trước khi cố định xương gãy.",
+      "Chỉ cần nẹp cố định khớp trên của ổ xương gãy.",
+      "Nẹp phải được cố định cả khớp trên và khớp dưới ổ gãy.",
+      "Trước khi đặt nẹp cố định phải lót bông, gạc hoặc vải mềm."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "orig": 71,
+    "question": "Người bị gãy xương đùi phải được vận chuyển bằng kĩ thuật chuyển thương nào dưới đây?",
+    "options": [
+      "Chuyển thương bằng cáng cứng.",
+      "Bế người bị thương.",
+      "Cõng người bị thương.",
+      "Vác người bị thương."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "orig": 72,
+    "question": "Để đề phòng say nóng, say nắng, chúng ta cần chú ý điều gì?",
+    "options": [
+      "Có thể ăn uống thất thường, thiếu chất nhưng phải uống đủ nước.",
+      "Đội mũ, nón, mặc đồ bảo hộ lao động khi làm việc dưới trời nắng.",
+      "Tuyệt đối không vận động, chỉ ở những nơi thoáng, mát khi trời nắng.",
+      "Tăng cường độ làm việc dưới trời nắng gắt để tăng khả năng thích nghi."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "orig": 73,
+    "question": "Nội dung nào dưới đây không phản ánh đúng biện pháp sơ cứu nạn nhân bị say nắng, say nóng?",
+    "options": [
+      "Đưa nạn nhân vào nơi thoáng mát, nới lỏng quần, áo.",
+      "Quạt mát, chườm lạnh bằng khăn ướt hoặc đá.",
+      "Cho nạn nhân uống nước đường và muối hoặc nước orezol.",
+      "Không cần cấp cứu tại chỗ mà nhanh chóng chuyển nạn nhân tới bệnh viện."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 74,
+    "orig": 74,
+    "question": "Các tiêu chí đánh giá bệnh nhân cấp cứu là",
+    "options": [
+      "Dấu hiệu sinh tồn",
+      "Đặc điểm hình thái tổn thương",
+      "Mức độ nặng của bệnh",
+      "Khả năng đi lại của bệnh nhân"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "orig": 75,
+    "question": "E. Tất cả các tiêu chí trên",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "orig": 76,
+    "question": "Tư thế hợp lý làm thông thoáng đường hô hấp ở bệnh nhân không có chấn thương cổ mặt là:",
+    "options": [
+      "Bệnh nhân nằm ngửa, cổ ở tư thế trung gian.",
+      "Bệnh nhân nằm ngửa, cổ ưỡn",
+      "Bệnh nhân nằm đầu cao 30 độ",
+      "Cả 3 tư thế trên đều được"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "orig": 77,
+    "question": "Nguyên nhân khách quan phổ biến gây ra tai nạn đuối nước cho trẻ em?",
+    "options": [
+      "Sự sao nhãng, bất cẩn, vô ý của người lớn, môi trường sống xung quanh trẻ em không an toàn",
+      "bị chuột rút, bị rơi vào vòng xoáy.",
+      "Trẻ em không biết bơi.",
+      "Trẻ em thiếu kiến thức, kỹ năng phòng chống đuối nước, an toàn trong môi trường nước"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "orig": 78,
+    "question": "Trước khi bơi nên làm gì?",
+    "options": [
+      "Tập thể dục, khởi động khớp chân tay từ 5-10 phút trước khi bơi.",
+      "Nhẩy xuống bơi ngay khi người đang nóng.",
+      "Chọn hồ bơi (hoặc khu vực bơi) đảm bảo sạch sẽ, có người cứu hộ khi cần.",
+      "Cả A và C đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "orig": 79,
+    "question": "Khi gặp người đuối nước thì nên làm gì?",
+    "options": [
+      "Hô hoán người lớn đến cứu, vừa tìm cành cây hoặc sợi dây ..ném cho người đuối nước để cùng mọi người kéo nên nếu cần.",
+      "Bỏ chạy, không báo cho ai hết.",
+      "nhảy ngay xuống nước để tìm cách cứu.",
+      "chạy về nhà kêu người giúp đỡ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "orig": 80,
+    "question": "Trong trường hợp nào không được phép tham gia bơi lội?",
+    "options": [
+      "Khi cơ thể đang sốt, mắc bệnh ngoài da, bệnh hô hấp, viêmtai…",
+      "Khi cơ thể đang nóng, ra nhiều mồ hôi.",
+      "Khi bụng đang đói hoặc ăn quá no.",
+      "Tất cả các trường hợp trên."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 81,
+    "orig": 81,
+    "question": "Việc đầu tiên cần làm khi bị “chuột rút” ở dưới nước?",
+    "options": [
+      "Bơi nhanh vào bờ.",
+      "Bơi đứng.",
+      "Bình tĩnh, thả lỏng người trong nước và gọi người xung quanh giúp đỡ.",
+      "Giãy giụa để hết tình trạng chuột rút."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 82,
+    "orig": 82,
+    "question": "Lợi ích, tác dụng của việc học bơi?",
+    "options": [
+      "Được trang bị kỹ năng an toàn trong môi trường nước, phòng chống đuối nước",
+      "Giúp cho cơ thể khỏe mạnh, vóc dáng cân đối, nâng cao thể lực, tầmvóc…",
+      "Rèn luyện ý thức tổ chức kỷ luật, rèn luyện ý chí nghị lực, tính tự tin…",
+      "Cả A, B, C đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "orig": 83,
+    "question": "Trình tự cứu người bị tai nạn điện là :",
+    "options": [
+      "Sơ cứu nạn nhân →Tách nạn nhân ra khỏi nguồn điện → Đưa đến bệnh viện",
+      "Tách nạn nhân ra khỏi nguồn điện → Sơ cứu nạn nhân → Đưa đến bệnh viện",
+      "Đáp án A và B đều sai",
+      "Đáp án A và B đều đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "orig": 84,
+    "question": "Một người đang đứng dưới đất, tay chạm vào tủ lạnh bị rò điện. Phải làm gì để tách nạn nhân ra khỏi nguồn điện ?",
+    "options": [
+      "Rút phích cắm điện",
+      "Lót tay bằng vải khô kéo nạn nhân ra khỏi tủ lạnh.",
+      "Ngắt nắp cầu chì hoặc ngắt aptomat.",
+      "Đáp án A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Khi sơ cứu cho nạn nhân bị ngất, chúng ta không nên thực hiện hành động nào dưới đây?",
+    "options": [
+      "Nhanh chóng đưa nạn nhân vào chỗ thoáng, mát.",
+      "Kích thích các đầu ngón tay, ngón chân, giật tóc mai của nạn nhân.",
+      "Cởi bớt trang phục, nới lỏng quần áo.. cho máu dễ lưu thông.",
+      "Băng ép và cố định tạm thời nơi bị tổn thương."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 86,
+    "orig": 86,
+    "question": "Khi sơ cứu cho nạn nhân bị say nóng, say nắng, chúng ta nên làm gì?",
+    "options": [
+      "Nhanh chóng chuyển nạn nhân đến nơi thoáng mát.",
+      "Không lại gần, để cho nạn nhân nghỉ ngơi thoải mái.",
+      "Đi thêm tất, găng tay cho nạn nhân để giữ ấm cơ thể.",
+      "Cho nạn nhân uống nước ấm, chườm nước ấm vào trán."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Ở bước kiểm tra tình trạng nạn nhân, nếu nạn nhân không còn tỉnh, cần:",
+    "options": [
+      "Nới rộng quần áo; đưa nạn nhân tới vị trí thuận lợi và kêu gọi sự hỗ trợ của người khác",
+      "Xoa bóp tim ngoài lồng ngực kết hợp hô hấp nhân tạo cho nạn nhân",
+      "Cả A và B đều đúng",
+      "Cả A và B đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "orig": 88,
+    "question": "Sau khi cứu nạn nhân bị điện giật: nạn nhân ngất, không thở hoặc thở không đều, co giật thì cần làm gì?",
+    "options": [
+      "Đưa đi viện ngay lập tức",
+      "Hô người đến giúp đỡ",
+      "Hô hấp nhân tạo cho tới khi thở được, tỉnh lại và đưa đi viện",
+      "Hô hấp nhận tạo cho tới khi thở được"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Một người đang đứng dưới đất, tay chạm vào tủ lạnh rò điện. Phải làm gì để tách nạn nhân ra khỏi nguồn điện",
+    "options": [
+      "Dùng tay trần kéo nạn nhân rời khỏi tủ lạnh",
+      "Gọi người đến cứu",
+      "Rút phích cắm(nắp) cầu chì hoặc ngắt aptomat, lót tay bằng vải khô kéo nạn nhân ra.",
+      "Lót tay bằng vải khô kéo nạn nhân rời khỏi tủ lạnh"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 90,
+    "orig": 90,
+    "question": "Một người bị dây điện trần(không bọc cách điện) của lưới điện hạ áp 220V bị đứt đè lên người. Xử lý bằng cách an toàn nhất",
+    "options": [
+      "Lót tay bằng vải khô, dùng sào tre (gỗ) khô hất dây điện ra khỏi nạn nhân",
+      "Đứng trên ván gỗ khô, lót tay bằng vải khô dùng sào tre (gỗ) khô hất dây điện ra khỏi nạn nhân",
+      "Nắm áo nạn nhân kéo khỏi dây điện",
+      "Nắm tóc nạn nhân kéo ra khỏi dây điện"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "orig": 91,
+    "question": "Say nóng, say nắng là",
+    "options": [
+      "sự di lệch các đầu xương ở khớp một phần hay hoàn toàn.",
+      "sự tổn thương của dây chằng xung quanh khớp.",
+      "tình trạng chết tạm thời, nạn nhân mất tri giác, cảm giác và vận động.",
+      "tình trạng rối loạn điều hòa nhiệt độ do môi trường nắng nóng."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 92,
+    "orig": 92,
+    "question": "Nạn nhân mất tri giác, cảm giác, vận động, song tim, phổi và hệ bài tiết vẫn còn hoạt động. Đó là hiện tượng",
+    "options": [
+      "hôn mê.",
+      "sai khớp.",
+      "say nắng.",
+      "ngất."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "orig": 93,
+    "question": "Nội dung nào không phản ánh đúng cách sơ cứu nạn nhân khi bị ngất?",
+    "options": [
+      "Đặt nạn nhân nằm tại nơi thoáng khí, yên tĩnh, kê dối dưới vai.",
+      "Lau chùi đất, cát, đờm… ở mũi, miệng để khai thông đường thở.",
+      "Nếu nạn nhân đã tỉnh, có thể cho nạn nhân uống nước đá lạnh.",
+      "Cởi cúc áo, quần, nới dây lưng của nạn nhân để máu dễ lưu thông."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "orig": 94,
+    "question": "Làm cách nào để phát hiện tim của nạn nhân bị ngất đã ngừng đập?",
+    "options": [
+      "Nạn nhân không phản ứng gì khi bị vỗ nhẹ vào người.",
+      "Lồng ngực, bụng nạn nhân không phập phồng.",
+      "Không thấy mạch bẹn (hoặc mạch cảnh) của nạn nhân đập.",
+      "Nạn nhân bất tỉnh, ngã khuỵu xuống, da xanh tái, chân tay lạnh."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "orig": 95,
+    "question": "Nội dung nào dưới đây không phản ánh đúng biện pháp sơ cứu khi đưa được nạn nhân đuối nước lên bờ?",
+    "options": [
+      "Móc đất, bùn, đờm, dãi… ra khỏi miệng nạn nhân.",
+      "Hô hấp nhân tạo/ ép tim ngoài lồng ngực nạn nhân.",
+      "Nhanh chóng chuyển nạn nhân đến sơ sở y tế gần nhất.",
+      "Khi nạn nhân đã tự thở được phải để nạn nhân nằm ngửa."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 96,
+    "orig": 96,
+    "question": "Say nắng, say nóng không bao gồm triệu chứng nào dưới đây?",
+    "options": [
+      "Nhức đầu, mệt mỏi, tay chân rã rời, khó thở.",
+      "Mạch đập nhanh, khoảng 120 – 150 lần/ phút.",
+      "Choáng váng, buồn nôn, sợ ánh sáng, ngất/ hôn mê.",
+      "Bị tiêu chảy nhiều lần, đôi khi đi ngoài ra thức ăn chưa tiêu."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 97,
+    "orig": 97,
+    "question": "Khi sơ cứu nạn nhân bị say nóng, say nắng, chúng ta không nên thực hiện động tác nào dưới đây?",
+    "options": [
+      "Đưa nạn nhân vào nơi thoáng mái, cởi bỏ quần áo.",
+      "Quạt mát, chờm lạnh bằng khăn ướt hoặc xoa cồn 450.",
+      "Cho uống nước đường và muối, hoặc nước orezol.",
+      "Lập tức chuyển nạn nhân tới bệnh viện, không cần sơ cứu."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "orig": 98,
+    "question": "Việc băng vết thương không nhằm mục đích nào dưới đây?",
+    "options": [
+      "Bảo vệ vết thương khỏi bị ô nhiễm.",
+      "Cầm máu tại vết thương.",
+      "Chữa trị dứt điểm vết thương.",
+      "Giảm đau đớn cho nạn nhân."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "orig": 99,
+    "question": "Nội dung nào dưới đây không phản ánh đúng nguyên tắc khi băng bó vết thương?",
+    "options": [
+      "Băng kín, băng hết các vết thương.",
+      "Băng sớm, băng nhanh.",
+      "Băng chắc (đủ độ cặt).",
+      "Băng thật lỏng để tránh đau đớn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 100,
+    "orig": 100,
+    "question": "Kĩ thuật băng vết thương nào được mô tả trong hình ảnh dưới đây?",
+    "options": [
+      "Băng dấu nhân.",
+      "Băng hồi quy.",
+      "Băng số 8.",
+      "Băng vòng xoắn."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "Hình ảnh sau đây mô tả kĩ thuật băng vết thương nào?",
+    "options": [
+      "Băng dấu nhân.",
+      "Băng hồi quy.",
+      "Băng số 8.",
+      "Băng vòng xoắn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "orig": 102,
+    "question": "Trong trường hợp nào dưới đây, chúng ta nên vận dụng kĩ thuật chuyển thương bằng cáng?",
+    "options": [
+      "Vết thương nặng, di chuyển quãng đường dài.",
+      "Vết thương nhẹ, di chuyển quãng đường ngắn.",
+      "Vết thương nhẹ, di chuyển quãng đường dài.",
+      "Vết thương nặng, di chuyển quãng đường ngắn."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "Kĩ thuật chuyển thương nào được mô tả trong hình ảnh dưới đây?",
+    "options": [
+      "Chuyển thương bằng cách bế.",
+      "Chuyển thương bằng cách cõng.",
+      "Chuyển thương bằng cách vác.",
+      "Chuyển thương bằng cáng."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "orig": 104,
+    "question": "Hình ảnh dưới đây mô tả kĩ thuật chuyển thương nào?",
+    "options": [
+      "Chuyển thương bằng cách bế.",
+      "Chuyển thương bằng cách cõng.",
+      "Chuyển thương bằng cách vác.",
+      "Chuyển thương bằng cáng."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 105,
+    "orig": 105,
+    "question": "Kĩ thuật gấp chi tối đa thường được sử dụng trong trường hợp nào?",
+    "options": [
+      "Bị chảy máu ở chi, vết thương không bị gãy xương.",
+      "Bị chảy máu ở chi, vết thương bị gãy xương.",
+      "Khi bị chảy máu nhiều, máu phụt thành tia.",
+      "Khi chảy máu ít, máu phụt thành tia."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "“Làm cho không khí ở ngoài vào phổi và không khí ở phổi ra ngoài để thay thế cho hô hấp tự nhiên khi nạn nhân ngạt thở” - đó là nội dung của khái niệm nào dưới đây?",
+    "options": [
+      "Hô hấp nhân tạo.",
+      "Cố định xương gãy.",
+      "Băng vết thương.",
+      "Chuyển thương."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "orig": 107,
+    "question": "Khi sơ cứu cho nạn nhân bị say nóng, say nắng, chúng ta nên làm gì?",
+    "options": [
+      "Nhanh chóng chuyển nạn nhân đến nơi thoáng mát.",
+      "Không lại gần, để cho nạn nhân nghỉ ngơi thoải mái.",
+      "Đi thêm tất, găng tay cho nạn nhân để giữ ấm cơ thể.",
+      "Cho nạn nhân uống nước ấm, chườm nước ấm vào trán."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "orig": 108,
+    "question": "Kỹ năng sơ cấp cứu ban đầu có tầm quan trọng như thế nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "(a) Quan trọng để cứu sống nạn nhân trong những phút đầu tiên sau tai nạn.",
+    "options": [
+      "Chỉ cần thiết cho nhân viên y tế.",
+      "Không cần thiết nếu có máy móc hỗ trợ.",
+      "Không quan trọng bằng việc vận chuyển nạn nhân đến bệnh viện"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "orig": 110,
+    "question": "Hậu quả của việc không sơ cấp cứu kịp thời có thể là gì?",
+    "options": [
+      "Tổn thương não không hồi phục.",
+      "Tăng nguy cơ nhiễm trùng",
+      "Chảy máu không kiểm soát."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "(d) Tất cả các đáp án trên.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "orig": 112,
+    "question": "Khi gọi cấp cứu 115, thông tin nào cần cung cấp?",
+    "options": [
+      "Vị trí và tính chất của tai nạn.",
+      "Số lượng, giới tính và tuổi của nạn nhân.",
+      "Tình trạng của nạn nhân và sơ cứu đã thực hiện."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "orig": 113,
+    "question": "(d) Tất cả các đáp án trên.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "Ai có thể thực hiện sơ cấp cứu ban đầu?",
+    "options": [
+      "Chỉ có nhân viên y tế."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "orig": 115,
+    "question": "(b) Bất kỳ ai được đào tạo về sơ cấp cứu.",
+    "options": [
+      "Chỉ những người trưởng thành.",
+      "Chỉ những người có sức khỏe tốt."
+    ],
+    "answer": 2
+  }
+]

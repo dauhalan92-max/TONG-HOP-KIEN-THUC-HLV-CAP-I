@@ -1,0 +1,1334 @@
+[
+  {
+    "id": 1,
+    "orig": 1,
+    "question": "Đến nền văn hóa nào trên đất nước ta, người nguyên thủy biết kĩ thuật làm gốm",
+    "options": [
+      "Văn hóa Hòa Bình",
+      "Văn hóa Bắc Sơn",
+      "Văn hóa Phùng Nguyên",
+      "Văn hóa Sơn Vi"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "orig": 2,
+    "question": "Những nền văn hóa tiêu biểu mở đầu thời đại kim khí và nông nghiệp trồng lúa trên đất nước ta là",
+    "options": [
+      "Hòa Bình, Bắc Sơn – Sa Huỳnh – Phùng Nguyên",
+      "Phùng Nguyên – Sa Huỳnh – Đồng Nai",
+      "Sơn Vi – Phùng Nguyên – Sa Huỳnh – Đồng Nai",
+      "Sơn Vi – Hòa Bình, Bắc Sơn – Sa Huỳnh – Đồng Nai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "orig": 3,
+    "question": "Chất liệu để chế tác công cụ lãnh đạo phổ biến của cư dân Đông Sơn là",
+    "options": [
+      "Đồng thau, bắt đầu có sắt",
+      "Đồng đỏ và đồng thau",
+      "Đồng đỏ và sắt",
+      "Đồng và sắt"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "orig": 4,
+    "question": "Cuộc khởi nghĩa Hai Bà Trưng bùng nổ tại",
+    "options": [
+      "Mê Linh (Vĩnh Phúc)",
+      "Cổ Loa (Đông Anh – Hà Nội)",
+      "Hát Môn (Phúc Thọ - Hà Nội)",
+      "Luy Lâu (Thuận Thành – Bắc Ninh)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "orig": 5,
+    "question": "Từ sau chiến thắng Bạch Đằng (938) đến thế kỉ XV, nhân dân ta còn phải tiến hành nhiều cuộc kháng chiến chống quân xâm lược đó là",
+    "options": [
+      "Hai lần chống Tống, ba lần chống Mông – Nguyên và chống Minh",
+      "Chống Tống, ba lần chống Mông – Nguyên, chống Minh và chống Xiêm",
+      "Hai lần chống Tống, hai lần chống Mông – Nguyên và chống Minh",
+      "Hai lần chống Tống, ba lần chống Mông – Nguyên, chống Minh và chống Thanh"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "orig": 6,
+    "question": "Thành tựu tiêu biểu của văn học dân tộc, ra đời từ thế kỉ XI, đến thế kỉ XV gắn liền với các tác giả như Nguyễn Trãi, Lê Thánh Tông, Lý Tử Tấn là",
+    "options": [
+      "Văn học mang tư tưởng Phật giáo",
+      "Văn học chữ Hán",
+      "Văn học chữ Nôm",
+      "Văn học dân gian"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "orig": 7,
+    "question": "Bộ sử chính thống đầu tiên của nước ta là",
+    "options": [
+      "Đại Việt sự kí",
+      "Lam Sơn thực lục",
+      "Đại Việt sử kí toàn thư",
+      "Đại Việt sử lược"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "orig": 8,
+    "question": "Con sông lịch sử chia cắt đất nước thành Đàng trong và Đàng ngoài",
+    "options": [
+      "Sông Mã",
+      "Sông La",
+      "Sông Gianh",
+      "Sông Bến Hải"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "orig": 9,
+    "question": "Trung tâm trao đổi, buôn bán sầm uất nhất Đàng Trong là",
+    "options": [
+      "Hội An",
+      "Nước Mặn",
+      "Gia Định",
+      "Thanh Hà"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "orig": 10,
+    "question": "Sau khi làm chủ hầu hết các vùng Đàng Trong, lịch sử đặt ra cho phong trào Tây Sơn nhiệm vụ gì",
+    "options": [
+      "Tiến quân ra Bắc hội quân với vua Lê để đánh đổ chúa Trịnh",
+      "Tiến quân ra Bắc tiêu diệt quân Thanh",
+      "Tiến quân ra Bắc đánh đổ chính quyền Lê – Trịnh, thực hiện sứ mệnh thống nhất đất nước",
+      "Tiêu diệt chúa Trịnh lập nên triều đại mới"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "orig": 11,
+    "question": "Thiên Chúa giáo bắt đầu truyền bá vào nước ta từ khi nào?",
+    "options": [
+      "Nửa đầu thế kỉ XVI",
+      "Cuối thế kỉ XV",
+      "Thế kỉ XVII",
+      "Thế kỉ XVIII"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "orig": 12,
+    "question": "Vị vua nào dưới triều Nguyễn đã quyết định chia đất nước thành các đơn vị hành chính tỉnh",
+    "options": [
+      "Gia Long",
+      "Minh Mạng",
+      "Thiệu Trị",
+      "Tự Đức"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "orig": 13,
+    "question": "Điểm nổi bật của chế độ phong kiến Việt Nam giữa thế kỉ XIX là",
+    "options": [
+      "Chế độ quân chủ chuyên chế đang trong thời kì thịnh trị",
+      "Có một nền chính trị độc lập",
+      "Đạt được những tiến bộ nhất định về kinh tế, văn hóa",
+      "Có những biểu hiện khủng hoảng, suy yếu nghiêm trọng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "orig": 14,
+    "question": "Việc Nguyễn Ánh từng dựa vào Pháp để khôi phục quyền lợi của dòng họ Nguyễn đã tạo ra",
+    "options": [
+      "Xu hướng thân thiết với Pháp trong triều đình",
+      "Sự phá vỡ chính sách “bế quan tỏa cảng”",
+      "Điều kiện cho tư bản Pháp can thiệp vào Việt Nam",
+      "Khả năng phát triển của Việt Nam bằng con đường hợp tác với phương Tây"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "orig": 15,
+    "question": "Giữa thế kỉ XIX, Pháp ráo riết tìm cách đánh chiếm Việt Nam để",
+    "options": [
+      "Biến Việt Nam thành bàn đạp xâm lược Quảng Châu (Trung Quốc)",
+      "Tranh giành ảnh hưởng với Anh tại châu Á",
+      "Loại bỏ sự ảnh hưởng của triều đình Mãn Thanh ở Việt Nam",
+      "Biến Việt Nam thành căn cứ để tiến công thuộc địa của Anh"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "orig": 16,
+    "question": "Chiều 31-8-1858, liên quân Pháp – Tây Ban Nha kéo quân tới dàn trận trước cửa biển nào?",
+    "options": [
+      "Đà Nẵng",
+      "Hội An",
+      "Lăng Cô",
+      "Thuận An"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "orig": 17,
+    "question": "Người đã kháng lệnh triều đình, phất cao ngọn cờ “Bình Tây Đại nguyên soái”, lãnh đạo nghĩa quân chống Pháp là ai?",
+    "options": [
+      "Nguyễn Tri Phương",
+      "Nguyễn Trung Trực",
+      "Phạm Văn Nghị",
+      "Trương Định"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 18,
+    "orig": 18,
+    "question": "Trung Quốc đã dùng lực lượng quân sự đánh chiếm các đảo phía Tây, xâm chiếm toàn bộ Hoàng Sa của Việt Nam vào thời gian",
+    "options": [
+      "Tháng 1/1974.",
+      "Tháng 1/ 1975.",
+      "Tháng 4/1975.",
+      "Tháng 5/1975."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "orig": 19,
+    "question": "Tôn Thất Thuyết mượn danh Hàm Nghi xuống chiếu Cần vương, kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên, vì vua mà kháng chiến vào thời gian nào?",
+    "options": [
+      "Ngày 20-7-1885.",
+      "Ngày 02-7-1885.",
+      "Ngày 13-7-1885.",
+      "Ngày 17-3-1885."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "orig": 20,
+    "question": "Là cuộc khởi nghĩa tiêu biểu nhất của nhân dân vùng châu thổ Bắc Bộ cuối thế kỉ XIX với người lãnh đạo khởi nghĩa là Nguyễn Thiện Thuật. Đó là cuộc khởi nghĩa",
+    "options": [
+      "khởi nghĩa Bãi Sậy.",
+      "khởi nghĩa Ba Đình,",
+      "khởi nghĩa Hùng Lĩnh.",
+      "khởi nghĩa Hương Khê."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "orig": 21,
+    "question": "Điểm đến đầu tiên trong hành trình tìm đường cứu nước của Nguyễn Tất Thành là quốc gia nào?",
+    "options": [
+      "Pháp",
+      "Trung Quốc",
+      "Nhật Bản",
+      "Liên Xô"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "orig": 22,
+    "question": "Cờ đỏ sao vàng do ai vẽ mẫu, lần đầu tiên xuất hiện ở đâu ?",
+    "options": [
+      "Nguyễn Văn Tiến ; khởi nghĩa Thái Nguyên.",
+      "Nguyễn Hữu Tiến ; khởi nghĩa Nam Kì.",
+      "Nguyễn Hữu Định; khởi nghĩa Bắc Sơn.",
+      "Nguyễn Hữu Đang ; khởi nghĩa Đô Lương."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "orig": 23,
+    "question": "Vì sao đến năm 1953, ta mới mở mặt trận ngoại giao, mở ra khi khả năng giải quyết bằng con đường hoà bình cho cuộc chiến tranh ở Đông Dương ?",
+    "options": [
+      "Vì đây là thời điểm thuận lợi, quân ta đã giành và phát huy thế chủ động trên chiến trường.",
+      "Vì Pháp đã sa lầy chiến tranh và đã có xu hướng chấp nhận một giải pháp hoà bình để \"rút lui trong danh dự\".",
+      "Vì dư luận quốc tế cũng ủng hộ việc tiến hành đàm phán, kết thúc chiến tranh ở Đông Dương.",
+      "Tất cả các ý trên."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "orig": 24,
+    "question": "Lúc 10h30 phút ngày 30-4-1975, diễn ra sự kiện cơ bản nào ở Sài Gòn?",
+    "options": [
+      "Dương Văn Minh kêu gọi “ngừng bắn để điều đình giao chính quyền”",
+      "Xe tăng ta tiến vào dinh độc lập ngụy",
+      "Lá cờ cách mạng tung bay trên phủ tổng thống ngụy",
+      "Chiến dịch Hồ Chí Minh toàn thắng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "orig": 25,
+    "question": "Tên gọi \"Nước Cộng hoà Xã hội chủ nghĩa Việt Nam\" có từ khi nào ?",
+    "options": [
+      "Ngày 2/9/1945.",
+      "Ngày 2/7/1976.",
+      "Ngày 12/2/1951.",
+      "Ngày 2/7/1975."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "orig": 26,
+    "question": "Đặc khu Hoàng Sa là đơn vị hành chính thuộc tỉnh, thành phố nào?",
+    "options": [
+      "Khánh Hòa",
+      "Đà Nẵng",
+      "Phú Yên",
+      "Bình Định"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "orig": 27,
+    "question": "Đường bờ biển của nước ta dài 3260 km, chạy từ:",
+    "options": [
+      "Tỉnh Quảng Ninh đến tỉnh Cà Mau",
+      "Tỉnh Lạng Sơn đến tỉnh Cà Mau",
+      "Tỉnh Quảng Ninh đến tỉnh An Giang",
+      "Tỉnh Lạng Sơn đến tỉnh An Giang"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "orig": 28,
+    "question": "Các nước xếp theo thứ tự giảm dần về dộ dài đường biên giới trên đất liền với nước ta là",
+    "options": [
+      "Trung Quốc, Lào, Campuchia",
+      "Trung Quốc, Campuchia, Lào",
+      "Lào, Campuchia, Trung Quốc",
+      "Lào, Trung Quốc, Campuchia"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "orig": 29,
+    "question": "Vùng biển tiếp liền với lãnh hải và hợp với lãnh hải một vùng biển rộng 200 hải lí tính từ đường cơ sở là",
+    "options": [
+      "Vùng tiếp giáp lãnh hải",
+      "Nội thủy",
+      "Vùng đặc quyền về kinh tế",
+      "Lãnh hải"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "orig": 30,
+    "question": "Các tỉnh (thành phố) của vùng Duyên hải Nam Trung Bộ và Tây Nguyên lần lượt từ Bắc vào Nam là:",
+    "options": [
+      "Đà Nẵng, Quảng Ngãi, Đắk Lắk, Gia Lai, Khánh Hòa, Lâm Đồng",
+      "Đà Nẵng, Đắk Lắk, Quảng Ngãi, Gia Lai, Khánh Hòa, Lâm Đồng",
+      "Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng",
+      "Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Lâm Đồng, Khánh Hòa"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "orig": 31,
+    "question": "Nước ta nằm trong múi giờ thứ mấy?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "orig": 32,
+    "question": "Cấu trúc địa hình của nước ta gồm hai hướng chính là",
+    "options": [
+      "hướng bắc – nam và hướng vòng cung",
+      "hướng tây bắc- đông nam và hướng vòng cung",
+      "hướng đông – tây và hướng vòng cung",
+      "hướng đông bắc- tây nam và hướng vòng cung"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "orig": 33,
+    "question": "Ở nhiều đồng bằng ven biển miền Trung thường có sự phân chia thành 3 dải, lần lượt từ biển vào là",
+    "options": [
+      "vùng trũng thấp – cồn cát, đầm phá – đồng bằng",
+      "cồn cát, đầm phá – đồng bằng – vùng thấp trũng",
+      "cồn cát, dầm phá – vùng thấp trũng- đồng bằng",
+      "đồng bằng – cồn cát – đầm phá – vùng thấp trũng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "orig": 34,
+    "question": "Biển Đông có đặc điểm nào dưới đây?",
+    "options": [
+      "Nằm trong vùng nhiệt đới ẩm gió mùa",
+      "Là một trong các biển nhở ở Thái Bình Dương",
+      "Nằm ở phía Đông của Thái Bình Dương",
+      "Phái đông và đông nam mở ra đại dương"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "orig": 35,
+    "question": "Trong những năm qua, tổng diện tích rừng nước ta đang tăng dần lên nhưng:",
+    "options": [
+      "Diện tích rừng tự nhiên vẫn giảm",
+      "Diện tích rừng trồng vẫn không tăng",
+      "Đọ che phủ rừng vẫn giảm",
+      "Tài nguyên rừng vẫn bị suy thoái"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 36,
+    "orig": 36,
+    "question": "Sau sáp nhập, thành phố Đà Nẵng có bao nhiêu đơn vị hành chính cấp xã, phường, đặc khu?",
+    "options": [
+      "92",
+      "93",
+      "94",
+      "95"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 37,
+    "orig": 37,
+    "question": "Khu đền tháp Mỹ Sơn thuộc địa phương nào hiện nay?",
+    "options": [
+      "Phường Điện Bàn",
+      "Xã Mỹ Sơn",
+      "Phường Hội An"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "orig": 38,
+    "question": "Cù Lao Chàm hiện thuộc địa bàn:",
+    "options": [
+      "Phường Hội An",
+      "Đặc khu Hoàng Sa",
+      "Xã Tân Hiệp",
+      "Phường Điện Bàn"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "orig": 39,
+    "question": "Khu kinh tế mở Chu Lai nằm ở:",
+    "options": [
+      "Hội An",
+      "Điện Bàn",
+      "Núi Thành",
+      "Tam Kỳ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "orig": 40,
+    "question": "Tượng đài Mẹ Việt Nam Anh hùng lớn nhất Việt Nam nằm tại:",
+    "options": [
+      "Phường Bàn Thạch",
+      "Phường Tam Kỳ",
+      "Phường Quảng Phú",
+      "Phường Hương Trà"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 41,
+    "orig": 41,
+    "question": "Quần đảo Trường Sa giải phóng vào ngày, tháng, năm nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "29/4/1975",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "orig": 42,
+    "question": "Làng đúc đồng Phước Kiều là làng nghề truyền thống nổi tiếng của:",
+    "options": [
+      "Phường Điện Bàn Bắc",
+      "Phường Điện Bàn",
+      "Phường An Thắng",
+      "Xã Duy Xuyên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "orig": 43,
+    "question": "Bài chòi Trung Bộ được UNESCO ghi danh là:",
+    "options": [
+      "Di sản tư liệu thế giới",
+      "Di sản văn hóa phi vật thể đại diện của nhân loại",
+      "Di sản thiên nhiên thế giới",
+      "Di sản khảo cổ học thế giới"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "orig": 44,
+    "question": "Nhã nhạc cung đình Huế được UNESCO công nhận vào năm:",
+    "options": [
+      "2001",
+      "2003",
+      "2005",
+      "2008"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "orig": 45,
+    "question": "Không gian văn hóa cồng chiêng Tây Nguyên được UNESCO công nhận năm:",
+    "options": [
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "orig": 46,
+    "question": "Nhà Gươl là công trình sinh hoạt cộng đồng của dân tộc:",
+    "options": [
+      "Chăm",
+      "Cơ Tu",
+      "Ê Đê",
+      "M'Nông"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "orig": 47,
+    "question": "Lễ hội Kate là nét văn hóa đặc sắc của dân tộc:",
+    "options": [
+      "Cơ Tu",
+      "Chăm",
+      "Ba Na",
+      "Xơ Đăng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "orig": 48,
+    "question": "Lễ hội Quán Thế Âm nổi tiếng được tổ chức tại:",
+    "options": [
+      "Bà Nà Hills",
+      "Ngũ Hành Sơn",
+      "Tam Kỳ",
+      "Hải Vân"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "orig": 49,
+    "question": "Món đặc sản \"Bê thui Cầu Mống\" nổi tiếng thuộc địa phương nào?",
+    "options": [
+      "Xã Gò Nổi",
+      "Phường Điện Bàn",
+      "Xã Điện Bàn Bắc",
+      "Phường Điện Bàn Đông"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "orig": 50,
+    "question": "Làng rau Trà Quế nổi tiếng thuộc:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Phường Hội An Tây",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "orig": 51,
+    "question": "Tốc độ tăng trưởng tổng sản phẩm trên địa bàn (GRDP) của thành phố Đà Nẵng trong Quý 1 năm 2026 ước đạt bao nhiêu? A. 6,45% B. 7,18% C. 8,45% D. 9,18%",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 52,
+    "orig": 52,
+    "question": "Quy mô nền kinh tế Đà Nẵng (GRDP) ước tính trong Quý 1/2026 đạt khoảng bao nhiêu tỷ đồng? A. 55.594 tỷ đồng B. 65.200 tỷ đồng C. 75.594 tỷ đồng D. 85.350 tỷ đồng",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "orig": 53,
+    "question": "Năm 2026, thành phố Đà Nẵng đặt mục tiêu phấn đấu đạt tốc độ tăng trưởng kinh tế (GRDP) ở mức bao nhiêu? A. Từ 8% trở lên B. Từ 9% trở lên C. Từ 10% trở lên D. Từ 11% trở lên",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "orig": 54,
+    "question": "Theo định hướng phát triển đến năm 2030 và tầm nhìn, ngành nào sau đây KHÔNG thuộc 5 lĩnh vực mũi nhọn của kinh tế Đà Nẵng? A. Du lịch và dịch vụ chất lượng cao B. Công nghiệp công nghệ thông tin, điện tử, viễn thông C. Nông nghiệp ứng dụng công nghệ cao D. Công nghiệp công nghệ cao gắn với đô thị sáng tạo",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "orig": 55,
+    "question": "Trong giai đoạn 2026–2030, tổng thu ngân sách nhà nước trên địa bàn thành phố Đà Nẵng dự kiến đạt bao nhiêu và tăng thu bình quân mỗi năm là bao nhiêu? A. Đạt 25.700 tỷ đồng, tăng 8%/năm B. Đạt 316.100 tỷ đồng, tăng 9%/năm C. Đạt 392.147 tỷ đồng, tăng 10%/năm D. Đạt 450.000 tỷ đồng, tăng 12%/năm",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "orig": 56,
+    "question": "Thị trường khách quốc tế trọng điểm hàng đầu của du lịch Đà Nẵng trong những năm qua là quốc gia nào? A. Hàn Quốc B. Nhật Bản C. Mỹ D. Pháp",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "orig": 57,
+    "question": "Cảng biển nào tại Đà Nẵng đang được đầu tư nâng cấp để trở thành cảng cửa ngõ quốc tế tại khu vực miền Trung, phục vụ chuỗi cung ứng logistics?",
+    "options": [
+      "Cảng Tiên Sa",
+      "Cảng Sông Hàn",
+      "Cảng Liên Chiểu",
+      "Cảng Kỳ Hà"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "orig": 58,
+    "question": "Đâu là 5 lĩnh vực kinh tế mũi nhọn được thành phố Đà Nẵng tập trung đầu tư phát triển trong giai đoạn hiện nay?",
+    "options": [
+      "Nông nghiệp công nghệ cao, Lâm nghiệp, Thủy sản, Khai khoáng, Du lịch.",
+      "Du lịch và dịch vụ chất lượng cao; Cảng biển, hàng không gắn với logistics; Công nghiệp công nghệ cao; Công nghiệp CNTT, điện tử viễn thông và Kinh tế số.",
+      "Dịch vụ tài chính, Thương mại quốc tế, Nông nghiệp sạch, Công nghiệp nặng.",
+      "Dệt may, Da giày, Khai thác dầu khí, Giáo dục, Y tế."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "orig": 59,
+    "question": "Theo định hướng phát triển đến năm 2030, nền kinh tế Đà Nẵng được xác định dựa trên 3 trụ cột chính nào? A. Công nghiệp chế tạo, Nông nghiệp công nghệ cao, Du lịch. B. Du lịch, Công nghiệp công nghệ cao, Kinh tế biển. C. Dịch vụ tài chính, Kinh tế số, Logistics. D. Giáo dục đào tạo, Y tế chất lượng cao, Du lịch.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "orig": 60,
+    "question": "Khu vực kinh tế nào được chính quyền thành phố đặt mục tiêu trở thành động lực quan trọng nhất, đóng góp từ (60%) đến (62%) GRDP vào năm 2030? A. Khu vực kinh tế nhà nước. B. Khu vực kinh tế tập thể. C. Khu vực kinh tế có vốn đầu tư nước ngoài (FDI). D. Khu vực kinh tế tư nhân",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "orig": 61,
+    "question": "Theo báo cáo của Tổng cục Thống kê, Tổng sản phẩm trong nước (GDP) của Việt Nam trong quý I/2026 đạt mức tăng trưởng ấn tượng là bao nhiêu so với cùng kỳ năm trước? A. 6,80% B. 7,83% C. 8,46% D. 9,10%",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "orig": 62,
+    "question": "Theo định hướng phát triển giai đoạn mới, Chính phủ đã đặt mục tiêu phấn đấu tăng trưởng GDP bình quân hằng năm cho giai đoạn 2026 - 2030 là bao nhiêu?",
+    "options": [
+      "Khoảng 6 - 7%",
+      "Khoảng 7 - 8%",
+      "Từ 8,5% trở lên",
+      "Từ 10% trở lên"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 63,
+    "orig": 63,
+    "question": "Kim ngạch xuất khẩu hàng hóa của Việt Nam trong quý I/2026 đã chứng kiến sự phục hồi mạnh mẽ và đạt con số ước tính là bao nhiêu?",
+    "options": [
+      "Hơn 100 tỷ USD",
+      "122,93 tỷ USD",
+      "135,50 tỷ USD",
+      "150 tỷ USD"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "orig": 64,
+    "question": "Một trong những nhiệm vụ trọng tâm được Chính phủ nhấn mạnh nhằm tạo đột phá phát triển kinh tế năm 2026 là đẩy mạnh chuyển dịch cơ cấu và phát triển các mô hình kinh tế mới bao gồm: A. Kinh tế số, kinh tế xanh và kinh tế tuần hoàn B. Kinh tế nông nghiệp truyền thống và kinh tế gia đình C. Kinh tế tự cấp tự túc và kinh tế bao cấp D. Kinh tế khai khoáng và xuất khẩu thô",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "orig": 65,
+    "question": "Trong bối cảnh độ mở nền kinh tế rất cao, quy định thương mại toàn cầu nào sau đây bắt đầu có hiệu lực đầy đủ vào năm 2026 gây áp lực lên chi phí hàng hóa xuất khẩu của Việt Nam? A. Thuế quan kỹ thuật số toàn cầu (DST) B. Cơ chế điều chỉnh biên giới carbon (CBAM) của châu Âu C. Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) D. Luật Chuỗi cung ứng kỹ thuật số toàn cầu",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "orig": 66,
+    "question": "Theo công bố của Bộ Kế hoạch và Đầu tư và các tổ chức quốc tế (năm 2026), quy mô GDP (tính theo sức mua tương đương - PPP) của Việt Nam xếp thứ mấy trong khu vực Đông Nam Á? A. Thứ 4 B. Thứ 3 C. Thứ 2 D. Thứ nhất",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "orig": 67,
+    "question": "Năm 2026, dưới góc nhìn về quy mô Tổng sản phẩm quốc nội (GDP), nền kinh tế Việt Nam đang xếp thứ bao nhiêu trên thế giới? A. Nằm trong top 20 B. Xếp thứ 32 C. Xếp thứ 42 D. Xếp thứ 50",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "orig": 68,
+    "question": "Mục tiêu tổng quát của Việt Nam là trở thành quốc gia phát triển, có thu nhập cao vào năm nào? A. 2030 B. 2045 C. 2050 D. 2075",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "orig": 69,
+    "question": "Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO) vào năm nào? A. Năm 2005 B. Năm 2006 C. Năm 2007 D. Năm 2008",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "orig": 70,
+    "question": "Hiệp định thương mại tự do thế hệ mới nào sau đây ký kết giữa Việt Nam và Liên minh châu Âu? A. CPTPP B. EVFTA C. RCEP D. RCEP",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "orig": 71,
+    "question": "Theo Tổng cục Thống kê, tỷ lệ đô thị hóa của Việt Nam tiếp tục đà tăng trưởng và dự kiến đạt mục tiêu khoảng bao nhiêu phần trăm (%) vào năm 2026? A. 45% - 48% B. 50% - 52% C. 55% - 58% D. Hơn 60%",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "orig": 72,
+    "question": "Luật Căn cước mới chính thức có hiệu lực từ ngày 01/07/2024. Điểm thay đổi nổi bật nhất về mặt tên gọi của loại giấy tờ quan trọng này là gì? A. Thẻ Căn cước công dân gắn chip B. Thẻ Căn cước C. Thẻ Công dân số D. Chứng minh nhân dân điện tử",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "orig": 73,
+    "question": "Trong bối cảnh già hóa dân số nhanh, Việt Nam đang bước vào thời kỳ dân số già từ năm nào? A. Năm 2011 B. Năm 2018 C. Năm 2021 D. Năm 2025",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "orig": 74,
+    "question": "Tính đến năm 2026, ứng dụng định danh điện tử phổ biến nhất do Bộ Công an Việt Nam vận hành để thay thế nhiều loại giấy tờ vật lý là gì? A. PC-Covid B. VNeID C. VssID D. e-Tax Mobile",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "orig": 75,
+    "question": "Đồng tiền pháp định của Việt Nam do cơ quan nào có thẩm quyền duy nhất phát hành? A. Ngân hàng Nhà nước Việt Nam B. Bộ Tài chính C. Tổng cục Thuế D. Kho bạc Nhà nước",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "orig": 76,
+    "question": "Đến năm 2026, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường theo lộ trình của Bộ luật Lao động 2019 là bao nhiêu? A. Nam 60 tuổi, Nữ 55 tuổi B. Nam 62 tuổi, Nữ 60 tuổi C. Nam 61 tuổi 6 tháng, Nữ 57 tuổi D. Nam 61 tuổi 3 tháng, Nữ 56 tuổi 8 tháng",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "orig": 77,
+    "question": "\"Đại học số\" là mô hình đang được Bộ Giáo dục và Đào tạo khuyến khích thí điểm nhằm mục đích gì? A. Cắt giảm hoàn toàn giảng viên. B. Tăng học phí lên gấp 10 lần. C. Mở rộng cơ hội tiếp cận giáo dục đại học chất lượng cao thông qua nền tảng trực tuyến. D. Chỉ dạy các môn liên quan đến toán học",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "orig": 78,
+    "question": "Việt Nam đặt mục tiêu cam kết đạt mức phát thải ròng bằng \"0\" (Net Zero) vào năm nào tại Hội nghị COP26? A. Năm 2030 B. Năm 2040 C. Năm 2050 D. Năm 2060",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "orig": 79,
+    "question": "Việt Nam luôn nhất quán thực hiện đường lối đối ngoại nào sau đây? A. Độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển. B. Chỉ hợp tác với các nước trong khu vực Đông Nam Á. C. Đóng cửa nền kinh tế để tự cung tự cấp. D. Liên minh quân sự với một nước lớn để chống nước khác.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "orig": 80,
+    "question": "Công trình đường sắt đô thị (Metro) đầu tiên chính thức đi vào vận hành thương mại tại Việt Nam là tuyến nào? A. Tuyến Bến Thành - Suối Tiên (TP.HCM) B. Tuyến Cát Linh - Hà Đông (Hà Nội) C. Tuyến Nhổn - Ga Hà Nội (Hà Nội) D. Tuyến Mỹ Đình - Hoàn Kiếm (Hà Nội)",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "orig": 81,
+    "question": "Trong kiểu gõ VNI, để gõ dấu tiếng Việt người sử dụng phải dùng phím nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "orig": 82,
+    "question": "Hãy cho biết ý nghĩa của từ viết tắt HTTP (HyperText Transfer Protocol) là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Là giao thức truyền tập tin siêu văn bản",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "orig": 83,
+    "question": "Trong Window, để di chuyển thư mục, tập tin phải thực hiện theo những bước nào sau đây?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Chọn thư mục, tập tin cần di chuyển, gõ tổ hợp phím CTRL + X rồi chọn đích đến gõ CTRL + V",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "orig": 84,
+    "question": "Trong Window, để di chuyển thư mục, tập tin phải thực hiện theo những bước nào sau đây?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Chọn thư mục, tập tin cần di chuyển, gõ tổ hợp phím CTRL + X rồi chọn đích đến gõ CTRL + V",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "orig": 85,
+    "question": "Trong Excel 2010, khi thiết lập độ rộng của cột B=0 thì cột B sẽ?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "orig": 86,
+    "question": "Trong Excel 2010, tại ô F3 có công thức =A5 + Sheet2!G4, sau khi sao chép công thức từ ô F3 sang ô F4 thì công thức tại ô F4 là gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "orig": 92,
+    "question": "A6 + Sheet2!G4",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "orig": 87,
+    "question": "Trong Excel 2010, để chèn liên kết ta dùng tổ hợp phím nào?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "orig": 88,
+    "question": "Trong PP 2010, để tạo bộ nút tương ứng với liên kết First Slide, Previous Slide, Next Slide, Last Slide, sử dụng các công cụ của nhóm đối tượng nào trong Shapes?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "orig": 95,
+    "question": "Action Buttons",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "orig": 89,
+    "question": "Trong PP 2010, khi thực hiện hiệu ứng động cho đối tượng trên slide theo kiểu nhấn mạnh, thực hiện lệnh nào sau đây:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "orig": 97,
+    "question": "Chọn đối tượng, chọn Animations, chọn Add Animation, chọn More Emphassis Effects, chọn một kiểu nhấn mạnh",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "orig": 90,
+    "question": "Bộ nhớ ngoài của các máy tính thường bao gồm các thiết bị nào sau đây",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "orig": 99,
+    "question": "CD-ROM, HDD, FDD",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "orig": 91,
+    "question": "Hãy cho biết, phần tên của tập tin có thể đặt tối đa bao nhiêu ký tự?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "128 ký tự",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "orig": 92,
+    "question": "Trong các phần mềm sau đây, phần mềm nào có chức năng nén và giải nén dữ liệu?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "WinRAR, WinZIP, 7-Zip, KGB Archiver, RAR File Open Knife, PeaZip",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "orig": 93,
+    "question": "Trong Word 2010, để canh giữa vùng văn bản được chọn, sử dụng tổ hợp phím nào sau đây?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "orig": 94,
+    "question": "Trong Word 2010, biểu tượng Find có chức năng gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "Tìm kiếm nhanh trong văn bản",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "orig": 95,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là phần mềm bảng tính?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "orig": 96,
+    "question": "Trong Excel 2010, chức năng View\\Freeze Panes\\Freeze Top Row dùng để làm gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "Cố định dòng đầu tiên",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "orig": 97,
+    "question": "Trong PP 2010, để tạo bộ nút tương ứng với liên kết First Slide, Previous Slide, Next Slide, Last Slide, sử dụng các công cụ của nhóm đối tượng nào trong Shapes?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "Action Buttons",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "orig": 98,
+    "question": "Trong PP 2010, để chèn thêm slide mới nhấn tổ hợp phím nào sau đây?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "orig": 99,
+    "question": "RAM là bộ nhớ gì?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "Truy cập ngẫu nhiên, chứa các thông tin khi máy tính đang hoạt động, khi mất điện thông tin sẽ bị mất.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "orig": 100,
+    "question": "Hãy cho biết, quyền lợi của người có giấy phép Apache?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "orig": 116,
+    "question": "Giấy phép Apache cho phép người dùng tự do sử dụng phần mềm với bất kì mục đích nào, tự do phân phối, tự do sửa đổi, tự do phân phối bản sửa đổi mình làm",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "orig": 101,
+    "question": "Hãy cho biết, các biện pháp bảo vệ mắt khi sử dụng máy tính?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "orig": 118,
+    "question": "Đặt màn hình cách mắt ít nhất 50cm; đặt màn hình sao cho cạnh trên của màn hình ngang hoặc thấp hơn so với tầm nhìn của mắt; điều chỉnh độ sáng của màn hình vừa đủ; thường xuyên lau sạch bụi bẩn",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "orig": 102,
+    "question": "Trong Word 2010, check box Outline trong phần Effects của hộp thoại Font có chức năng?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "orig": 120,
+    "question": "Tạo chữ chỉ có nét viền ngoài",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 103,
+    "orig": 103,
+    "question": "Trong Excel 2010, Hãy chỉ ra cú pháp đúng của hàm SUMIF?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 122,
+    "orig": 122,
+    "question": "SUMIF(Range, Criteria, Sum_range)",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 104,
+    "orig": 104,
+    "question": "Trong Excel 2010, Hãy chỉ ra cú pháp đúng của hàm SUMIF?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "orig": 124,
+    "question": "SUMIF(Range, Criteria, Sum_range)",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 105,
+    "orig": 105,
+    "question": "Trong Word 2010, để chèn Clip Art vào văn bản, ta chọn chức năng:",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "orig": 126,
+    "question": "Trên thanh Ribbon \\ Chọn Insert \\ Chọn Clip Art",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "orig": 106,
+    "question": "What is 'Brain Drain' (Chảy máu chất xám)?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "orig": 128,
+    "question": "The loss of highly skilled and educated people to other countries.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "orig": 107,
+    "question": "Which organization is primarily responsible for maintaining international peace and security?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 130,
+    "orig": 130,
+    "question": "The United Nations (UN).",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 108,
+    "orig": 108,
+    "question": "What does ASEAN stand for?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "orig": 132,
+    "question": "Association of Southeast Asian Nations.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 109,
+    "orig": 109,
+    "question": "What was the official theme of DIFF 2026, reflecting the spirit of global unity?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "orig": 134,
+    "question": "United Horizons",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 110,
+    "orig": 110,
+    "question": "To avoid losing their national identity while integrating into the world, youths should be proud of and preserve their cultural _________.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "orig": 111,
+    "question": "Which specific date is celebrated annually as the founding day of the Ho Chi Minh Communist Youth Union (HCYU)?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 137,
+    "orig": 137,
+    "question": "March 26,1931",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 112,
+    "orig": 112,
+    "question": "Regarding mental health in the modern workforce, how is 'Burnout' technically distinguished from general job-related stress by the World Health Organization (WHO)?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "orig": 139,
+    "question": "It is specifically characterized by feelings of energy depletion, increased mental distance from one’s job, and reduced professional efficacy.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "orig": 113,
+    "question": "Climate change 'Greenwashing' refers to which of the following practices?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "orig": 141,
+    "question": "Spending more time and money on marketing a product as environmentally friendly than on actually minimizing its environmental impact.",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "orig": 114,
+    "question": "How does the VNeID application empower Vietnamese youth in their digital citizenship journey?",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 143,
+    "orig": 143,
+    "question": "By integrating essential documents like ID cards and health insurance into a single digital platform for administrative procedures",
+    "options": [],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "orig": 115,
+    "question": "Choose the correct word for the following definition: a place in a campground or by itself where you can camp",
+    "options": [
+      "underground",
+      "campsite",
+      "main road",
+      "highway"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 116,
+    "orig": 116,
+    "question": "Choose the best answer.The Da Nang International Fireworks Festival is very famous and amazing. _____, it has attracted thousands of foreign and domestic visitors.",
+    "options": [
+      "Therefore",
+      "Because",
+      "While",
+      "When"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 117,
+    "orig": 117,
+    "question": ".What causes the most pollution?",
+    "options": [
+      "Factories.",
+      "Animals.",
+      "Hospitals.",
+      "Forest"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "orig": 118,
+    "question": "What is capital of Vietnam?",
+    "options": [
+      "Vien Chan",
+      "Ho Chi Minh city",
+      "Ha Noi",
+      "Da Nang"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "orig": 119,
+    "question": "Which of the following is the source of ground water?",
+    "options": [
+      "Oceans",
+      "Springs",
+      "Rivers",
+      "All"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 120,
+    "orig": 120,
+    "question": "_____________ can help reduce emissions and protect the environment for future generations.",
+    "options": [
+      "Farming sustainable practices",
+      "Sustainable farming practices",
+      "Practices sustainable farming",
+      "Sustainable practices farming"
+    ],
+    "answer": 1
+  }
+]
